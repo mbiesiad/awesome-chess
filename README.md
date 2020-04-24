@@ -5,11 +5,11 @@
 
 ![chessboard](https://github.com/mbiesiad/awesome-chess/blob/master/media/chessboard.png)
 
-_Source: https://www.pexels.com/photo/black-and-beige-chessboard-set-2218384/ by: Lady Escabia_
+_Source: https://www.pexels.com/photo/black-and-beige-chessboard-set-2218384/ by: Lady Escabia (free to use)_
 
 A curated list of assets available on the Internet related to the chess.
 
-Are you chess player or chess enthusiast? :star:
+Are you a **chess player** or **chess enthusiast**? :star:
 
 How would you describe the "chess"? _Art/Sport/Algorithms/Game/Entertainment?_
 
@@ -23,7 +23,28 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
+# Organizations
 
+## FIDE
+
+[FIDE (webpage)](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation) is an international organization based in Switzerland that connects the various national chess federations and acts as the governing body of international chess competition.
+
+# Chess clubs
+
+## Poland
+
+**Katowice**
+* [KS. "Hetman" Katowice](http://hetmankatowice.pl/)
+* [KS. "Start" Katowice](http://www.startkatowice.pl/szachy/)
+
+**Gliwice**
+* [AZS Politechnika Śląska, sekcja szachowa](http://azs.gliwice.pl/index.php/szachy/)
+
+**Warszawa**
+* [KS. "Polonia" Warszawa](http://www.poloniachess.pl/)
+
+**Wrocław**
+* [KS. "Polonia" Wrocław](https://www.polonia.wroclaw.pl/)
 
 # Contributing
 
