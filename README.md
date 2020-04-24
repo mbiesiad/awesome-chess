@@ -190,6 +190,8 @@ Examples of behavior that contributes to creating a positive environment include
 # License
 Free [MIT](LICENSE) license.
 
+See also other [AWESOME here](https://github.com/mbiesiad/awesome-astronomy).
+
 __________________________________________________
 
 Created by @[mbiesiad](https://github.com/mbiesiad)
