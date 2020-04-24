@@ -65,7 +65,37 @@ Europe:
 
 * [ECU](www.europechess.org) - European Chess Union.
 
+* [ECF](https://www.englishchess.org.uk/) - English Chess Federation
+
 * [PZSzach](http://pzszach.pl/) - The Polish Chess Federation.
+
+* [DSB](https://www.schachbund.de/) - German Chess Federation
+
+* [GCF](http://www.gcf.org.ge/en) - Georgian Chess Federation
+
+* [Chess.cZ](https://www.chess.cz/) - Chess Association of the Czech Republic
+
+* [FEDA](https://feda.org/) - Spanish Chess Federation
+
+* [Russian Chess Federation](http://www.ruchess.ru/en/) - Russian Chess Federation (English lang. site)
+
+* [MSSz](http://www.chess.hu/) - The Hungarian Chess Federation
+
+* [NSF](http://www.sjakk.no/) - The Norwegian Chess Federation
+
+* [FSI](http://www.federscacchi.it/) - The Italian Chess Federation
+
+Asia:
+
+* [CCA](http://cca.imsa.cn/) - Chinese Chess Association
+
+* [JCA](http://www.jca-chess.com/) - The Japan Chess Association
+
+* [AICF](http://www.aicf.in/) - The All India Chess Federation
+
+North America:
+
+* [USCF](https://www.uschess.org/index.php) - The United States Chess Federation
 
 
 # Chess clubs
