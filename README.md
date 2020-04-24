@@ -29,7 +29,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Notations](#notations)
 * [Pieces](#pieces)
 * [Chess boards](#chess-boards)
-* [Moves validations](#move-validations)
+* [Move's validations](#moves-validations)
 * [Websites](#websites)
 * [Other](#other)
 * [Contributing](#contributing)
