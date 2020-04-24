@@ -85,6 +85,8 @@ Europe:
 
 * [FSI](http://www.federscacchi.it/) - The Italian Chess Federation
 
+* [FFE](http://www.echecs.asso.fr/) - The French Chess Federation
+
 Asia:
 
 * [CCA](http://cca.imsa.cn/) - Chinese Chess Association
