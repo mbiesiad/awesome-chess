@@ -26,7 +26,12 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [FIDE](#fide)
 * [National chess federations](#national-chess-federations)
 * [Chess clubs](#chess-clubs)
-* [Tools and notations](#tools-and-notations)
+* [Notations](#notations)
+* [Pieces](#pieces)
+* [Chess boards](#chess-boards)
+* [Moves validations](#move-validations)
+* [Websites](#websites)
+* [Other](#other)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -61,7 +66,7 @@ International:
 
 ## National chess federations
 
-Europe:
+**Europe:**
 
 * [ECU](www.europechess.org) - European Chess Union.
 
@@ -87,7 +92,7 @@ Europe:
 
 * [FFE](http://www.echecs.asso.fr/) - The French Chess Federation
 
-Asia:
+**Asia:**
 
 * [CCA](http://cca.imsa.cn/) - Chinese Chess Association
 
@@ -95,7 +100,7 @@ Asia:
 
 * [AICF](http://www.aicf.in/) - The All India Chess Federation
 
-North America:
+**North America:**
 
 * [USCF](https://www.uschess.org/index.php) - The United States Chess Federation
 
@@ -128,9 +133,45 @@ Europe - Countries (and cities; Other - for central):
 **Other**
 * [Centralny Rejestr Członków Polskiego Związku Szachowego](http://www.cr-pzszach.pl/ew/news.php)
 
-# Tools and notations
+# Notations
 
+* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation
+* [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation
 
+# Pieces
+* [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia
+* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikipedia, wikimedia.org
+
+# Chess boards
+* [chessboard-js](https://github.com/caustique/chessboard-js) - repo on GitHub
+* [chessboardjs](https://github.com/oakmac/chessboardjs/) - repo on GitHub
+* [jchess](https://github.com/bmarini/jchess) - repo on GitHub
+* [chess-board](https://github.com/laat/chess-board) - repo on GitHub
+
+# Move's validations
+
+* [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
+* [node-chess](https://www.npmjs.com/package/chess) - is an algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated)
+
+# Websites
+
+* [chess24.com](https://chess24.com/en/play/chess)
+* [chess.com](http://www.chess.com/)
+* [chessbase.com](http://play.chessbase.com/js/apps/playchess/)
+* [lichess.org](http://en.lichess.org/)
+* [freechess.org](http://freechess.org/)
+* [kurnik.pl/szachy](https://www.kurnik.pl/szachy/)
+* [ichess](https://www.ichess.net/)
+* [chesscorner](http://www.chesscorner.com/index.html)
+* [chessgames](https://www.chessgames.com)
+
+# Other
+
+* [Ratings - International Chess Federation](http://ratings.fide.com/)
+* [0x88](https://en.wikipedia.org/wiki/0x88) - The 0x88 chess board representation is a square-centric method of representing the chess board used by some chess programs.
+* [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games, where each bit corresponds to a game board space or piece. This allows parallel bitwise operations to set or query the game state, or determine moves or plays in the game. 
+* [Robot Chess](https://devpost.com/software/robot-chess)
+* [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
 
 # Contributing
 
