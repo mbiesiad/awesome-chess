@@ -102,7 +102,7 @@ North America:
 
 # Chess clubs
 
-Europe - Countries:
+Europe - Countries (and cities; Other - for central):
 
 ## Poland
 
