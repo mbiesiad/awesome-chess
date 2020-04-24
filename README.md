@@ -19,9 +19,22 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 
 # Content
 
+* [Chess engines](#chess-engines)
+* [Books](#books)
+* [Organizations](#organizations)
+* [Chess clubs](#chess-clubs)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
+
+# Chess engines
+
+* [Stochfish Chess](https://stockfishchess.org/) - Strong open source chess engine
+* [Stochfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub
+
+# Books
+
+* [official-stockfish/books](https://github.com/official-stockfish/books) - Chess books used to develop Stockfish 
 
 # Organizations
 
