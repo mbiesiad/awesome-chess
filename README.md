@@ -20,8 +20,10 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 # Content
 
 * [Chess engines](#chess-engines)
+* [Chess computers](#chess-computers)
 * [Books](#books)
 * [Organizations](#organizations)
+* [FIDE](#fide)
 * [Chess clubs](#chess-clubs)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
@@ -31,6 +33,14 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 
 * [Stochfish Chess](https://stockfishchess.org/) - Strong open source chess engine
 * [Stochfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub
+* [Fritz](https://fritz.chessbase.com/) - is a German chess program originally developed for Chessbase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
+* [GNU Chess](http://www.gnu.org/software/chess/) - is a free software chess engine which plays a full game of chess against a human being or other computer program. The goal of GNU Chess is to serve as a basis for research. It has been used in numerous research contexts.
+* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - is a free, open-source, and neural network-based chess engine and distributed computing project.
+
+# Chess computers
+
+* [Deep Blue](www.chessgames.com/perl/chessplayer?pid=29912) - was a chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
+* Belle - was a chess computer developed by Joe Condon (hardware) and Ken Thompson (software) at Bell Labs. In 1983, it was the first machine to achieve master-level play, with a USCF rating of 2250.
 
 # Books
 
