@@ -1,7 +1,7 @@
 # awesome-chess
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 Awesome lists about Chess stuff
+😎 Awesome lists about Chess stuff - "Gens una sumus"!
 
 ![chessboard](https://github.com/mbiesiad/awesome-chess/blob/master/media/chessboard.png)
 
@@ -24,7 +24,9 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Books](#books)
 * [Organizations](#organizations)
 * [FIDE](#fide)
+* [National chess federations](#national-chess-federations)
 * [Chess clubs](#chess-clubs)
+* [Tools and notations](#tools-and-notations)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -45,14 +47,30 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 # Books
 
 * [official-stockfish/books](https://github.com/official-stockfish/books) - Chess books used to develop Stockfish 
+* [Chess Strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - The Project Gutenberg EBook of Chess Strategy, by Edward Lasker
 
 # Organizations
 
+International:
+
 ## FIDE
 
-[FIDE (webpage)](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation) is an international organization based in Switzerland that connects the various national chess federations and acts as the governing body of international chess competition.
+* [FIDE (webpage)](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation) is an international organization based in Switzerland that connects the various national chess federations and acts as the governing body of international chess competition.
+
+* [FIDE Handbook](https://www.fide.com/fide/handbook.html)
+
+## National chess federations
+
+Europe:
+
+* [ECU](www.europechess.org) - European Chess Union.
+
+* [PZSzach](http://pzszach.pl/) - The Polish Chess Federation.
+
 
 # Chess clubs
+
+Europe - Countries:
 
 ## Poland
 
@@ -60,14 +78,27 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [KS. "Hetman" Katowice](http://hetmankatowice.pl/)
 * [KS. "Start" Katowice](http://www.startkatowice.pl/szachy/)
 
+**Kraków**
+* [Krakowski Klub Szachistów](https://kksz.krakow.pl/)
+
 **Gliwice**
 * [AZS Politechnika Śląska, sekcja szachowa](http://azs.gliwice.pl/index.php/szachy/)
+
+**Gorzów Wielkopolski**
+* [KS. "Stilon" Gorzów Wielkopolski](https://pl.wikipedia.org/wiki/Stilon_Gorz%C3%B3w_Wielkopolski_(szachy))
 
 **Warszawa**
 * [KS. "Polonia" Warszawa](http://www.poloniachess.pl/)
 
 **Wrocław**
 * [KS. "Polonia" Wrocław](https://www.polonia.wroclaw.pl/)
+
+**Other**
+* [Centralny Rejestr Członków Polskiego Związku Szachowego](http://www.cr-pzszach.pl/ew/news.php)
+
+# Tools and notations
+
+
 
 # Contributing
 
