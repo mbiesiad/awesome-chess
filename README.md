@@ -107,11 +107,11 @@ International:
 
 **Africa:**
 
-* [ACC](www.africanchessconfederation.com) - African Chess Confederation
+* [ACC](https://www.africanchessconfederation.com) - African Chess Confederation
 
 **Australia (Oceania):**
 
-* [ACF](auschess.org.au) - The Australian Chess Federation
+* [ACF](https://www.auschess.org.au) - The Australian Chess Federation
 
 
 # Chess clubs
