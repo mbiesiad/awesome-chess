@@ -7,7 +7,7 @@
 
 _Source: https://www.pexels.com/photo/black-and-beige-chessboard-set-2218384/ by: Lady Escabia (free to use)_
 
-A curated list of assets available on the Internet related to the chess.
+A curated list of assets available on the Internet related to the Western chess.
 
 Are you a **chess player** or **chess enthusiast**? :star:
 
@@ -32,6 +32,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Move's validations](#moves-validations)
 * [Websites](#websites)
 * [Other](#other)
+* [Other types](#other-types)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -173,6 +174,14 @@ Europe - Countries (and cities; Other - for central):
 * [Robot Chess](https://devpost.com/software/robot-chess)
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - Apple Chess is a 3D chess game for macOS, developed by Apple Inc. It supports chess variants such as crazyhouse and suicide chess. It originates in OpenStep and Mac OS X 10.2 and is based on open source software. Apple redistributes the source code under its own Apple Sample Code License.
+
+# Other types
+
+* [Xiangqi](https://www.xiangqi.com/) - called Chinese chess.
+* [Shogi](https://en.wikipedia.org/wiki/Shogi) - called Japanese chess.
+* [Janggi](https://en.wikipedia.org/wiki/Janggi) - called Korean chess.
+* [Makruk](https://en.wikipedia.org/wiki/Makruk) - called Thai chess.
+* [Sittuyin](https://en.wikipedia.org/wiki/Sittuyin) - also known as Burmese chess.
 
 # Contributing
 
