@@ -172,6 +172,7 @@ Europe - Countries (and cities; Other - for central):
 * [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games, where each bit corresponds to a game board space or piece. This allows parallel bitwise operations to set or query the game state, or determine moves or plays in the game. 
 * [Robot Chess](https://devpost.com/software/robot-chess)
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
+* [Apple Chess](https://opensource.apple.com/source/Chess/) - Apple Chess is a 3D chess game for macOS, developed by Apple Inc. It supports chess variants such as crazyhouse and suicide chess. It originates in OpenStep and Mac OS X 10.2 and is based on open source software. Apple redistributes the source code under its own Apple Sample Code License.
 
 # Contributing
 
