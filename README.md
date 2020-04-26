@@ -105,6 +105,14 @@ International:
 
 * [USCF](https://www.uschess.org/index.php) - The United States Chess Federation
 
+**Africa:**
+
+* [ACC](www.africanchessconfederation.com) - African Chess Confederation
+
+**Australia (Oceania):**
+
+* [ACF](auschess.org.au) - The Australian Chess Federation
+
 
 # Chess clubs
 
