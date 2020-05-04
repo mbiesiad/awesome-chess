@@ -33,6 +33,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Websites](#websites)
 * [Other](#other)
 * [Other types](#other-types)
+* [Conferences](#conferences)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -192,6 +193,10 @@ Europe - Countries (and cities; Other - for central):
 * [Janggi](https://en.wikipedia.org/wiki/Janggi) - called Korean chess.
 * [Makruk](https://en.wikipedia.org/wiki/Makruk) - called Thai chess.
 * [Sittuyin](https://en.wikipedia.org/wiki/Sittuyin) - also known as Burmese chess.
+
+# Conferences
+
+* [London Chess Conference](https://londonchessconference.com/)
 
 # Contributing
 
