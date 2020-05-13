@@ -165,8 +165,10 @@ Europe - Countries (and cities; Other - for central):
 * [node-chess](https://www.npmjs.com/package/chess) - is an algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated)
 
 # Projects
+Repos
 * [angular-chess](https://github.com/theborakompanioni/angular-chess)
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard)
+* [PyChess](https://github.com/pychess/pychess) - a chess client for Linux/Windows
 
 # Websites
 
