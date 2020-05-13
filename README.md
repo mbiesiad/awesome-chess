@@ -185,6 +185,7 @@ Europe - Countries (and cities; Other - for central):
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - Apple Chess is a 3D chess game for macOS, developed by Apple Inc. It supports chess variants such as crazyhouse and suicide chess. It originates in OpenStep and Mac OS X 10.2 and is based on open source software. Apple redistributes the source code under its own Apple Sample Code License.
 * [angular-chess](https://github.com/theborakompanioni/angular-chess)
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard)
+* [lichess in Crowdin](https://crowdin.com/project/lichess) - translations
 
 # Other types
 
