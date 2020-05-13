@@ -30,6 +30,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Pieces](#pieces)
 * [Chess boards](#chess-boards)
 * [Move's validations](#moves-validations)
+* [Projects](#projects)
 * [Websites](#websites)
 * [Other](#other)
 * [Other types](#other-types)
@@ -163,6 +164,10 @@ Europe - Countries (and cities; Other - for central):
 * [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 * [node-chess](https://www.npmjs.com/package/chess) - is an algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated)
 
+# Projects
+* [angular-chess](https://github.com/theborakompanioni/angular-chess)
+* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard)
+
 # Websites
 
 * [chess24.com](https://chess24.com/en/play/chess)
@@ -183,8 +188,6 @@ Europe - Countries (and cities; Other - for central):
 * [Robot Chess](https://devpost.com/software/robot-chess)
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - Apple Chess is a 3D chess game for macOS, developed by Apple Inc. It supports chess variants such as crazyhouse and suicide chess. It originates in OpenStep and Mac OS X 10.2 and is based on open source software. Apple redistributes the source code under its own Apple Sample Code License.
-* [angular-chess](https://github.com/theborakompanioni/angular-chess)
-* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard)
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - translations
 
 # Other types
