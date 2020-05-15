@@ -191,6 +191,7 @@ Repos
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - Apple Chess is a 3D chess game for macOS, developed by Apple Inc. It supports chess variants such as crazyhouse and suicide chess. It originates in OpenStep and Mac OS X 10.2 and is based on open source software. Apple redistributes the source code under its own Apple Sample Code License.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - translations
+* [Play Magnus](https://company.playmagnus.com/play-magnus) - app with GM Magnus Carlsen (App Store & Google Play)
 
 # Other types
 
