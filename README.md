@@ -35,6 +35,7 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 * [Other](#other)
 * [Other types](#other-types)
 * [Conferences](#conferences)
+* [Tournaments](#tournaments)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -204,6 +205,10 @@ Repos
 # Conferences
 
 * [London Chess Conference](https://londonchessconference.com/)
+
+# Tournaments
+
+* [Tata Steel Chess](https://www.tatasteelchess.com/) - is an annual chess tournament held in January in Wijk aan Zee, the Netherlands.
 
 # Contributing
 
