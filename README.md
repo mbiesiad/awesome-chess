@@ -182,6 +182,8 @@ Repos
 * [ichess](https://www.ichess.net/)
 * [chesscorner](http://www.chesscorner.com/index.html)
 * [chessgames](https://www.chessgames.com)
+* [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform. World Chess organizers the Grand Prix cycle and Armageddon Series
+* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - chess tournaments online
 
 # Other
 
