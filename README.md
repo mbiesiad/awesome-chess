@@ -17,7 +17,7 @@ As you know, that's a large field of.. long to say! So any contribution is warml
 
 _Inspired by the awesome list thing. You might want to read the complete [awesome list](https://github.com/sindresorhus/awesome)._
 
-# Content
+# Contents
 
 * [Chess engines](#chess-engines)
 * [Chess computers](#chess-computers)
@@ -42,8 +42,8 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 
 # Chess engines
 
-* [Stochfish Chess](https://stockfishchess.org/) - Strong open source chess engine
-* [Stochfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub
+* [Stochfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
+* [Stochfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub.
 * [Fritz](https://fritz.chessbase.com/) - is a German chess program originally developed for Chessbase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
 * [GNU Chess](http://www.gnu.org/software/chess/) - is a free software chess engine which plays a full game of chess against a human being or other computer program. The goal of GNU Chess is to serve as a basis for research. It has been used in numerous research contexts.
 * [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - is a free, open-source, and neural network-based chess engine and distributed computing project.
@@ -55,8 +55,8 @@ _Inspired by the awesome list thing. You might want to read the complete [awesom
 
 # Books
 
-* [official-stockfish/books](https://github.com/official-stockfish/books) - Chess books used to develop Stockfish 
-* [Chess Strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - The Project Gutenberg EBook of Chess Strategy, by Edward Lasker
+* [official-stockfish/books](https://github.com/official-stockfish/books) - Chess books used to develop Stockfish.
+* [Chess Strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - The Project Gutenberg EBook of Chess Strategy, by Edward Lasker.
 
 # Organizations
 
@@ -74,47 +74,47 @@ International:
 
 * [ECU](www.europechess.org) - European Chess Union.
 
-* [ECF](https://www.englishchess.org.uk/) - English Chess Federation
+* [ECF](https://www.englishchess.org.uk/) - English Chess Federation.
 
 * [PZSzach](http://pzszach.pl/) - The Polish Chess Federation.
 
-* [DSB](https://www.schachbund.de/) - German Chess Federation
+* [DSB](https://www.schachbund.de/) - German Chess Federation.
 
-* [GCF](http://www.gcf.org.ge/en) - Georgian Chess Federation
+* [GCF](http://www.gcf.org.ge/en) - Georgian Chess Federation.
 
-* [Chess.cZ](https://www.chess.cz/) - Chess Association of the Czech Republic
+* [Chess.cZ](https://www.chess.cz/) - Chess Association of the Czech Republic.
 
-* [FEDA](https://feda.org/) - Spanish Chess Federation
+* [FEDA](https://feda.org/) - Spanish Chess Federation.
 
-* [Russian Chess Federation](http://www.ruchess.ru/en/) - Russian Chess Federation (English lang. site)
+* [Russian Chess Federation](http://www.ruchess.ru/en/) - Russian Chess Federation (English lang. site).
 
-* [MSSz](http://www.chess.hu/) - The Hungarian Chess Federation
+* [MSSz](http://www.chess.hu/) - The Hungarian Chess Federation.
 
-* [NSF](http://www.sjakk.no/) - The Norwegian Chess Federation
+* [NSF](http://www.sjakk.no/) - The Norwegian Chess Federation.
 
-* [FSI](http://www.federscacchi.it/) - The Italian Chess Federation
+* [FSI](http://www.federscacchi.it/) - The Italian Chess Federation.
 
-* [FFE](http://www.echecs.asso.fr/) - The French Chess Federation
+* [FFE](http://www.echecs.asso.fr/) - The French Chess Federation.
 
 **Asia:**
 
-* [CCA](http://cca.imsa.cn/) - Chinese Chess Association
+* [CCA](http://cca.imsa.cn/) - Chinese Chess Association.
 
-* [JCA](http://www.jca-chess.com/) - The Japan Chess Association
+* [JCA](http://www.jca-chess.com/) - The Japan Chess Association.
 
-* [AICF](http://www.aicf.in/) - The All India Chess Federation
+* [AICF](http://www.aicf.in/) - The All India Chess Federation.
 
 **North America:**
 
-* [USCF](https://www.uschess.org/index.php) - The United States Chess Federation
+* [USCF](https://www.uschess.org/index.php) - The United States Chess Federation.
 
 **Africa:**
 
-* [ACC](https://www.africanchessconfederation.com) - African Chess Confederation
+* [ACC](https://www.africanchessconfederation.com) - African Chess Confederation.
 
 **Australia (Oceania):**
 
-* [ACF](https://www.auschess.org.au) - The Australian Chess Federation
+* [ACF](https://www.auschess.org.au) - The Australian Chess Federation.
 
 
 # Chess clubs
@@ -147,23 +147,23 @@ Europe - Countries (and cities; Other - for central):
 
 # Notations
 
-* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation
-* [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation
+* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation.
+* [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation.
 
 # Pieces
-* [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia
+* [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia site about chess symbols.
 * [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikipedia, wikimedia.org
 
 # Chess boards
-* [chessboard-js](https://github.com/caustique/chessboard-js) - repo on GitHub
-* [chessboardjs](https://github.com/oakmac/chessboardjs/) - repo on GitHub
-* [jchess](https://github.com/bmarini/jchess) - repo on GitHub
-* [chess-board](https://github.com/laat/chess-board) - repo on GitHub
+* [chessboard-js](https://github.com/caustique/chessboard-js) - repo on GitHub.
+* [chessboardjs](https://github.com/oakmac/chessboardjs/) - repo on GitHub.
+* [jchess](https://github.com/bmarini/jchess) - repo on GitHub.
+* [chess-board](https://github.com/laat/chess-board) - repo on GitHub.
 
 # Move's validations
 
-* [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
-* [node-chess](https://www.npmjs.com/package/chess) - is an algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated)
+* [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
+* [node-chess](https://www.npmjs.com/package/chess) - is an algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 
 # Projects
 Repos
@@ -182,8 +182,8 @@ Repos
 * [ichess](https://www.ichess.net/)
 * [chesscorner](http://www.chesscorner.com/index.html)
 * [chessgames](https://www.chessgames.com)
-* [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform. World Chess organizers the Grand Prix cycle and Armageddon Series
-* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - chess tournaments online
+* [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform. World Chess organizers the Grand Prix cycle and Armageddon Series.
+* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - chess tournaments online.
 
 # Other
 
@@ -193,8 +193,8 @@ Repos
 * [Robot Chess](https://devpost.com/software/robot-chess)
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - Apple Chess is a 3D chess game for macOS, developed by Apple Inc. It supports chess variants such as crazyhouse and suicide chess. It originates in OpenStep and Mac OS X 10.2 and is based on open source software. Apple redistributes the source code under its own Apple Sample Code License.
-* [lichess in Crowdin](https://crowdin.com/project/lichess) - translations
-* [Play Magnus](https://company.playmagnus.com/play-magnus) - app with GM Magnus Carlsen (App Store & Google Play)
+* [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
+* [Play Magnus](https://company.playmagnus.com/play-magnus) - app with GM Magnus Carlsen (App Store & Google Play).
 
 # Other types
 
@@ -233,4 +233,4 @@ See also other [AWESOME here](https://github.com/mbiesiad/awesome-astronomy).
 
 __________________________________________________
 
-Created by @[mbiesiad](https://github.com/mbiesiad)
+Created by @[mbiesiad](https://github.com/mbiesiad) & awesome [contributors](https://github.com/mbiesiad/awesome-chess/graphs/contributors)!
