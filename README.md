@@ -169,7 +169,7 @@ Europe - Countries (and cities; Other - for central):
 Repos
 * [angular-chess](https://github.com/theborakompanioni/angular-chess)
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard)
-* [PyChess](https://github.com/pychess/pychess) - a chess client for Linux/Windows
+* [PyChess](https://github.com/pychess/pychess) - a chess client for Linux/Windows.
 
 # Websites
 
