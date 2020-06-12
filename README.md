@@ -4,7 +4,7 @@ Chess-related awesome list.
 
 A curated list of assets available on the Internet related to the Western chess. "Gens una sumus"!
 
-# Contents
+## Contents
 
 1. [Chess engines](#chess-engines)
 2. [Chess computers](#chess-computers)
@@ -46,12 +46,12 @@ A curated list of assets available on the Internet related to the Western chess.
 
 International:
 
-### FIDE
+## FIDE
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
 * [FIDE Handbook](https://www.fide.com/fide/handbook.html)
 
-### National chess federations
+## National chess federations
 
 **Europe:**
 
@@ -80,7 +80,7 @@ International:
 
 **Africa:**
 
-* [ACC](https://www.africanchessconfederation.com) - African Chess Confederation.
+* ACC - African Chess Confederation.
 
 **Australia (Oceania):**
 
@@ -93,7 +93,7 @@ International:
 
 ## Pieces
 * [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia site about chess symbols.
-* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikipedia, wikimedia.org
+* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org.
 
 ## Chess boards
 * [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub.
@@ -103,7 +103,7 @@ International:
 
 ## Move's validations
 
-* [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
+* [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
 * [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 
 ## Projects
@@ -116,7 +116,6 @@ Repos
 
 * [chess24.com](https://chess24.com/en/play/chess)
 * [chess.com](http://www.chess.com/)
-* [chessbase.com](http://play.chessbase.com/js/apps/playchess/)
 * [lichess.org](http://en.lichess.org/)
 * [freechess.org](http://freechess.org/)
 * [kurnik.pl/szachy](https://www.kurnik.pl/szachy/)
