@@ -4,9 +4,6 @@ Chess-related awesome list.
 
 A curated list of assets available on the Internet related to the Western chess. "Gens una sumus"!
 
-Are you a **chess player** or **chess enthusiast**? :star:
-How would you describe the "chess"? _Art/Sport/Algorithms/Game/Entertainment?_
-
 # Contents
 
 1. [Chess engines](#chess-engines)
@@ -51,8 +48,7 @@ International:
 
 ### FIDE
 
-* [FIDE (webpage)](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
-
+* [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
 * [FIDE Handbook](https://www.fide.com/fide/handbook.html)
 
 ### National chess federations
