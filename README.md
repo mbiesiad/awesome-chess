@@ -125,11 +125,11 @@ Chess online for instance.
 
 ## Other
 
-* [Ratings - International Chess Federation](http://ratings.fide.com/)
+* [Ratings - International Chess Federation](http://ratings.fide.com/) - FIDE ratings and statistics.
 * [0x88](https://en.wikipedia.org/wiki/0x88) - A square-centric method of representing the chess board used by some chess programs.
 * [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games.
 * [Robot Chess](https://devpost.com/software/robot-chess) - Leap Motion chess game.
-* [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
+* [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot) - Voice controlled chess robot.
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - A 3D chess game for macOS, developed by Apple Inc.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
 * [Play Magnus](https://company.playmagnus.com/play-magnus) - App with GM Magnus Carlsen (App Store & Google Play).
