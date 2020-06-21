@@ -1,7 +1,5 @@
 # Awesome Chess [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Chess-related awesome list.
-
 A curated list of assets available on the Internet related to the Western chess. "Gens una sumus"!
 
 ## Contents
@@ -49,7 +47,7 @@ International:
 ## FIDE
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
-* [FIDE Handbook](https://www.fide.com/fide/handbook.html)
+* [FIDE Handbook](https://www.fide.com/fide/handbook.html) - Handbook by FIDE.
 
 ## National chess federations
 
@@ -96,10 +94,10 @@ International:
 * [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org.
 
 ## Chess boards
-* [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub.
-* [chessboardjs](https://github.com/oakmac/chessboardjs/) - Repo on GitHub.
-* [jchess](https://github.com/bmarini/jchess) - Repo on GitHub.
-* [chess-board](https://github.com/laat/chess-board) - Repo on GitHub.
+* [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub, responsive mobile-first JavaScript chessboard library.
+* [chessboardjs](https://github.com/oakmac/chessboardjs/) - JavaScript chessboard, repo on GitHub.
+* [jchess](https://github.com/bmarini/jchess) - A jQuery-based javascript library for parsing and displaying chess games, repo on GitHub.
+* [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions, repo on GitHub.
 
 ## Move's validations
 
@@ -108,12 +106,12 @@ International:
 
 ## Projects
 Repos
-* [angular-chess](https://github.com/theborakompanioni/angular-chess)
-* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard)
+* [angular-chess](https://github.com/theborakompanioni/angular-chess) - Chess directive for AngularJS.
+* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
 * [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
 
 ## Websites
-
+Chess online for instance.
 * [chess24.com](https://chess24.com/en/play/chess)
 * [chess.com](http://www.chess.com/)
 * [lichess.org](http://en.lichess.org/)
@@ -130,7 +128,7 @@ Repos
 * [Ratings - International Chess Federation](http://ratings.fide.com/)
 * [0x88](https://en.wikipedia.org/wiki/0x88) - A square-centric method of representing the chess board used by some chess programs.
 * [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games.
-* [Robot Chess](https://devpost.com/software/robot-chess)
+* [Robot Chess](https://devpost.com/software/robot-chess) - Leap Motion chess game.
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot)
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - A 3D chess game for macOS, developed by Apple Inc.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
