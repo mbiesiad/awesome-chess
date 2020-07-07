@@ -2,6 +2,10 @@
 
 A curated list of assets available on the Internet related to the Western chess. "Gens una sumus"!
 
+![chessboard](https://github.com/mbiesiad/awesome-chess/blob/master/media/chessboard.png)
+
+_Source: https://www.pexels.com/photo/black-and-beige-chessboard-set-2218384/ by: Lady Escabia (free to use)_
+
 ## Contents
 
 1. [Chess engines](#chess-engines)
@@ -91,7 +95,7 @@ International:
 
 ## Pieces
 * [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia site about chess symbols.
-* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org.
+* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org about PNG chess pieces.
 
 ## Chess boards
 * [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub, responsive mobile-first JavaScript chessboard library.
@@ -112,14 +116,14 @@ Repos
 
 ## Websites
 Chess online for instance.
-* [chess24.com](https://chess24.com/en/play/chess)
-* [chess.com](http://www.chess.com/)
-* [lichess.org](http://en.lichess.org/)
-* [freechess.org](http://freechess.org/)
-* [kurnik.pl/szachy](https://www.kurnik.pl/szachy/)
-* [ichess](https://www.ichess.net/)
-* [chesscorner](http://www.chesscorner.com/index.html)
-* [chessgames](https://www.chessgames.com)
+* [chess24.com](https://chess24.com/en/play/chess) - Free live chess with humans or computers, watch games, chat and join tournaments.
+* [chess.com](http://www.chess.com/) - The chess community with +30 million members around the world.
+* [lichess.org](http://en.lichess.org/) - Lichess is a free and open-source Internet chess server run by a non-profit organization of the same name.
+* [freechess.org](http://freechess.org/) - Free Internet Chess Server (FICS).
+* [kurnik.pl/szachy](https://www.kurnik.pl/szachy/) - Games online, chess section.
+* [ichess](https://www.ichess.net/) - Chess courses & videos.
+* [chesscorner](http://www.chesscorner.com/index.html) - Chess site created by a chess enthusiast for chess enthusiasts, especially those new to this fascinating game.
+* [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
 * [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
 * [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 
@@ -144,7 +148,7 @@ Chess online for instance.
 
 ## Conferences
 
-* [London Chess Conference](https://londonchessconference.com/)
+* [London Chess Conference](https://londonchessconference.com/) - Site of London Chess Conference.
 
 ## Tournaments
 
