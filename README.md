@@ -2,29 +2,29 @@
 
 A curated list of assets available on the Internet related to the Western chess. "Gens una sumus"!
 
-![chessboard](https://github.com/mbiesiad/awesome-chess/blob/master/media/chessboard.png)
+![chess](https://github.com/mbiesiad/awesome-chess/blob/master/media/chess.png)
 
-_Source: https://www.pexels.com/photo/black-and-beige-chessboard-set-2218384/ by: Lady Escabia (free to use)_
+_Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
 ## Contents
 
-1. [Chess engines](#chess-engines)
-2. [Chess computers](#chess-computers)
-3. [Books](#books)
-4. [Organizations](#organizations)
-5. [FIDE](#fide)
-6. [National chess federations](#national-chess-federations)
-7. [Notations](#notations)
-8. [Pieces](#pieces)
-9. [Chess boards](#chess-boards)
-10. [Move's validations](#moves-validations)
-11. [Projects](#projects)
-12. [Websites](#websites)
-13. [Other](#other)
-14. [Other types](#other-types)
-15. [Conferences](#conferences)
-16. [Tournaments](#tournaments)
-17. [Code of Conduct](#code-of-conduct)
+* [Chess engines](#chess-engines)
+* [Chess computers](#chess-computers)
+* [Books](#books)
+* [Organizations](#organizations)
+* [FIDE](#fide)
+* [Notations](#notations)
+* [Pieces](#pieces)
+* [Chess boards](#chess-boards)
+* [Move's validations](#moves-validations)
+* [Projects](#projects)
+* [Websites](#websites)
+* [National chess federations](#national-chess-federations)
+* [Other](#other)
+* [Other types](#other-types)
+* [Conferences](#conferences)
+* [Tournaments](#tournaments)
+* [Code of Conduct](#code-of-conduct)
 
 ## Chess engines
 
@@ -52,6 +52,45 @@ International:
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
 * [FIDE Handbook](https://www.fide.com/fide/handbook.html) - Handbook by FIDE.
+
+## Notations
+
+* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation.
+* [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation.
+
+## Pieces
+* [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia site about chess symbols.
+* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org about PNG chess pieces.
+
+## Chess boards
+* [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub, responsive mobile-first JavaScript chessboard library.
+* [chessboardjs](https://github.com/oakmac/chessboardjs/) - JavaScript chessboard, repo on GitHub.
+* [jchess](https://github.com/bmarini/jchess) - A jQuery-based JavaScript library for parsing and displaying chess games, repo on GitHub.
+* [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions, repo on GitHub.
+
+## Move's validations
+
+* [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
+* [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
+
+## Projects
+Repos
+* [angular-chess](https://github.com/theborakompanioni/angular-chess) - Chess directive for AngularJS.
+* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
+* [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
+
+## Websites
+Chess online for instance.
+* [chess24.com](https://chess24.com/en/play/chess) - Free live chess with humans or computers, watch games, chat and join tournaments.
+* [chess.com](http://www.chess.com/) - The chess community with +30 million members around the world.
+* [lichess.org](http://en.lichess.org/) - Lichess is a free and open-source Internet chess server run by a non-profit organization of the same name.
+* [freechess.org](http://freechess.org/) - Free Internet Chess Server (FICS).
+* [kurnik.pl/szachy](https://www.kurnik.pl/szachy/) - Games online, chess section.
+* [ichess](https://www.ichess.net/) - Chess courses & videos.
+* [chesscorner](http://www.chesscorner.com/index.html) - Chess site created by a chess enthusiast for chess enthusiasts, especially those new to this fascinating game.
+* [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
+* [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
+* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 
 ## National chess federations
 
@@ -87,45 +126,6 @@ International:
 **Australia (Oceania):**
 
 * [ACF](https://www.auschess.org.au) - The Australian Chess Federation.
-
-## Notations
-
-* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation.
-* [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation.
-
-## Pieces
-* [Chess symbols in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode) - Wikipedia site about chess symbols.
-* [PNG chess pieces](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) - Wikimedia.org about PNG chess pieces.
-
-## Chess boards
-* [chessboard-js](https://github.com/caustique/chessboard-js) - Repo on GitHub, responsive mobile-first JavaScript chessboard library.
-* [chessboardjs](https://github.com/oakmac/chessboardjs/) - JavaScript chessboard, repo on GitHub.
-* [jchess](https://github.com/bmarini/jchess) - A jQuery-based javascript library for parsing and displaying chess games, repo on GitHub.
-* [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions, repo on GitHub.
-
-## Move's validations
-
-* [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
-* [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
-
-## Projects
-Repos
-* [angular-chess](https://github.com/theborakompanioni/angular-chess) - Chess directive for AngularJS.
-* [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
-* [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
-
-## Websites
-Chess online for instance.
-* [chess24.com](https://chess24.com/en/play/chess) - Free live chess with humans or computers, watch games, chat and join tournaments.
-* [chess.com](http://www.chess.com/) - The chess community with +30 million members around the world.
-* [lichess.org](http://en.lichess.org/) - Lichess is a free and open-source Internet chess server run by a non-profit organization of the same name.
-* [freechess.org](http://freechess.org/) - Free Internet Chess Server (FICS).
-* [kurnik.pl/szachy](https://www.kurnik.pl/szachy/) - Games online, chess section.
-* [ichess](https://www.ichess.net/) - Chess courses & videos.
-* [chesscorner](http://www.chesscorner.com/index.html) - Chess site created by a chess enthusiast for chess enthusiasts, especially those new to this fascinating game.
-* [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
-* [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
-* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 
 ## Other
 
