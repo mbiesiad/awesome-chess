@@ -8,23 +8,29 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
 ## Contents
 
-* [Chess engines](#chess-engines)
-* [Chess computers](#chess-computers)
-* [Books](#books)
-* [Organizations](#organizations)
-* [FIDE](#fide)
-* [Notations](#notations)
-* [Pieces](#pieces)
-* [Chess boards](#chess-boards)
-* [Move's validations](#moves-validations)
-* [Projects](#projects)
-* [Websites](#websites)
-* [National chess federations](#national-chess-federations)
-* [Other](#other)
-* [Other types](#other-types)
-* [Conferences](#conferences)
-* [Tournaments](#tournaments)
-* [Code of Conduct](#code-of-conduct)
+1. [Translations](#translations)
+2. [Chess engines](#chess-engines)
+3. [Chess computers](#chess-computers)
+4. [Books](#books)
+5. [Organizations](#organizations)
+6. [FIDE](#fide)
+7. [Notations](#notations)
+8. [Pieces](#pieces)
+9. [Chess boards](#chess-boards)
+10. [Move's validations](#moves-validations)
+11. [Projects](#projects)
+12. [Websites](#websites)
+13. [National chess federations](#national-chess-federations)
+14. [Other](#other)
+15. [Other types](#other-types)
+16. [Conferences](#conferences)
+17. [Tournaments](#tournaments)
+18. [Code of Conduct](#code-of-conduct)
+
+## Translations
+
+* [English](https://github.com/mbiesiad/awesome-chess)
+* [Polish](https://github.com/mbiesiad/awesome-chess/tree/pl_PL)
 
 ## Chess engines
 
