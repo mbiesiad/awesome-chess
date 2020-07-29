@@ -159,6 +159,7 @@ Chess online for instance.
 ## Tournaments
 
 * [Tata Steel Chess](https://www.tatasteelchess.com/) - An annual chess tournament held in January in Wijk aan Zee, the Netherlands.
+* [Biel International Chess Festival](https://www.bielchessfestival.ch/Homepage.html) - Homepage of the Biel International Chess Festival.
 
 ## Contributing
 
