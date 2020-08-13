@@ -143,6 +143,8 @@ Chess online for instance.
 * [Apple Chess](https://opensource.apple.com/source/Chess/) - A 3D chess game for macOS, developed by Apple Inc.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
 * [Play Magnus](https://company.playmagnus.com/play-magnus) - App with GM Magnus Carlsen (App Store & Google Play).
+* [Judit Polgar](https://www.juditpolgar.com/) - Judit Polgar page.
+* [Hikaru Nakamura](https://hikarunakamura.com/) - Hikaru Nakamura page.
 
 ## Other types
 
