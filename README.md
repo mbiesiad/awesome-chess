@@ -145,7 +145,7 @@ Chess online for instance.
 * [Play Magnus](https://company.playmagnus.com/play-magnus) - App with GM Magnus Carlsen (App Store & Google Play).
 * [Judit Polgar](https://www.juditpolgar.com/) - Judit Polgar page.
 * [Hikaru Nakamura](https://hikarunakamura.com/) - Hikaru Nakamura page.
-* [Magnus Carlsen](https://hikarunakamura.com/) - Magnus Carlsen page.
+* [Magnus Carlsen](https://www.magnuscarlsen.com/en/) - Magnus Carlsen page.
 
 ## Other types
 
