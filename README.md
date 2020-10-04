@@ -97,6 +97,7 @@ Chess online for instance.
 * [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
 * [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
 * [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
+* [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 
 ## National chess federations
 
