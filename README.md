@@ -169,6 +169,7 @@ Chess online for instance.
 * [Biel International Chess Festival](https://www.bielchessfestival.ch/Homepage.html) - Homepage of the Biel International Chess Festival.
 * [Legends of Chess](https://chess24.com/en/watch/live-tournaments/chess24-legends-of-chess-2020) - The chess24 Legends of Chess site for 2020.
 * [FIDE Online Olympiad](https://olymp.fide.com/news) - FIDE Online Olympiad site.
+* [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
 
 ## Contributing
 
