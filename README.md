@@ -98,6 +98,8 @@ Chess online for instance.
 * [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
 * [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
+* [chesslang](https://chesslang.com/) - A platform for chess academies.
+* [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
 
 ## National chess federations
 
@@ -170,6 +172,7 @@ Chess online for instance.
 * [Legends of Chess](https://chess24.com/en/watch/live-tournaments/chess24-legends-of-chess-2020) - The chess24 Legends of Chess site for 2020.
 * [FIDE Online Olympiad](https://olymp.fide.com/news) - FIDE Online Olympiad site.
 * [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
+* [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
 
 ## Contributing
 
