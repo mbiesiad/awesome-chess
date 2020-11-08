@@ -25,6 +25,7 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 * [Other types](#other-types)
 * [Conferences](#conferences)
 * [Tournaments](#tournaments)
+* [Movies](#movies)
 * [Code of Conduct](#code-of-conduct)
 
 ## Translations
@@ -173,6 +174,13 @@ Chess online for instance.
 * [FIDE Online Olympiad](https://olymp.fide.com/news) - FIDE Online Olympiad site.
 * [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
 * [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
+
+## Movies
+
+* [Searching for Bobby Fischer](https://www.imdb.com/title/tt0108065/) - It is based on the life of prodigy chess player Joshua Waitzkin.
+* [Magnus](https://www.imdb.com/title/tt5471480/) - Movie about Magnus Carlsen, Norwegian chess prodigy.
+* [Bobby Fischer Against the World](https://www.imdb.com/title/tt1777551/) - A documentary feature film that explores the life of chess Grandmaster Bobby Fischer.
+* [The Queen's Gambit](https://www.imdb.com/title/tt10048342/) - An American drama television miniseries based on Walter Tevis's 1983 novel of the same name.
 
 ## Contributing
 
