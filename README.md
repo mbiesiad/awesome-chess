@@ -85,6 +85,7 @@ Repos
 * [angular-chess](https://github.com/theborakompanioni/angular-chess) - Chess directive for AngularJS.
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
 * [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
+* [FlutterChess](https://github.com/deven98/FlutterChess) - A concept chess app for Flutter.
 
 ## Websites
 Chess online for instance.
