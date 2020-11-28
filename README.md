@@ -101,7 +101,8 @@ Chess online for instance.
 * [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
-* [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
+* [infoszach](https://infoszach.pl/) - Site with news about chess (Polish language).
+* [Chess Results](https://chess-results.com/) - A powerful and dedicated server only for chess-results.
 
 ## National chess federations
 
