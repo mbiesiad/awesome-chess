@@ -101,8 +101,9 @@ Chess online for instance.
 * [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
-* [infoszach](https://infoszach.pl/) - Site with news about chess (Polish language).
-* [Chess Results](https://chess-results.com/) - A powerful and dedicated server only for chess-results.
+* [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
+* [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
+* [Chess-Results](https://chess-results.com/) - The international chess tournaments results server.
 
 ## National chess federations
 
@@ -176,6 +177,7 @@ Chess online for instance.
 * [FIDE Online Olympiad](https://olymp.fide.com/news) - FIDE Online Olympiad site.
 * [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
 * [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
+* [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
 
 ## Movies
 
