@@ -101,6 +101,7 @@ Chess online for instance.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
+* [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
 
 ## National chess federations
 
