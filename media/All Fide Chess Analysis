@@ -1,0 +1,1916 @@
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.17"]
+[Round "1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[WhiteEloChange "1"]
+[BlackTitle "GM"]
+[BlackElo "2842"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+[BlackEloChange "-1"]
+
+1. e4 {[%clk 1:40:54]} e5 {[%clk 1:40:44]} 2. Nf3 {[%clk 1:41:17]} Nc6 {[%clk
+1:41:03]} 3. Bb5 {[%clk 1:41:46]} a6 {[%clk 1:41:24]} 4. Ba4 {[%clk 1:42:12]} Nf6
+{[%clk 1:41:49]} 5. O-O {[%clk 1:42:38]} b5 {[%clk 1:42:02]} 6. Bb3 {[%clk
+1:43:00]} Bc5 {[%clk 1:42:26]} 7. a4 {[%clk 1:43:21]} Rb8 {[%clk 1:42:49]} 8. c3
+{[%clk 1:43:15]} d6 {[%clk 1:43:03]} 9. d4 {[%clk 1:43:38]} Bb6 {[%clk 1:43:27]}
+10. a5 {[%clk 1:44:00]} Ba7 {[%clk 1:43:47]} 11. h3 {[%clk 1:44:06]} O-O {[%clk
+1:43:16]} 12. Be3 {[%clk 1:40:48]} exd4 {[%clk 1:42:42]} 13. cxd4 {[%clk
+1:39:57]} Nb4 {[%clk 1:42:51]} 14. Nc3 {[%clk 1:37:10]} Bb7 {[%clk 1:42:47]} 15.
+Ng5 {[%clk 1:18:08]} Qe7 {[%clk 1:41:58]} 16. e5 {[%clk 1:14:44]} dxe5 {[%clk
+1:41:14]} 17. Nxf7 {[%clk 1:14:45]} e4 {[%clk 1:41:06]} 18. Nd6+ {[%clk 1:07:04]}
+Kh8 {[%clk 1:40:48]} 19. Nxb7 {[%clk 1:07:24]} Rxb7 {[%clk 1:41:12]} 20. Qe2
+{[%clk 0:56:54]} c6 {[%clk 1:38:50]} 21. Rad1 {[%clk 0:50:00]} Rd7 {[%clk
+1:33:14]} 22. f3 {[%clk 0:49:31]} exf3 {[%clk 1:27:35]} 23. Rxf3 {[%clk 0:49:32]}
+c5 {[%clk 1:15:12]} 24. dxc5 {[%clk 0:48:34]} Rxd1+ {[%clk 1:15:17]} 25. Nxd1
+{[%clk 0:40:18]} Bxc5 {[%clk 1:12:49]} 26. Qf2 {[%clk 0:40:38]} Bd6 {[%clk
+1:03:41]} 27. Nc3 {[%clk 0:35:45]} Nd3 {[%clk 0:58:12]} 28. Qe2 {[%clk 0:27:15]}
+Nc5 {[%clk 0:52:24]} 29. Ba2 {[%clk 0:21:15]} Re8 {[%clk 0:37:46]} 30. Qd2 {[%clk
+0:15:20]} Nce4 {[%clk 0:33:33]} 31. Nxe4 {[%clk 0:14:53]} Nxe4 {[%clk 0:34:27]}
+32. Qd3 {[%clk 0:11:34]} Ng5 {[%clk 0:11:08]} 33. Bxg5 {[%clk 0:10:15]} Bc5+
+{[%clk 0:11:33]} 34. Kh1 {[%clk 0:10:21]} Qxg5 {[%clk 0:11:52]} 35. Rf1 {[%clk
+0:08:12]} Qe5 {[%clk 0:10:06]} 36. Qd5 {[%clk 0:08:09]} Qe2 {[%clk 0:05:22]} 37.
+Qf5 {[%clk 0:07:47]} Qe5 {[%clk 0:03:10]} 38. Qxe5 {[%clk 0:07:11]} Rxe5 {[%clk
+0:03:35]} 39. Rd1 {[%clk 0:06:50]} g6 {[%clk 0:03:29]} 40. Bd5 {[%clk 0:06:57]}
+Re7 {[%clk 0:02:37]} 41. Bc6 {[%clk 0:06:28]} Re2 {[%clk 0:01:11]} 42. Bb7 {[%clk
+0:04:31]} Rxb2 {[%clk 0:01:23]} 43. Bxa6 {[%clk 0:04:56]} Ra2 {[%clk 0:01:03]}
+44. Bxb5 {[%clk 0:05:20]} Rxa5 {[%clk 0:01:29]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.17"]
+[Round "1"]
+[White "Ding, Liren"]
+[Black "Wang, Hao"]
+[Result "0-1"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2805"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[WhiteEloChange "-6"]
+[BlackTitle "GM"]
+[BlackElo "2762"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+[BlackEloChange "6"]
+
+1. c4 {[%clk 1:40:59]} e5 {[%clk 1:40:57]} 2. g3 {[%clk 1:41:04]} Nf6 {[%clk
+1:37:20]} 3. Bg2 {[%clk 1:41:26]} Bc5 {[%clk 1:37:46]} 4. d3 {[%clk 1:39:45]} O-O
+{[%clk 1:37:39]} 5. Nc3 {[%clk 1:36:10]} c6 {[%clk 1:33:40]} 6. Nf3 {[%clk
+1:35:50]} d6 {[%clk 1:33:57]} 7. O-O {[%clk 1:35:05]} Re8 {[%clk 1:34:24]} 8. Na4
+{[%clk 1:27:31]} Bb4 {[%clk 1:21:04]} 9. a3 {[%clk 1:27:33]} Ba5 {[%clk 1:21:28]}
+10. b4 {[%clk 1:24:38]} Bc7 {[%clk 1:21:54]} 11. e4 {[%clk 1:22:44]} a5 {[%clk
+1:16:48]} 12. Bb2 {[%clk 1:20:23]} Na6 {[%clk 1:15:01]} 13. b5 {[%clk 1:13:53]}
+cxb5 {[%clk 1:12:20]} 14. cxb5 {[%clk 1:14:20]} Nc5 {[%clk 1:12:45]} 15. Nxc5
+{[%clk 0:59:55]} dxc5 {[%clk 1:13:06]} 16. a4 {[%clk 1:00:24]} Bg4 {[%clk
+0:59:15]} 17. Ra3 {[%clk 0:58:51]} Nd7 {[%clk 0:54:46]} 18. h3 {[%clk 0:49:26]}
+Bh5 {[%clk 0:47:04]} 19. Qb1 {[%clk 0:48:42]} b6 {[%clk 0:38:20]} 20. Nd2 {[%clk
+0:48:06]} Nf8 {[%clk 0:38:42]} 21. Bf3 {[%clk 0:43:58]} Qg5 {[%clk 0:32:32]} 22.
+h4 {[%clk 0:40:02]} Qg6 {[%clk 0:30:00]} 23. Qd1 {[%clk 0:35:55]} Bxf3 {[%clk
+0:30:21]} 24. Qxf3 {[%clk 0:36:24]} h5 {[%clk 0:26:29]} 25. Qf5 {[%clk 0:28:56]}
+Rad8 {[%clk 0:16:42]} 26. Qxg6 {[%clk 0:28:41]} Nxg6 {[%clk 0:17:07]} 27. Kg2
+{[%clk 0:21:32]} f6 {[%clk 0:16:37]} 28. Nc4 {[%clk 0:21:32]} Kf7 {[%clk
+0:16:55]} 29. Bc1 {[%clk 0:21:05]} Rd7 {[%clk 0:15:37]} 30. f4 {[%clk 0:19:24]}
+exf4 {[%clk 0:08:27]} 31. Bxf4 {[%clk 0:19:51]} Nxf4+ {[%clk 0:08:51]} 32. gxf4
+{[%clk 0:20:18]} f5 {[%clk 0:09:14]} 33. e5 {[%clk 0:15:49]} Re6 {[%clk 0:08:51]}
+34. Kf3 {[%clk 0:15:41]} Rg6 {[%clk 0:08:47]} 35. Ne3 {[%clk 0:02:52]} Ke6 {[%clk
+0:09:03]} 36. Rd1 {[%clk 0:00:41]} Bd8 {[%clk 0:05:15]} 37. Ra2 {[%clk 0:01:11]}
+Rd4 {[%clk 0:01:43]} 38. Nc2 {[%clk 0:01:41]} Rd5 {[%clk 0:01:43]} 39. Ne3 {[%clk
+0:01:37]} Rd7 {[%clk 0:01:49]} 40. Rdd2 {[%clk 0:00:33]} Bxh4 {[%clk 0:01:12]}
+41. Rg2 {[%clk 0:47:10]} Rg4 {[%clk 0:48:42]} 42. Rh2 {[%clk 0:43:04]} g6 {[%clk
+0:28:44]} 43. Nxg4 {[%clk 0:43:16]} fxg4+ {[%clk 0:29:06]} 44. Ke3 {[%clk
+0:43:23]} Be7 {[%clk 0:29:30]} 45. Rac2 {[%clk 0:41:00]} h4 {[%clk 0:27:34]} 0-1
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.17"]
+[Round "1"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2763"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[WhiteEloChange "-5"]
+[BlackTitle "GM"]
+[BlackElo "2774"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+[BlackEloChange "5"]
+
+1. Nf3 {[%clk 1:41:00]} Nf6 {[%clk 1:40:34]} 2. c4 {[%clk 1:40:36]} c5 {[%clk
+1:40:56]} 3. Nc3 {[%clk 1:40:59]} Nc6 {[%clk 1:41:09]} 4. d4 {[%clk 1:41:21]}
+cxd4 {[%clk 1:41:30]} 5. Nxd4 {[%clk 1:41:49]} e6 {[%clk 1:41:51]} 6. g3 {[%clk
+1:42:09]} Qb6 {[%clk 1:41:20]} 7. Ndb5 {[%clk 1:42:17]} Ne5 {[%clk 1:40:24]} 8.
+Bf4 {[%clk 1:42:23]} Nfg4 {[%clk 1:39:47]} 9. e3 {[%clk 1:42:15]} a6 {[%clk
+1:40:07]} 10. h3 {[%clk 1:42:24]} axb5 {[%clk 1:39:04]} 11. hxg4 {[%clk 1:42:44]}
+Nxc4 {[%clk 1:38:59]} 12. Rc1 {[%clk 1:42:57]} d5 {[%clk 1:27:52]} 13. b3 {[%clk
+1:43:11]} Bb4 {[%clk 1:10:02]} 14. bxc4 {[%clk 1:43:03]} Ra3 {[%clk 1:10:18]} 15.
+Be5 {[%clk 1:42:10]} f6 {[%clk 1:08:40]} 16. Bd4 {[%clk 1:39:45]} Qa5 {[%clk
+1:08:20]} 17. Be2 {[%clk 1:39:05]} Bxc3+ {[%clk 1:04:50]} 18. Rxc3 {[%clk
+1:39:22]} Rxc3 {[%clk 1:05:11]} 19. Kf1 {[%clk 1:39:45]} b4 {[%clk 0:56:32]} 20.
+g5 {[%clk 1:22:14]} e5 {[%clk 0:48:01]} 21. Bxc3 {[%clk 1:19:44]} bxc3 {[%clk
+0:48:19]} 22. gxf6 {[%clk 1:04:50]} gxf6 {[%clk 0:48:16]} 23. Qb1 {[%clk
+0:58:00]} Qc7 {[%clk 0:39:46]} 24. Qd3 {[%clk 0:35:33]} b5 {[%clk 0:27:59]} 25.
+Qxc3 {[%clk 0:29:09]} bxc4 {[%clk 0:27:56]} 26. e4 {[%clk 0:28:37]} dxe4 {[%clk
+0:21:38]} 27. Rh4 {[%clk 0:20:39]} Be6 {[%clk 0:20:08]} 28. Rxe4 {[%clk 0:20:37]}
+O-O {[%clk 0:20:10]} 29. Bxc4 {[%clk 0:14:51]} Kg7 {[%clk 0:18:08]} 30. Qb3
+{[%clk 0:13:15]} Rb8 {[%clk 0:17:09]} 31. Bxe6 {[%clk 0:07:35]} Rxb3 {[%clk
+0:17:21]} 32. Rg4+ {[%clk 0:04:33]} Kf8 {[%clk 0:17:41]} 33. Bxb3 {[%clk
+0:04:46]} Qc1+ {[%clk 0:17:39]} 34. Kg2 {[%clk 0:05:15]} Qc6+ {[%clk 0:17:27]}
+35. Kg1 {[%clk 0:04:04]} h5 {[%clk 0:17:23]} 36. Rg8+ {[%clk 0:03:45]} Ke7 {[%clk
+0:17:52]} 37. Rg7+ {[%clk 0:03:37]} Kd6 {[%clk 0:18:09]} 38. Rh7 {[%clk 0:01:51]}
+Qf3 {[%clk 0:18:28]} 39. Rh8 {[%clk 0:00:36]} e4 {[%clk 0:17:58]} 40. Rd8+ {[%clk
+0:00:42]} Ke7 {[%clk 0:16:19]} 41. Bd1 {[%clk 0:44:46]} Qc3 {[%clk 1:01:38]} 42.
+Rd5 {[%clk 0:45:08]} h4 {[%clk 1:01:31]} 43. gxh4 {[%clk 0:44:44]} f5 {[%clk
+0:59:49]} 44. Rxf5 {[%clk 0:35:04]} Qe1+ {[%clk 1:00:10]} 45. Kg2 {[%clk
+0:34:07]} Qxd1 {[%clk 1:00:37]} 46. Rg5 {[%clk 0:34:24]} Qa1 {[%clk 0:49:23]} 47.
+Rg4 {[%clk 0:25:30]} Qb1 {[%clk 0:49:52]} 48. Rg3 {[%clk 0:23:21]} Qxa2 {[%clk
+0:50:17]} 49. Rh3 {[%clk 0:14:15]} Qd5 {[%clk 0:50:05]} 50. Kf1 {[%clk 0:12:22]}
+Qd1+ {[%clk 0:50:30]} 51. Kg2 {[%clk 0:12:49]} Qg4+ {[%clk 0:49:55]} 52. Rg3
+{[%clk 0:12:38]} Qh5 {[%clk 0:50:22]} 53. Ra3 {[%clk 0:09:18]} Qd5 {[%clk
+0:48:50]} 54. Kg1 {[%clk 0:08:10]} Kf6 {[%clk 0:48:51]} 55. Rg3 {[%clk 0:06:58]}
+Qd1+ {[%clk 0:48:22]} 56. Kg2 {[%clk 0:07:27]} Kf5 {[%clk 0:48:23]} 57. Rg5+
+{[%clk 0:07:20]} Kf4 {[%clk 0:48:40]} 58. Rg3 {[%clk 0:07:48]} Qd5 {[%clk
+0:39:15]} 59. Kf1 {[%clk 0:07:56]} Qd2 {[%clk 0:39:42]} 60. Kg2 {[%clk 0:07:31]}
+Qd1 {[%clk 0:37:28]} 61. Re3 {[%clk 0:07:23]} Kf5 {[%clk 0:37:08]} 62. Rg3 {[%clk
+0:07:45]} Kf6 {[%clk 0:37:31]} 63. Rh3 {[%clk 0:04:46]} Kg6 {[%clk 0:36:54]} 64.
+Rg3+ {[%clk 0:02:04]} Kh5 {[%clk 0:37:14]} 65. Rh3 {[%clk 0:02:15]} Qb1 {[%clk
+0:37:26]} 66. Re3 {[%clk 0:01:12]} Kxh4 {[%clk 0:37:46]} 67. Rg3 {[%clk 0:01:34]}
+Kh5 {[%clk 0:38:06]} 68. Rh3+ {[%clk 0:13:34]} Kg4 {[%clk 0:53:32]} 69. Rg3+
+{[%clk 0:14:02]} Kf4 {[%clk 0:53:55]} 70. Re3 {[%clk 0:14:31]} Qd1 {[%clk
+0:53:40]} 71. Ra3 {[%clk 0:13:43]} Ke5 {[%clk 0:54:02]} 72. Rg3 {[%clk 0:14:05]}
+Kd4 {[%clk 0:54:27]} 73. Re3 {[%clk 0:14:24]} Qd3 {[%clk 0:54:41]} 0-1
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.17"]
+[Round "1"]
+[White "Grischuk, Alexander"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2777"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[WhiteEloChange "-1"]
+[BlackTitle "GM"]
+[BlackElo "2698"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+[BlackEloChange "1"]
+
+1. c4 {[%clk 1:37:08]} e5 {[%clk 1:40:33]} 2. g3 {[%clk 1:34:55]} Nf6 {[%clk
+1:40:12]} 3. Bg2 {[%clk 1:34:20]} Bc5 {[%clk 1:40:24]} 4. d3 {[%clk 1:28:19]} d5
+{[%clk 1:40:26]} 5. cxd5 {[%clk 1:28:11]} Nxd5 {[%clk 1:40:46]} 6. Nc3 {[%clk
+1:24:13]} Nxc3 {[%clk 1:41:02]} 7. bxc3 {[%clk 1:24:27]} O-O {[%clk 1:40:50]} 8.
+Qc2 {[%clk 1:20:20]} Nc6 {[%clk 1:28:54]} 9. Nf3 {[%clk 1:19:29]} h6 {[%clk
+1:22:39]} 10. O-O {[%clk 1:18:32]} Rb8 {[%clk 1:20:09]} 11. Bb2 {[%clk 1:04:42]}
+b6 {[%clk 1:14:26]} 12. Rad1 {[%clk 0:56:50]} Qe8 {[%clk 0:37:41]} 13. e4 {[%clk
+0:36:25]} Bd6 {[%clk 0:28:24]} 14. Nh4 {[%clk 0:28:17]} Bg4 {[%clk 0:18:30]} 15.
+f3 {[%clk 0:10:35]} Bd7 {[%clk 0:14:31]} 16. f4 {[%clk 0:10:09]} exf4 {[%clk
+0:09:58]} 17. gxf4 {[%clk 0:09:22]} Na5 {[%clk 0:09:55]} 18. Rde1 {[%clk
+0:07:01]} Qd8 {[%clk 0:08:39]} 19. Qf2 {[%clk 0:06:30]} Nc4 {[%clk 0:08:01]} 20.
+Bc1 {[%clk 0:05:31]} Bc5 {[%clk 0:07:08]} 21. d4 {[%clk 0:05:57]} Be7 {[%clk
+0:07:33]} 22. Nf3 {[%clk 0:06:00]} f5 {[%clk 0:07:38]} 23. Qe2 {[%clk 0:05:10]}
+Nd6 {[%clk 0:06:14]} 24. e5 {[%clk 0:03:45]} Ne4 {[%clk 0:05:39]} 25. Nd2 {[%clk
+0:03:03]} Nxd2 {[%clk 0:06:03]} 26. Bxd2 {[%clk 0:02:44]} Be6 {[%clk 0:05:22]}
+27. Qd3 {[%clk 0:01:15]} Qd7 {[%clk 0:02:44]} 28. Be3 {[%clk 0:00:48]} c6 {[%clk
+0:02:22]} 29. a4 {[%clk 0:01:04]} a6 {[%clk 0:01:46]} 30. Qxa6 {[%clk 0:01:02]}
+Ra8 {[%clk 0:01:43]} 31. Qxb6 {[%clk 0:01:02]} Bd5 {[%clk 0:02:11]} 32. Qb2
+{[%clk 0:00:52]} Rxa4 {[%clk 0:02:27]} 33. Ra1 {[%clk 0:01:04]} Rfa8 {[%clk
+0:02:13]} 34. Rxa4 {[%clk 0:00:36]} Rxa4 {[%clk 0:02:36]} 35. Ra1 {[%clk
+0:00:35]} Rxa1+ {[%clk 0:01:55]} 36. Qxa1 {[%clk 0:01:04]} Bxg2 {[%clk 0:02:01]}
+37. Kxg2 {[%clk 0:01:30]} Qd5+ {[%clk 0:02:25]} 38. Kf2 {[%clk 0:01:20]} Bh4+
+{[%clk 0:01:46]} 39. Ke2 {[%clk 0:01:48]} Qg2+ {[%clk 0:01:02]} 40. Kd3 {[%clk
+0:02:15]} Qe4+ {[%clk 0:01:08]} 41. Kd2 {[%clk 0:02:29]} Qg2+ {[%clk 0:38:43]}
+1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.18"]
+[Round "2"]
+[White "Caruana, Fabiano"]
+[Black "Alekseenko, Kirill"]
+[Result "1-0"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2842"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[WhiteEloChange "3"]
+[BlackTitle "GM"]
+[BlackElo "2698"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+[BlackEloChange "-3"]
+
+1. d4 {[%clk 1:40:55]} Nf6 {[%clk 1:40:42]} 2. c4 {[%clk 1:41:20]} e6 {[%clk
+1:41:21]} 3. Nc3 {[%clk 1:41:44]} Bb4 {[%clk 1:40:36]} 4. f3 {[%clk 1:42:07]} d5
+{[%clk 1:39:56]} 5. a3 {[%clk 1:42:05]} Be7 {[%clk 1:40:18]} 6. e4 {[%clk
+1:42:29]} dxe4 {[%clk 1:40:17]} 7. fxe4 {[%clk 1:42:52]} c5 {[%clk 1:40:44]} 8.
+d5 {[%clk 1:43:14]} exd5 {[%clk 1:39:57]} 9. exd5 {[%clk 1:43:35]} O-O {[%clk
+1:39:27]} 10. Be2 {[%clk 1:44:02]} Re8 {[%clk 1:33:40]} 11. Nf3 {[%clk 1:42:27]}
+Bg4 {[%clk 1:31:30]} 12. O-O {[%clk 1:42:48]} Nbd7 {[%clk 1:30:15]} 13. d6 {[%clk
+1:36:41]} Bf8 {[%clk 1:30:02]} 14. h3 {[%clk 1:36:39]} Bh5 {[%clk 1:18:51]} 15.
+Nb5 {[%clk 1:36:41]} Re6 {[%clk 0:43:11]} 16. Bf4 {[%clk 1:30:22]} a6 {[%clk
+0:38:23]} 17. Nc7 {[%clk 1:23:32]} Re4 {[%clk 0:38:09]} 18. Bh2 {[%clk 1:21:39]}
+Rc8 {[%clk 0:26:11]} 19. g4 {[%clk 1:14:56]} Bxg4 {[%clk 0:16:15]} 20. hxg4
+{[%clk 1:15:09]} Nxg4 {[%clk 0:16:38]} 21. Bd3 {[%clk 1:12:47]} Nxh2 {[%clk
+0:15:28]} 22. Bxe4 {[%clk 1:11:37]} Nxf1 {[%clk 0:15:13]} 23. Qxf1 {[%clk
+1:11:05]} Bxd6 {[%clk 0:13:24]} 24. Nd5 {[%clk 1:10:58]} g6 {[%clk 0:05:48]} 25.
+Qh3 {[%clk 1:07:20]} Kg7 {[%clk 0:06:15]} 26. Kh1 {[%clk 1:06:57]} Ne5 {[%clk
+0:05:32]} 27. Nh4 {[%clk 1:03:09]} h5 {[%clk 0:03:41]} 28. Rg1 {[%clk 1:00:03]}
+Bf8 {[%clk 0:00:32]} 29. Nf4 {[%clk 0:48:27]} Ng4 {[%clk 0:00:57]} 30. Nxh5+
+{[%clk 0:48:29]} gxh5 {[%clk 0:01:12]} 31. Bf5 {[%clk 0:43:28]} Be7 {[%clk
+0:01:10]} 32. Bxg4 {[%clk 0:42:21]} hxg4 {[%clk 0:01:04]} 33. Qxg4+ {[%clk
+0:42:04]} Bg5 {[%clk 0:01:31]} 34. Qh5 {[%clk 0:41:44]} 1-0
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.18"]
+[Round "2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2774"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[BlackTitle "GM"]
+[BlackElo "2777"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+1. e4 {[%clk 1:40:56]} e5 {[%clk 1:35:18]} 2. Nf3 {[%clk 1:41:20]} Nc6 {[%clk
+1:35:42]} 3. Bb5 {[%clk 1:41:45]} Nf6 {[%clk 1:35:46]} 4. O-O {[%clk 1:41:59]}
+Nxe4 {[%clk 1:36:04]} 5. d4 {[%clk 1:42:23]} Nd6 {[%clk 1:35:52]} 6. Bxc6 {[%clk
+1:42:49]} dxc6 {[%clk 1:36:17]} 7. dxe5 {[%clk 1:43:12]} Nf5 {[%clk 1:36:42]} 8.
+Qxd8+ {[%clk 1:43:36]} Kxd8 {[%clk 1:37:11]} 9. Nc3 {[%clk 1:43:59]} Ke8 {[%clk
+1:35:57]} 10. h3 {[%clk 1:44:24]} h5 {[%clk 1:36:13]} 11. Bf4 {[%clk 1:44:41]}
+Be7 {[%clk 1:35:07]} 12. Rad1 {[%clk 1:45:03]} Be6 {[%clk 1:35:03]} 13. Ng5
+{[%clk 1:45:27]} Rh6 {[%clk 1:35:14]} 14. Rfe1 {[%clk 1:45:50]} Bb4 {[%clk
+1:35:02]} 15. a3 {[%clk 1:46:47]} Bxc3 {[%clk 1:35:13]} 16. bxc3 {[%clk 1:47:13]}
+h4 {[%clk 1:22:36]} 17. Kh2 {[%clk 1:46:35]} Kf8 {[%clk 1:15:44]} 18. Rb1 {[%clk
+1:32:47]} b6 {[%clk 1:08:51]} 19. Rb4 {[%clk 1:30:38]} Re8 {[%clk 0:31:09]} 20.
+Ra4 {[%clk 1:25:46]} a5 {[%clk 0:29:16]} 21. Bd2 {[%clk 1:26:12]} c5 {[%clk
+0:21:18]} 22. Rf4 {[%clk 1:24:39]} Rh5 {[%clk 0:15:20]} 23. Rf3 {[%clk 1:24:42]}
+Kg8 {[%clk 0:09:03]} 24. Bc1 {[%clk 1:18:22]} Ne7 {[%clk 0:06:58]} 25. g4 {[%clk
+1:08:10]} hxg3+ {[%clk 0:05:42]} 26. fxg3 {[%clk 1:08:34]} Nc6 {[%clk 0:02:45]}
+27. Bf4 {[%clk 1:05:06]} Bc8 {[%clk 0:01:40]} 28. Rfe3 {[%clk 1:02:46]} Nd8
+{[%clk 0:02:26]} 29. Kg2 {[%clk 1:01:23]} Ne6 {[%clk 0:02:18]} 30. Nxe6 {[%clk
+1:01:47]} Bxe6 {[%clk 0:02:41]} 31. g4 {[%clk 1:01:54]} Rh8 {[%clk 0:03:06]} 32.
+Bg5 {[%clk 1:01:58]} Kh7 {[%clk 0:03:25]} 33. Kg3 {[%clk 1:02:01]} Rb8 {[%clk
+0:01:44]} 34. Rd3 {[%clk 0:58:56]} Rhe8 {[%clk 0:01:38]} 35. Red1 {[%clk
+0:58:34]} b5 {[%clk 0:01:53]} 36. Rd8 {[%clk 0:58:36]} b4 {[%clk 0:01:09]} 37.
+Rxe8 {[%clk 0:59:19]} Rxe8 {[%clk 0:01:36]} 38. cxb4 {[%clk 0:59:13]} cxb4 {[%clk
+0:02:04]} 39. axb4 {[%clk 0:59:39]} axb4 {[%clk 0:02:32]} 40. Rd8 {[%clk
+0:59:38]} Rxd8 {[%clk 0:03:24]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.18"]
+[Round "2"]
+[White "Wang, Hao"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2762"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[BlackTitle "GM"]
+[BlackElo "2763"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+1. c4 {[%clk 1:41:25]} c5 {[%clk 1:41:18]} 2. Nc3 {[%clk 1:40:45]} g6 {[%clk
+1:40:43]} 3. g3 {[%clk 1:41:04]} Bg7 {[%clk 1:41:15]} 4. Bg2 {[%clk 1:41:11]} Nc6
+{[%clk 1:41:30]} 5. Nf3 {[%clk 1:41:23]} e6 {[%clk 1:41:25]} 6. h4 {[%clk
+1:38:27]} h6 {[%clk 1:41:55]} 7. d4 {[%clk 1:35:25]} cxd4 {[%clk 1:40:26]} 8. Nb5
+{[%clk 1:35:53]} d5 {[%clk 1:40:51]} 9. cxd5 {[%clk 1:35:56]} exd5 {[%clk
+1:41:21]} 10. O-O {[%clk 1:34:11]} Nf6 {[%clk 1:41:12]} 11. Bf4 {[%clk 1:26:06]}
+O-O {[%clk 1:41:16]} 12. Qc1 {[%clk 1:11:18]} a6 {[%clk 0:54:28]} 13. Nbxd4
+{[%clk 1:09:25]} Nxd4 {[%clk 0:42:52]} 14. Nxd4 {[%clk 1:08:50]} Kh7 {[%clk
+0:43:20]} 15. Rd1 {[%clk 0:43:30]} Re8 {[%clk 0:42:09]} 16. Qc7 {[%clk 0:34:40]}
+Qxc7 {[%clk 0:41:50]} 17. Bxc7 {[%clk 0:33:51]} Bg4 {[%clk 0:40:46]} 18. f3
+{[%clk 0:32:41]} Rac8 {[%clk 0:40:14]} 19. Ba5 {[%clk 0:31:02]} Bd7 {[%clk
+0:40:24]} 20. Kf2 {[%clk 0:31:24]} h5 {[%clk 0:38:51]} 21. Bf1 {[%clk 0:26:56]}
+Ng8 {[%clk 0:36:23]} 22. Bc3 {[%clk 0:25:55]} Bh6 {[%clk 0:33:08]} 23. Rd3 {[%clk
+0:18:53]} Ne7 {[%clk 0:31:56]} 24. Rad1 {[%clk 0:19:17]} Bg7 {[%clk 0:29:54]} 25.
+e3 {[%clk 0:17:55]} Kg8 {[%clk 0:30:04]} 26. R3d2 {[%clk 0:17:13]} Ba4 {[%clk
+0:22:06]} 27. Re1 {[%clk 0:16:48]} Bd7 {[%clk 0:18:36]} 28. Ne2 {[%clk 0:16:06]}
+Rc7 {[%clk 0:08:35]} 29. Bxg7 {[%clk 0:14:57]} Kxg7 {[%clk 0:08:57]} 30. Nc3
+{[%clk 0:14:18]} Be6 {[%clk 0:09:44]} 31. Red1 {[%clk 0:14:37]} b5 {[%clk
+0:08:42]} 32. a3 {[%clk 0:13:08]} Rb8 {[%clk 0:08:23]} 33. Ne2 {[%clk 0:12:07]}
+a5 {[%clk 0:06:53]} 34. Nd4 {[%clk 0:11:38]} Bd7 {[%clk 0:06:45]} 35. b4 {[%clk
+0:10:03]} axb4 {[%clk 0:04:15]} 36. axb4 {[%clk 0:10:24]} Ra8 {[%clk 0:04:40]}
+37. Rb2 {[%clk 0:10:04]} Ra4 {[%clk 0:04:38]} 38. Rdb1 {[%clk 0:08:51]} Rb7
+{[%clk 0:03:55]} 39. Rc1 {[%clk 0:09:01]} Rba7 {[%clk 0:02:32]} 40. Nxb5 {[%clk
+0:06:52]} Bxb5 {[%clk 0:02:57]} 41. Bxb5 {[%clk 0:07:44]} Ra3 {[%clk 0:03:26]}
+42. Be2 {[%clk 0:03:00]} Rb7 {[%clk 0:44:32]} 43. b5 {[%clk 0:41:10]} Rb6 {[%clk
+0:43:59]} 44. Rd1 {[%clk 0:30:59]} Kf6 {[%clk 0:40:44]} 45. Rdd2 {[%clk 0:30:23]}
+Rb7 {[%clk 0:37:35]} 46. Bd3 {[%clk 0:24:24]} Nc8 {[%clk 0:37:27]} 47. e4 {[%clk
+0:23:57]} dxe4 {[%clk 0:36:54]} 48. Bxe4 {[%clk 0:24:18]} Rb6 {[%clk 0:37:21]}
+49. Rd7 {[%clk 0:18:23]} Rc3 {[%clk 0:29:18]} 50. Rb7 {[%clk 0:11:58]} Rxb7
+{[%clk 0:27:39]} 51. Bxb7 {[%clk 0:12:24]} Nb6 {[%clk 0:27:56]} 52. Be4 {[%clk
+0:12:29]} Ke5 {[%clk 0:27:10]} 53. Rd2 {[%clk 0:08:12]} Rb3 {[%clk 0:26:42]} 54.
+Bc6 {[%clk 0:05:46]} Nc4 {[%clk 0:24:41]} 55. f4+ {[%clk 0:04:57]} Kf6 {[%clk
+0:21:03]} 56. Rd8 {[%clk 0:04:17]} Rb2+ {[%clk 0:21:00]} 57. Kf3 {[%clk 0:04:21]}
+Nd2+ {[%clk 0:17:36]} 58. Ke3 {[%clk 0:04:37]} Nf1+ {[%clk 0:18:06]} 59. Kf3
+{[%clk 0:03:08]} Nd2+ {[%clk 0:17:19]} 60. Ke2 {[%clk 0:02:00]} Ne4+ {[%clk
+0:17:16]} 61. Kf3 {[%clk 0:01:02]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.18"]
+[Round "2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[WhiteEloChange "6"]
+[BlackTitle "GM"]
+[BlackElo "2805"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+[BlackEloChange "-6"]
+
+1. e4 {[%clk 1:41:25]} e5 {[%clk 1:40:55]} 2. Nf3 {[%clk 1:41:19]} Nc6 {[%clk
+1:41:19]} 3. Bb5 {[%clk 1:41:44]} a6 {[%clk 1:41:44]} 4. Ba4 {[%clk 1:42:08]} Nf6
+{[%clk 1:42:08]} 5. O-O {[%clk 1:42:35]} Be7 {[%clk 1:42:35]} 6. Re1 {[%clk
+1:42:58]} b5 {[%clk 1:42:57]} 7. Bb3 {[%clk 1:43:24]} O-O {[%clk 1:43:21]} 8. h3
+{[%clk 1:43:39]} Bb7 {[%clk 1:43:27]} 9. d3 {[%clk 1:43:49]} d6 {[%clk 1:43:45]}
+10. a3 {[%clk 1:44:09]} Qd7 {[%clk 1:42:08]} 11. Nc3 {[%clk 1:43:12]} Rfe8 {[%clk
+1:41:08]} 12. Bd2 {[%clk 1:43:14]} Nd8 {[%clk 1:32:27]} 13. Nd5 {[%clk 1:42:33]}
+Nxd5 {[%clk 1:24:50]} 14. exd5 {[%clk 1:42:54]} c5 {[%clk 1:22:34]} 15. a4 {[%clk
+1:36:31]} f5 {[%clk 1:14:13]} 16. axb5 {[%clk 1:25:54]} axb5 {[%clk 1:14:36]} 17.
+Rxa8 {[%clk 1:26:19]} Bxa8 {[%clk 1:15:03]} 18. c4 {[%clk 1:22:03]} Nf7 {[%clk
+1:05:07]} 19. cxb5 {[%clk 1:19:42]} g5 {[%clk 1:05:22]} 20. Nh2 {[%clk 1:14:29]}
+Kg7 {[%clk 0:58:51]} 21. Bc4 {[%clk 1:10:36]} Kg6 {[%clk 0:59:01]} 22. g4 {[%clk
+1:05:25]} Nh6 {[%clk 0:57:18]} 23. Qf3 {[%clk 0:55:48]} Bd8 {[%clk 0:57:22]} 24.
+Qg2 {[%clk 0:50:55]} f4 {[%clk 0:55:27]} 25. b4 {[%clk 0:40:47]} Bb6 {[%clk
+0:39:58]} 26. Qe4+ {[%clk 0:36:28]} Kg7 {[%clk 0:39:50]} 27. bxc5 {[%clk
+0:32:15]} dxc5 {[%clk 0:40:12]} 28. Nf3 {[%clk 0:31:31]} Nf7 {[%clk 0:40:34]} 29.
+Bc3 {[%clk 0:31:55]} Bc7 {[%clk 0:38:19]} 30. b6 {[%clk 0:29:51]} Bb8 {[%clk
+0:38:48]} 31. Qf5 {[%clk 0:29:49]} Qxf5 {[%clk 0:37:35]} 32. gxf5 {[%clk
+0:29:41]} Kf6 {[%clk 0:36:21]} 33. Nd2 {[%clk 0:24:28]} Rd8 {[%clk 0:36:39]} 34.
+d6 {[%clk 0:17:00]} Rxd6 {[%clk 0:35:20]} 35. Rb1 {[%clk 0:11:21]} Nd8 {[%clk
+0:35:07]} 36. b7 {[%clk 0:09:45]} Bxb7 {[%clk 0:33:49]} 37. Ba5 {[%clk 0:10:06]}
+1-0
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.19"]
+[Round "3"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2805"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[WhiteEloChange "6"]
+[BlackTitle "GM"]
+[BlackElo "2842"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+[BlackEloChange "-6"]
+
+1. d4 {[%clk 1:40:56]} d5 {[%clk 1:41:24]} 2. c4 {[%clk 1:41:20]} c6 {[%clk
+1:41:21]} 3. Nf3 {[%clk 1:40:46]} Nf6 {[%clk 1:41:39]} 4. Nc3 {[%clk 1:39:58]}
+dxc4 {[%clk 1:40:30]} 5. a4 {[%clk 1:40:24]} Bf5 {[%clk 1:40:42]} 6. Ne5 {[%clk
+1:40:37]} e6 {[%clk 1:40:42]} 7. f3 {[%clk 1:40:16]} Bb4 {[%clk 1:40:40]} 8. Nxc4
+{[%clk 1:32:56]} O-O {[%clk 1:40:08]} 9. Kf2 {[%clk 1:33:21]} e5 {[%clk 1:40:28]}
+10. Nxe5 {[%clk 1:16:44]} Bc2 {[%clk 1:40:35]} 11. Qd2 {[%clk 1:09:32]} c5 {[%clk
+1:40:43]} 12. d5 {[%clk 0:53:25]} Bb3 {[%clk 1:40:44]} 13. e4 {[%clk 0:53:39]}
+Re8 {[%clk 1:41:09]} 14. Qf4 {[%clk 0:41:34]} c4 {[%clk 1:40:59]} 15. Nxc4 {[%clk
+0:39:49]} Nbd7 {[%clk 1:41:21]} 16. Be3 {[%clk 0:34:06]} Nf8 {[%clk 1:41:12]} 17.
+Bd4 {[%clk 0:25:52]} Ng6 {[%clk 1:40:41]} 18. Qf5 {[%clk 0:25:10]} Bxc4 {[%clk
+1:34:25]} 19. Bxc4 {[%clk 0:25:32]} Qc7 {[%clk 1:34:39]} 20. Be2 {[%clk 0:18:30]}
+Bc5 {[%clk 1:32:45]} 21. Bxc5 {[%clk 0:16:21]} Qxc5+ {[%clk 1:18:48]} 22. Kf1
+{[%clk 0:16:50]} h6 {[%clk 1:18:29]} 23. Rd1 {[%clk 0:15:22]} Qb6 {[%clk
+1:08:24]} 24. Rd2 {[%clk 0:14:53]} Qe3 {[%clk 1:07:51]} 25. Rc2 {[%clk 0:15:09]}
+a6 {[%clk 1:04:34]} 26. Qh3 {[%clk 0:12:50]} b5 {[%clk 1:03:00]} 27. Qg3 {[%clk
+0:13:01]} b4 {[%clk 1:01:33]} 28. Nd1 {[%clk 0:11:43]} Qb3 {[%clk 1:01:53]} 29.
+Rd2 {[%clk 0:10:54]} Qxa4 {[%clk 0:58:42]} 30. Qf2 {[%clk 0:10:28]} Qd7 {[%clk
+0:46:45]} 31. g3 {[%clk 0:09:38]} Qh3+ {[%clk 0:46:26]} 32. Kg1 {[%clk 0:09:26]}
+a5 {[%clk 0:45:22]} 33. Qd4 {[%clk 0:08:41]} Nh5 {[%clk 0:35:36]} 34. Nf2 {[%clk
+0:08:38]} Qd7 {[%clk 0:36:00]} 35. f4 {[%clk 0:08:32]} Nhxf4 {[%clk 0:36:09]} 36.
+gxf4 {[%clk 0:09:02]} Nxf4 {[%clk 0:36:30]} 37. Kf1 {[%clk 0:07:35]} Qd6 {[%clk
+0:33:30]} 38. Rg1 {[%clk 0:07:40]} f6 {[%clk 0:29:36]} 39. Bb5 {[%clk 0:07:16]}
+Re7 {[%clk 0:22:55]} 40. b3 {[%clk 0:04:23]} Rf8 {[%clk 0:19:32]} 41. Rc2 {[%clk
+0:42:27]} Ne6 {[%clk 1:05:21]} 42. Qe3 {[%clk 0:41:46]} Ng5 {[%clk 1:05:12]} 43.
+h4 {[%clk 0:41:41]} Nf7 {[%clk 1:05:30]} 44. Rc6 {[%clk 0:39:43]} Qb8 {[%clk
+1:04:21]} 45. Qc5 {[%clk 0:37:48]} Qd8 {[%clk 0:58:36]} 46. Rxf6 {[%clk 0:35:52]}
+Kh8 {[%clk 0:55:38]} 47. Rf5 {[%clk 0:35:27]} Rc7 {[%clk 0:53:28]} 48. Bc6 {[%clk
+0:35:49]} a4 {[%clk 0:53:37]} 49. bxa4 {[%clk 0:31:40]} b3 {[%clk 0:54:00]} 50.
+Rg3 {[%clk 0:29:45]} b2 {[%clk 0:50:16]} 51. Rb3 {[%clk 0:30:06]} Nd6 {[%clk
+0:50:21]} 52. Rxf8+ {[%clk 0:30:13]} Qxf8 {[%clk 0:50:46]} 53. Rxb2 {[%clk
+0:30:00]} Qf4 {[%clk 0:51:03]} 54. Rb8+ {[%clk 0:24:48]} Kh7 {[%clk 0:51:28]} 55.
+Qc2 {[%clk 0:25:02]} Re7 {[%clk 0:44:56]} 56. e5+ {[%clk 0:24:35]} Nf5 {[%clk
+0:45:21]} 57. Qe4 {[%clk 0:15:17]} Qc1+ {[%clk 0:44:25]} 58. Kg2 {[%clk 0:15:27]}
+g6 {[%clk 0:44:48]} 59. Rb3 {[%clk 0:14:08]} 1-0
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.19"]
+[Round "3"]
+[White "Giri, Anish"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2763"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+
+1. d4 {[%clk 1:40:56]} Nf6 {[%clk 1:41:25]} 2. c4 {[%clk 1:41:20]} g6 {[%clk
+1:41:22]} 3. Nc3 {[%clk 1:41:41]} d5 {[%clk 1:41:47]} 4. cxd5 {[%clk 1:42:07]}
+Nxd5 {[%clk 1:42:14]} 5. Bd2 {[%clk 1:42:31]} Bg7 {[%clk 1:37:53]} 6. e4 {[%clk
+1:42:40]} Nxc3 {[%clk 1:38:20]} 7. Bxc3 {[%clk 1:43:03]} c5 {[%clk 1:36:23]} 8.
+d5 {[%clk 1:42:05]} Bxc3+ {[%clk 1:36:39]} 9. bxc3 {[%clk 1:42:29]} O-O {[%clk
+1:36:00]} 10. Qd2 {[%clk 1:41:57]} Qd6 {[%clk 1:30:05]} 11. f4 {[%clk 1:40:55]}
+e6 {[%clk 1:22:50]} 12. Bc4 {[%clk 1:38:42]} b5 {[%clk 1:21:52]} 13. Bxb5 {[%clk
+1:38:50]} exd5 {[%clk 1:21:18]} 14. Bc4 {[%clk 1:37:19]} Bb7 {[%clk 1:09:22]} 15.
+Nf3 {[%clk 1:34:45]} Nd7 {[%clk 1:05:30]} 16. O-O {[%clk 1:22:45]} Nb6 {[%clk
+0:54:49]} 17. Be2 {[%clk 1:18:09]} d4 {[%clk 0:37:42]} 18. e5 {[%clk 1:11:42]}
+Qd7 {[%clk 0:38:08]} 19. cxd4 {[%clk 0:47:37]} Rad8 {[%clk 0:38:31]} 20. Rad1
+{[%clk 0:40:38]} Bxf3 {[%clk 0:38:27]} 21. Rxf3 {[%clk 0:39:01]} Qxd4+ {[%clk
+0:38:14]} 22. Qxd4 {[%clk 0:39:15]} Rxd4 {[%clk 0:38:36]} 23. Rxd4 {[%clk
+0:39:09]} cxd4 {[%clk 0:39:03]} 24. Rd3 {[%clk 0:39:26]} Rd8 {[%clk 0:34:05]} 25.
+Bd1 {[%clk 0:36:26]} Nc4 {[%clk 0:30:04]} 26. Kf2 {[%clk 0:36:27]} Nb2 {[%clk
+0:28:17]} 27. Rd2 {[%clk 0:36:53]} Nc4 {[%clk 0:28:24]} 28. Rd3 {[%clk 0:35:39]}
+Nb2 {[%clk 0:28:49]} 29. Rd2 {[%clk 0:36:07]} Nc4 {[%clk 0:29:14]} 30. Rd3 {[%clk
+0:36:20]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.19"]
+[Round "3"]
+[White "Grischuk, Alexander"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2777"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[BlackTitle "GM"]
+[BlackElo "2762"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+
+1. e4 {[%clk 1:40:09]} e5 {[%clk 1:40:53]} 2. Nf3 {[%clk 1:40:34]} Nf6 {[%clk
+1:41:11]} 3. Nxe5 {[%clk 1:40:23]} d6 {[%clk 1:41:43]} 4. Nf3 {[%clk 1:40:48]}
+Nxe4 {[%clk 1:42:43]} 5. d3 {[%clk 1:41:00]} Nf6 {[%clk 1:42:36]} 6. d4 {[%clk
+1:41:26]} d5 {[%clk 1:42:37]} 7. Bd3 {[%clk 1:41:51]} Bd6 {[%clk 1:41:44]} 8.
+Qe2+ {[%clk 1:42:10]} Be6 {[%clk 1:38:46]} 9. Ng5 {[%clk 1:40:50]} Qe7 {[%clk
+1:39:18]} 10. Nxe6 {[%clk 1:41:18]} fxe6 {[%clk 1:35:46]} 11. c3 {[%clk 1:41:39]}
+c5 {[%clk 1:26:34]} 12. Nd2 {[%clk 1:38:59]} Nc6 {[%clk 1:24:38]} 13. Nf3 {[%clk
+1:39:13]} O-O {[%clk 1:22:26]} 14. O-O {[%clk 1:39:15]} cxd4 {[%clk 1:15:52]} 15.
+cxd4 {[%clk 1:36:09]} e5 {[%clk 1:15:58]} 16. dxe5 {[%clk 1:31:34]} Nxe5 {[%clk
+1:16:27]} 17. Nxe5 {[%clk 0:56:50]} Qxe5 {[%clk 1:16:04]} 18. Qxe5 {[%clk
+0:42:06]} Bxe5 {[%clk 1:15:56]} 19. f3 {[%clk 0:41:45]} Bd4+ {[%clk 1:08:27]} 20.
+Kh1 {[%clk 0:42:00]} Rac8 {[%clk 1:06:35]} 21. Rd1 {[%clk 0:37:18]} Rfe8 {[%clk
+1:03:02]} 22. g3 {[%clk 0:33:09]} Kf7 {[%clk 0:55:50]} 23. Kg2 {[%clk 0:29:19]}
+g6 {[%clk 0:54:11]} 24. Bd2 {[%clk 0:08:55]} Be3 {[%clk 0:35:49]} 25. h4 {[%clk
+0:05:41]} Re6 {[%clk 0:32:38]} 26. Bxe3 {[%clk 0:05:30]} Rxe3 {[%clk 0:33:03]}
+27. Kf2 {[%clk 0:04:13]} Re6 {[%clk 0:29:49]} 28. Rd2 {[%clk 0:03:10]} Ke7 {[%clk
+0:24:22]} 29. Rad1 {[%clk 0:03:07]} Rec6 {[%clk 0:21:28]} 30. g4 {[%clk 0:02:58]}
+a6 {[%clk 0:19:55]} 31. h5 {[%clk 0:02:40]} Kf7 {[%clk 0:18:53]} 32. a3 {[%clk
+0:01:56]} Re8 {[%clk 0:15:56]} 33. hxg6+ {[%clk 0:01:01]} hxg6 {[%clk 0:16:21]}
+34. g5 {[%clk 0:01:21]} Ne4+ {[%clk 0:11:58]} 35. Bxe4 {[%clk 0:00:58]} dxe4
+{[%clk 0:12:30]} 36. Re1 {[%clk 0:00:58]} exf3 {[%clk 0:06:34]} 37. Rd7+ {[%clk
+0:01:25]} Kf8 {[%clk 0:06:58]} 38. Rh1 {[%clk 0:01:33]} Kg8 {[%clk 0:07:22]} 39.
+Rxb7 {[%clk 0:00:39]} Rc2+ {[%clk 0:01:23]} 40. Kxf3 {[%clk 0:01:03]} Rc5 {[%clk
+0:01:50]} 41. Rh4 {[%clk 0:00:33]} Rxg5 {[%clk 0:01:54]} 42. b4 {[%clk 0:49:01]}
+Rge5 {[%clk 0:48:38]} 43. Rd4 {[%clk 0:33:56]} Re3+ {[%clk 0:48:29]} 44. Kf4
+{[%clk 0:33:50]} Rxa3 {[%clk 0:47:17]} 45. Rd6 {[%clk 0:33:56]} Ra1 {[%clk
+0:46:59]} 46. Rxg6+ {[%clk 0:34:20]} Kh8 {[%clk 0:47:25]} 47. Rh6+ {[%clk
+0:34:24]} Kg8 {[%clk 0:48:23]} 48. Rg6+ {[%clk 0:34:49]} Kh8 {[%clk 0:48:19]} 49.
+Rh6+ {[%clk 0:34:25]} Kg8 {[%clk 0:48:43]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.19"]
+[Round "3"]
+[White "Alekseenko, Kirill"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2698"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[WhiteEloChange "1"]
+[BlackTitle "GM"]
+[BlackElo "2774"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+[BlackEloChange "-1"]
+
+1. e4 {[%clk 1:40:44]} e6 {[%clk 1:40:52]} 2. d4 {[%clk 1:37:45]} d5 {[%clk
+1:41:14]} 3. Nc3 {[%clk 1:37:20]} Bb4 {[%clk 1:41:17]} 4. e5 {[%clk 1:36:45]} c5
+{[%clk 1:41:40]} 5. a3 {[%clk 1:36:32]} Bxc3+ {[%clk 1:42:00]} 6. bxc3 {[%clk
+1:36:59]} Ne7 {[%clk 1:42:22]} 7. h4 {[%clk 1:35:19]} Qc7 {[%clk 1:42:13]} 8. Nf3
+{[%clk 1:33:20]} b6 {[%clk 1:41:53]} 9. Bb5+ {[%clk 1:27:34]} Bd7 {[%clk
+1:42:14]} 10. Be2 {[%clk 1:20:16]} Ba4 {[%clk 1:41:41]} 11. O-O {[%clk 1:12:00]}
+Nd7 {[%clk 1:38:26]} 12. Be3 {[%clk 0:52:31]} h6 {[%clk 1:32:00]} 13. Ra2 {[%clk
+0:45:11]} Nf5 {[%clk 1:17:45]} 14. Bf4 {[%clk 0:39:41]} Qc6 {[%clk 1:13:02]} 15.
+Rb2 {[%clk 0:36:15]} a6 {[%clk 1:12:53]} 16. dxc5 {[%clk 0:30:25]} Qxc5 {[%clk
+1:09:20]} 17. Rb4 {[%clk 0:28:03]} b5 {[%clk 1:04:33]} 18. Bd3 {[%clk 0:23:45]}
+Ne7 {[%clk 1:03:13]} 19. Bd2 {[%clk 0:20:24]} Nc6 {[%clk 1:02:42]} 20. Qe2 {[%clk
+0:19:29]} Nxb4 {[%clk 1:01:09]} 21. axb4 {[%clk 0:18:40]} Qc7 {[%clk 1:00:15]}
+22. Re1 {[%clk 0:18:18]} Nb8 {[%clk 0:59:40]} 23. Nd4 {[%clk 0:15:58]} Nc6 {[%clk
+0:59:44]} 24. Qg4 {[%clk 0:15:20]} Nxd4 {[%clk 1:00:10]} 25. cxd4 {[%clk
+0:15:07]} g6 {[%clk 0:56:51]} 26. h5 {[%clk 0:09:37]} gxh5 {[%clk 0:53:46]} 27.
+Qxh5 {[%clk 0:09:57]} O-O-O {[%clk 0:53:59]} 28. f4 {[%clk 0:09:28]} Kb8 {[%clk
+0:53:35]} 29. c3 {[%clk 0:04:17]} Bb3 {[%clk 0:52:30]} 30. f5 {[%clk 0:04:42]}
+Bc4 {[%clk 0:52:46]} 31. Bc2 {[%clk 0:04:52]} Rdg8 {[%clk 0:51:55]} 32. Kf2
+{[%clk 0:03:29]} a5 {[%clk 0:39:08]} 33. bxa5 {[%clk 0:03:54]} Qxa5 {[%clk
+0:38:39]} 34. Qxf7 {[%clk 0:03:53]} Qa2 {[%clk 0:38:55]} 35. Qxe6 {[%clk
+0:03:50]} Qxc2 {[%clk 0:39:18]} 36. Qb6+ {[%clk 0:04:13]} Kc8 {[%clk 0:39:35]}
+37. Qc6+ {[%clk 0:04:38]} Kb8 {[%clk 0:39:59]} 38. Qb6+ {[%clk 0:05:02]} Kc8
+{[%clk 0:40:26]} 39. Qc6+ {[%clk 0:05:27]} Kb8 {[%clk 0:40:51]} 40. Qb6+ {[%clk
+0:05:52]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.21"]
+[Round "4"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2842"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[WhiteEloChange "-1"]
+[BlackTitle "GM"]
+[BlackElo "2774"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+[BlackEloChange "1"]
+
+1. d4 {[%clk 1:41:05]} Nf6 {[%clk 1:41:04]} 2. c4 {[%clk 1:42:00]} g6 {[%clk
+1:41:29]} 3. Nc3 {[%clk 1:41:49]} d5 {[%clk 1:41:53]} 4. cxd5 {[%clk 1:42:15]}
+Nxd5 {[%clk 1:42:15]} 5. e4 {[%clk 1:42:40]} Nxc3 {[%clk 1:42:40]} 6. bxc3 {[%clk
+1:43:06]} Bg7 {[%clk 1:43:04]} 7. Bc4 {[%clk 1:43:17]} c5 {[%clk 1:43:19]} 8. Ne2
+{[%clk 1:43:42]} O-O {[%clk 1:41:53]} 9. O-O {[%clk 1:42:32]} Nc6 {[%clk
+1:42:19]} 10. Be3 {[%clk 1:42:51]} b6 {[%clk 1:41:50]} 11. Qd2 {[%clk 1:41:58]}
+Bb7 {[%clk 1:39:09]} 12. Rfd1 {[%clk 1:42:18]} cxd4 {[%clk 1:34:33]} 13. cxd4
+{[%clk 1:39:36]} Rc8 {[%clk 1:34:57]} 14. Rac1 {[%clk 1:39:45]} Na5 {[%clk
+1:34:20]} 15. Bd3 {[%clk 1:40:23]} Qd7 {[%clk 1:34:02]} 16. h4 {[%clk 1:39:23]}
+Rxc1 {[%clk 1:31:01]} 17. Rxc1 {[%clk 1:39:29]} Rc8 {[%clk 1:31:26]} 18. h5
+{[%clk 1:39:29]} Rxc1+ {[%clk 1:24:09]} 19. Qxc1 {[%clk 1:39:43]} Qc8 {[%clk
+1:24:44]} 20. h6 {[%clk 1:39:56]} Bf8 {[%clk 1:24:13]} 21. d5 {[%clk 1:36:28]} e6
+{[%clk 1:22:46]} 22. Nc3 {[%clk 1:32:26]} Nc4 {[%clk 1:10:12]} 23. Bxc4 {[%clk
+1:19:18]} Qxc4 {[%clk 1:09:55]} 24. Qd2 {[%clk 1:19:06]} exd5 {[%clk 0:59:47]}
+25. Nxd5 {[%clk 1:15:36]} Bxd5 {[%clk 0:59:51]} 26. exd5 {[%clk 1:16:28]} Qb4
+{[%clk 1:00:13]} 27. Qd3 {[%clk 0:57:25]} Qa3 {[%clk 0:44:24]} 28. Qc2 {[%clk
+0:45:31]} Qa5 {[%clk 0:39:13]} 29. Qd1 {[%clk 0:41:25]} Bd6 {[%clk 0:14:53]} 30.
+g3 {[%clk 0:41:25]} Kf8 {[%clk 0:13:24]} 31. Qf3 {[%clk 0:23:35]} Qe1+ {[%clk
+0:10:25]} 32. Kg2 {[%clk 0:21:45]} f5 {[%clk 0:10:48]} 33. g4 {[%clk 0:18:30]}
+Qb1 {[%clk 0:11:11]} 34. Bd4 {[%clk 0:17:12]} Kf7 {[%clk 0:10:01]} 35. Qe3 {[%clk
+0:14:37]} Qe4+ {[%clk 0:10:14]} 36. Qxe4 {[%clk 0:15:02]} fxe4 {[%clk 0:10:36]}
+37. f3 {[%clk 0:15:12]} exf3+ {[%clk 0:10:22]} 38. Kxf3 {[%clk 0:15:36]} Ke7
+{[%clk 0:09:49]} 39. Ke4 {[%clk 0:15:00]} Kd7 {[%clk 0:10:24]} 40. a4 {[%clk
+0:08:09]} Bc7 {[%clk 0:07:30]} 41. Be3 {[%clk 0:03:57]} a6 {[%clk 0:02:04]} 42.
+Bd2 {[%clk 0:41:04]} b5 {[%clk 0:51:26]} 43. axb5 {[%clk 0:40:58]} axb5 {[%clk
+0:51:52]} 44. Kd4 {[%clk 0:41:47]} Bb6+ {[%clk 0:36:17]} 45. Kd3 {[%clk 0:36:07]}
+Bc5 {[%clk 0:33:43]} 46. Bc3 {[%clk 0:36:25]} Ba3 {[%clk 0:30:37]} 47. Bg7 {[%clk
+0:35:34]} Bc5 {[%clk 0:30:51]} 48. Bc3 {[%clk 0:35:46]} Bf8 {[%clk 0:29:54]} 49.
+Bg7 {[%clk 0:35:36]} Be7 {[%clk 0:30:21]} 50. Kd4 {[%clk 0:33:47]} Bd6 {[%clk
+0:30:46]} 51. Bf6 {[%clk 0:33:48]} Kc7 {[%clk 0:30:48]} 52. Bg5 {[%clk 0:33:19]}
+Kb6 {[%clk 0:29:38]} 53. Bd8+ {[%clk 0:33:01]} Ka6 {[%clk 0:29:36]} 54. Kd3
+{[%clk 0:33:15]} Bf8 {[%clk 0:24:45]} 55. Kd4 {[%clk 0:32:25]} Bd6 {[%clk
+0:24:42]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.21"]
+[Round "4"]
+[White "Wang, Hao"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2762"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[WhiteEloChange "-1"]
+[BlackTitle "GM"]
+[BlackElo "2698"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+[BlackEloChange "1"]
+
+1. Nf3 {[%clk 1:41:06]} d5 {[%clk 1:40:35]} 2. g3 {[%clk 1:41:29]} g6 {[%clk
+1:40:02]} 3. Bg2 {[%clk 1:41:49]} Bg7 {[%clk 1:40:23]} 4. d4 {[%clk 1:42:00]} Nf6
+{[%clk 1:40:35]} 5. O-O {[%clk 1:41:41]} O-O {[%clk 1:40:55]} 6. c4 {[%clk
+1:41:51]} c6 {[%clk 1:40:57]} 7. Nbd2 {[%clk 1:36:50]} a5 {[%clk 1:35:19]} 8. b3
+{[%clk 1:36:39]} Bf5 {[%clk 1:30:07]} 9. Bb2 {[%clk 1:30:20]} a4 {[%clk 1:19:38]}
+10. bxa4 {[%clk 1:29:58]} Qa5 {[%clk 1:16:06]} 11. Qb3 {[%clk 1:28:25]} Nbd7
+{[%clk 1:14:49]} 12. cxd5 {[%clk 1:23:58]} cxd5 {[%clk 1:12:06]} 13. Rfc1 {[%clk
+1:22:52]} Ra6 {[%clk 0:51:56]} 14. e3 {[%clk 1:11:47]} Qxa4 {[%clk 0:43:05]} 15.
+Bf1 {[%clk 1:07:49]} Qxb3 {[%clk 0:41:33]} 16. axb3 {[%clk 0:42:56]} Rxa1 {[%clk
+0:41:07]} 17. Rxa1 {[%clk 0:36:41]} Nb6 {[%clk 0:39:31]} 18. Ra7 {[%clk 0:35:33]}
+Rb8 {[%clk 0:39:48]} 19. Ne5 {[%clk 0:35:27]} Nfd7 {[%clk 0:38:04]} 20. Bb5
+{[%clk 0:32:51]} f6 {[%clk 0:26:28]} 21. Nxd7 {[%clk 0:31:03]} Bxd7 {[%clk
+0:26:49]} 22. Ra5 {[%clk 0:30:29]} Bf5 {[%clk 0:17:57]} 23. Ba3 {[%clk 0:19:35]}
+Bf8 {[%clk 0:17:30]} 24. Bc5 {[%clk 0:18:14]} Nd7 {[%clk 0:13:58]} 25. Ra7 {[%clk
+0:17:41]} Nxc5 {[%clk 0:07:11]} 26. dxc5 {[%clk 0:16:31]} e5 {[%clk 0:07:33]} 27.
+b4 {[%clk 0:13:08]} b6 {[%clk 0:08:01]} 28. c6 {[%clk 0:02:34]} Bxb4 {[%clk
+0:08:21]} 29. e4 {[%clk 0:03:04]} dxe4 {[%clk 0:07:13]} 30. Nxe4 {[%clk 0:01:12]}
+Bxe4 {[%clk 0:07:21]} 31. c7 {[%clk 0:01:38]} Rf8 {[%clk 0:07:28]} 32. Bc4+
+{[%clk 0:01:53]} Kh8 {[%clk 0:07:51]} 33. Be6 {[%clk 0:02:18]} Bf5 {[%clk
+0:07:42]} 34. c8Q {[%clk 0:02:42]} Rxc8 {[%clk 0:08:06]} 35. Bxc8 {[%clk
+0:03:07]} Bxc8 {[%clk 0:08:29]} 36. Ra8 {[%clk 0:03:37]} Kg7 {[%clk 0:05:31]} 37.
+Rxc8 {[%clk 0:03:55]} Bc5 {[%clk 0:04:10]} 38. Rc7+ {[%clk 0:03:59]} Kh6 {[%clk
+0:03:33]} 39. h4 {[%clk 0:03:58]} f5 {[%clk 0:03:45]} 40. Kg2 {[%clk 0:04:22]} e4
+{[%clk 0:03:43]} 41. Kf1 {[%clk 0:03:27]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.21"]
+[Round "4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[BlackTitle "GM"]
+[BlackElo "2777"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+1. e4 {[%clk 1:41:04]} e5 {[%clk 1:40:22]} 2. Nf3 {[%clk 1:41:32]} Nc6 {[%clk
+1:41:02]} 3. Bb5 {[%clk 1:42:12]} Nf6 {[%clk 1:41:14]} 4. O-O {[%clk 1:42:09]}
+Nxe4 {[%clk 1:42:20]} 5. d4 {[%clk 1:42:20]} Nd6 {[%clk 1:43:00]} 6. Bxc6 {[%clk
+1:43:00]} dxc6 {[%clk 1:43:40]} 7. dxe5 {[%clk 1:43:20]} Nf5 {[%clk 1:43:12]} 8.
+Qxd8+ {[%clk 1:44:00]} Kxd8 {[%clk 1:43:57]} 9. h3 {[%clk 1:44:18]} Ke8 {[%clk
+1:42:58]} 10. Nc3 {[%clk 1:44:36]} h5 {[%clk 1:43:06]} 11. Bf4 {[%clk 1:45:10]}
+Be7 {[%clk 1:42:00]} 12. Rad1 {[%clk 1:45:22]} Be6 {[%clk 1:42:12]} 13. Ng5
+{[%clk 1:45:41]} Rh6 {[%clk 1:42:43]} 14. Rfe1 {[%clk 1:46:19]} Bb4 {[%clk
+1:42:58]} 15. a3 {[%clk 1:46:34]} Bxc3 {[%clk 1:43:15]} 16. bxc3 {[%clk 1:47:05]}
+h4 {[%clk 1:43:37]} 17. g4 {[%clk 1:47:14]} hxg3 {[%clk 1:43:57]} 18. fxg3 {[%clk
+1:47:41]} Ne7 {[%clk 0:51:14]} 19. h4 {[%clk 1:47:13]} Nd5 {[%clk 0:30:39]} 20.
+Bc1 {[%clk 1:47:15]} Nxc3 {[%clk 0:27:43]} 21. Rd3 {[%clk 1:46:07]} Na4 {[%clk
+0:16:48]} 22. Rf3 {[%clk 1:39:44]} Bd5 {[%clk 0:11:34]} 23. Rf4 {[%clk 1:37:28]}
+Nb6 {[%clk 0:09:09]} 24. Ref1 {[%clk 1:37:10]} Rg6 {[%clk 0:09:00]} 25. Rf5
+{[%clk 1:34:44]} Bc4 {[%clk 0:08:02]} 26. Re1 {[%clk 1:17:27]} Ke7 {[%clk
+0:02:25]} 27. h5 {[%clk 1:12:32]} Rh6 {[%clk 0:02:52]} 28. g4 {[%clk 1:12:55]}
+Rhh8 {[%clk 0:01:40]} 29. a4 {[%clk 0:59:42]} Nxa4 {[%clk 0:01:50]} 30. Ba3+
+{[%clk 0:57:24]} c5 {[%clk 0:01:16]} 31. e6 {[%clk 0:57:49]} f6 {[%clk 0:01:36]}
+32. Bxc5+ {[%clk 0:57:27]} Nxc5 {[%clk 0:01:07]} 33. Rxc5 {[%clk 0:57:53]} fxg5
+{[%clk 0:00:47]} 34. Rxc7+ {[%clk 0:53:29]} Kd6 {[%clk 0:01:16]} 35. Rxc4 {[%clk
+0:53:52]} a5 {[%clk 0:00:57]} 36. Rd1+ {[%clk 0:43:41]} Ke7 {[%clk 0:01:26]} 37.
+Re4 {[%clk 0:37:01]} Rhd8 {[%clk 0:01:01]} 38. Rb1 {[%clk 0:37:15]} Rdb8 {[%clk
+0:01:03]} 39. Rb5 {[%clk 0:35:17]} a4 {[%clk 0:01:44]} 40. Rxg5 {[%clk 0:35:06]}
+Rg8 {[%clk 0:01:40]} 41. h6 {[%clk 0:18:12]} gxh6 {[%clk 0:01:06]} 42. Rxg8
+{[%clk 0:17:08]} Rxg8 {[%clk 0:01:32]} 43. Rxa4 {[%clk 0:17:35]} h5 {[%clk
+0:01:58]} 44. Kf2 {[%clk 0:16:48]} Rxg4 {[%clk 0:02:21]} 45. Rxg4 {[%clk
+0:15:36]} hxg4 {[%clk 0:02:46]} 46. Kg3 {[%clk 0:16:04]} Kxe6 {[%clk 0:03:11]}
+47. Kxg4 {[%clk 0:16:26]} Ke5 {[%clk 0:03:49]} 48. Kf3 {[%clk 0:17:02]} Kd4
+{[%clk 0:03:55]} 49. Ke2 {[%clk 0:17:29]} Kc3 {[%clk 0:04:33]} 50. Kd1 {[%clk
+0:18:06]} b5 {[%clk 0:04:47]} 51. Kc1 {[%clk 0:18:19]} b4 {[%clk 0:05:16]} 52.
+Kb1 {[%clk 0:18:48]} b3 {[%clk 0:05:42]} 53. cxb3 {[%clk 0:19:07]} Kxb3 {[%clk
+0:06:09]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.21"]
+[Round "4"]
+[White "Ding, Liren"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2805"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[WhiteEloChange "-1"]
+[BlackTitle "GM"]
+[BlackElo "2763"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+[BlackEloChange "1"]
+
+1. d4 {[%clk 1:41:05]} Nf6 {[%clk 1:41:04]} 2. c4 {[%clk 1:41:31]} e6 {[%clk
+1:41:28]} 3. g3 {[%clk 1:41:58]} Bb4+ {[%clk 1:42:18]} 4. Bd2 {[%clk 1:42:50]} a5
+{[%clk 1:42:05]} 5. Bg2 {[%clk 1:39:12]} d5 {[%clk 1:42:02]} 6. Nf3 {[%clk
+1:36:13]} O-O {[%clk 1:41:50]} 7. Qc2 {[%clk 1:33:51]} c5 {[%clk 1:41:13]} 8.
+cxd5 {[%clk 1:30:31]} cxd4 {[%clk 1:41:22]} 9. Nxd4 {[%clk 1:29:57]} Qb6 {[%clk
+1:40:50]} 10. e3 {[%clk 1:25:02]} exd5 {[%clk 1:40:53]} 11. O-O {[%clk 1:21:39]}
+Nc6 {[%clk 1:41:08]} 12. Nxc6 {[%clk 1:17:52]} bxc6 {[%clk 1:41:21]} 13. Rc1
+{[%clk 1:18:11]} Rb8 {[%clk 1:42:06]} 14. Bxb4 {[%clk 1:08:00]} Qxb4 {[%clk
+1:40:44]} 15. b3 {[%clk 1:08:57]} h5 {[%clk 1:39:13]} 16. Nc3 {[%clk 0:58:44]} h4
+{[%clk 1:35:46]} 17. Ne2 {[%clk 0:59:07]} Bd7 {[%clk 1:15:49]} 18. Nf4 {[%clk
+0:56:20]} hxg3 {[%clk 1:02:44]} 19. hxg3 {[%clk 0:56:47]} Rfc8 {[%clk 0:59:23]}
+20. Bf3 {[%clk 0:51:08]} a4 {[%clk 0:48:58]} 21. bxa4 {[%clk 0:49:18]} Ra8 {[%clk
+0:49:14]} 22. Nd3 {[%clk 0:45:30]} Qxa4 {[%clk 0:49:16]} 23. Qxa4 {[%clk
+0:45:54]} Rxa4 {[%clk 0:49:40]} 24. Nc5 {[%clk 0:46:23]} Ra5 {[%clk 0:40:16]} 25.
+a4 {[%clk 0:42:33]} Rca8 {[%clk 0:32:49]} 26. Bd1 {[%clk 0:38:18]} Be8 {[%clk
+0:31:15]} 27. Kf1 {[%clk 0:38:38]} Kf8 {[%clk 0:30:14]} 28. Rab1 {[%clk 0:33:41]}
+Ne4 {[%clk 0:28:33]} 29. Nxe4 {[%clk 0:33:51]} dxe4 {[%clk 0:28:58]} 30. Rb7
+{[%clk 0:32:01]} c5 {[%clk 0:24:49]} 31. Bb3 {[%clk 0:31:30]} R5a7 {[%clk
+0:23:19]} 32. Rxa7 {[%clk 0:29:25]} Rxa7 {[%clk 0:23:45]} 33. Ke1 {[%clk
+0:28:45]} Ke7 {[%clk 0:23:20]} 34. Ra1 {[%clk 0:25:09]} c4 {[%clk 0:14:03]} 35.
+Bc2 {[%clk 0:23:04]} Kd6 {[%clk 0:13:18]} 36. Kd2 {[%clk 0:22:52]} Kc5 {[%clk
+0:13:40]} 37. Kc3 {[%clk 0:22:57]} Ra6 {[%clk 0:12:23]} 38. g4 {[%clk 0:15:18]}
+g5 {[%clk 0:07:53]} 39. a5 {[%clk 0:10:32]} Bc6 {[%clk 0:08:09]} 40. Ra2 {[%clk
+0:10:31]} Ra7 {[%clk 0:06:27]} 41. Ra1 {[%clk 0:07:56]} Ra6 {[%clk 0:06:39]} 42.
+Ra2 {[%clk 0:07:34]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.22"]
+[Round "5"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2763"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[WhiteEloChange "1"]
+[BlackTitle "GM"]
+[BlackElo "2842"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+[BlackEloChange "-1"]
+
+1. d4 {[%clk 1:41:04]} d5 {[%clk 1:41:05]} 2. c4 {[%clk 1:41:28]} c6 {[%clk
+1:41:28]} 3. Nf3 {[%clk 1:41:45]} Nf6 {[%clk 1:41:53]} 4. e3 {[%clk 1:42:09]} Bf5
+{[%clk 1:42:03]} 5. Nc3 {[%clk 1:42:32]} e6 {[%clk 1:42:26]} 6. Nh4 {[%clk
+1:42:55]} Be4 {[%clk 1:42:49]} 7. f3 {[%clk 1:43:18]} Bg6 {[%clk 1:43:13]} 8. Bd2
+{[%clk 1:43:25]} Be7 {[%clk 1:43:06]} 9. Nxg6 {[%clk 1:43:00]} hxg6 {[%clk
+1:43:30]} 10. Qc2 {[%clk 1:43:22]} Nbd7 {[%clk 1:33:57]} 11. O-O-O {[%clk
+1:42:47]} Nb6 {[%clk 1:26:54]} 12. c5 {[%clk 1:37:02]} Nbd7 {[%clk 1:27:02]} 13.
+Kb1 {[%clk 1:36:02]} Qb8 {[%clk 1:17:34]} 14. h4 {[%clk 1:27:55]} g5 {[%clk
+0:58:51]} 15. Be1 {[%clk 1:27:05]} g4 {[%clk 0:56:54]} 16. e4 {[%clk 1:14:29]}
+gxf3 {[%clk 0:52:50]} 17. gxf3 {[%clk 1:09:41]} b6 {[%clk 0:52:03]} 18. exd5
+{[%clk 1:06:22]} exd5 {[%clk 0:51:05]} 19. cxb6 {[%clk 1:02:22]} axb6 {[%clk
+0:51:10]} 20. Ne2 {[%clk 1:00:22]} Qa7 {[%clk 0:47:15]} 21. b3 {[%clk 0:56:37]}
+Nh5 {[%clk 0:46:23]} 22. Ng3 {[%clk 0:54:38]} g6 {[%clk 0:41:05]} 23. Nxh5 {[%clk
+0:51:04]} Rxh5 {[%clk 0:41:03]} 24. f4 {[%clk 0:51:10]} Kf8 {[%clk 0:36:04]} 25.
+Be2 {[%clk 0:47:10]} Rh8 {[%clk 0:35:45]} 26. Bd3 {[%clk 0:42:14]} c5 {[%clk
+0:26:58]} 27. Bc3 {[%clk 0:37:19]} cxd4 {[%clk 0:13:39]} 28. Bxd4 {[%clk
+0:37:09]} Bf6 {[%clk 0:13:58]} 29. Bxf6 {[%clk 0:35:28]} Nxf6 {[%clk 0:14:21]}
+30. f5 {[%clk 0:35:45]} gxf5 {[%clk 0:13:57]} 31. Bxf5 {[%clk 0:35:49]} b5 {[%clk
+0:13:38]} 32. Rh2 {[%clk 0:30:00]} Rh5 {[%clk 0:12:56]} 33. Re2 {[%clk 0:23:19]}
+d4 {[%clk 0:09:46]} 34. Re5 {[%clk 0:17:41]} Ng4 {[%clk 0:10:01]} 35. Rc5 {[%clk
+0:18:03]} Ne3 {[%clk 0:09:03]} 36. Rc8+ {[%clk 0:18:24]} Rxc8 {[%clk 0:09:11]}
+37. Qxc8+ {[%clk 0:19:20]} Ke7 {[%clk 0:09:28]} 38. Rc1 {[%clk 0:18:46]} Nd5
+{[%clk 0:04:04]} 39. Re1+ {[%clk 0:16:12]} Ne3 {[%clk 0:04:33]} 40. Rc1 {[%clk
+0:15:03]} Nd5 {[%clk 0:04:56]} 41. Re1+ {[%clk 0:09:33]} Ne3 {[%clk 0:04:55]} 42.
+Rc1 {[%clk 0:02:07]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.22"]
+[Round "5"]
+[White "Grischuk, Alexander"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2777"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[BlackTitle "GM"]
+[BlackElo "2805"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+
+1. e4 {[%clk 1:35:31]} e5 {[%clk 1:41:10]} 2. Nf3 {[%clk 1:36:11]} Nc6 {[%clk
+1:41:50]} 3. Bb5 {[%clk 1:36:51]} a6 {[%clk 1:41:39]} 4. Ba4 {[%clk 1:37:10]} Nf6
+{[%clk 1:42:19]} 5. O-O {[%clk 1:37:18]} Be7 {[%clk 1:42:42]} 6. Re1 {[%clk
+1:37:04]} b5 {[%clk 1:43:35]} 7. Bb3 {[%clk 1:37:30]} O-O {[%clk 1:43:30]} 8. h3
+{[%clk 1:37:21]} Bb7 {[%clk 1:43:36]} 9. d3 {[%clk 1:37:45]} d5 {[%clk 1:43:57]}
+10. exd5 {[%clk 1:37:09]} Nxd5 {[%clk 1:44:31]} 11. Nbd2 {[%clk 1:37:01]} Qd7
+{[%clk 1:42:46]} 12. a4 {[%clk 1:36:45]} f6 {[%clk 1:35:28]} 13. Ne4 {[%clk
+1:35:25]} Na5 {[%clk 1:25:34]} 14. Ba2 {[%clk 1:32:42]} c5 {[%clk 1:26:00]} 15.
+Be3 {[%clk 1:30:46]} Rfc8 {[%clk 1:26:25]} 16. axb5 {[%clk 1:17:31]} axb5 {[%clk
+1:27:16]} 17. Nxc5 {[%clk 1:17:19]} Rxc5 {[%clk 1:19:54]} 18. b4 {[%clk 1:17:12]}
+Rcc8 {[%clk 1:08:00]} 19. bxa5 {[%clk 1:16:11]} Kh8 {[%clk 1:08:26]} 20. Bd2
+{[%clk 1:06:01]} Nb4 {[%clk 1:08:34]} 21. Bb3 {[%clk 0:51:25]} Bd5 {[%clk
+1:08:54]} 22. Bxd5 {[%clk 0:50:20]} Qxd5 {[%clk 1:09:19]} 23. Rc1 {[%clk
+0:35:38]} Nc6 {[%clk 0:48:08]} 24. c4 {[%clk 0:25:50]} bxc4 {[%clk 0:47:58]} 25.
+Rxc4 {[%clk 0:21:01]} Nxa5 {[%clk 0:48:09]} 26. Rxc8+ {[%clk 0:21:09]} Rxc8
+{[%clk 0:48:36]} 27. d4 {[%clk 0:20:16]} Nc6 {[%clk 0:48:16]} 28. dxe5 {[%clk
+0:19:20]} Nxe5 {[%clk 0:48:43]} 29. Nxe5 {[%clk 0:19:37]} fxe5 {[%clk 0:49:40]}
+30. Qg4 {[%clk 0:15:54]} Rd8 {[%clk 0:49:29]} 31. Be3 {[%clk 0:14:49]} Bf6 {[%clk
+0:47:36]} 32. Rc1 {[%clk 0:14:03]} Qd7 {[%clk 0:46:34]} 33. Qh5 {[%clk 0:10:35]}
+Qe8 {[%clk 0:45:53]} 34. Qf3 {[%clk 0:10:11]} Rc8 {[%clk 0:38:11]} 35. Rd1 {[%clk
+0:08:21]} Rd8 {[%clk 0:38:22]} 36. Rc1 {[%clk 0:08:43]} Rc8 {[%clk 0:38:51]} 37.
+Rb1 {[%clk 0:07:15]} Rb8 {[%clk 0:37:33]} 38. Re1 {[%clk 0:07:32]} Qg6 {[%clk
+0:36:56]} 39. Ba7 {[%clk 0:06:29]} Rc8 {[%clk 0:33:01]} 40. Qb7 {[%clk 0:04:51]}
+Qc2 {[%clk 0:31:37]} 41. Be3 {[%clk 0:03:56]} Qc6 {[%clk 0:31:55]} 42. Qb4 {[%clk
+0:03:39]} h5 {[%clk 0:27:40]} 43. Bc1 {[%clk 0:41:56]} Qc2 {[%clk 1:13:44]} 44.
+Be3 {[%clk 0:39:08]} Rd8 {[%clk 1:09:20]} 45. Qb1 {[%clk 0:37:10]} Qxb1 {[%clk
+1:09:46]} 46. Rxb1 {[%clk 0:37:35]} Kh7 {[%clk 1:09:57]} 47. g4 {[%clk 0:37:50]}
+hxg4 {[%clk 1:09:58]} 48. hxg4 {[%clk 0:38:16]} Rd6 {[%clk 1:10:08]} 49. Kg2
+{[%clk 0:38:31]} Kg6 {[%clk 1:10:17]} 50. Kf3 {[%clk 0:37:28]} Bg5 {[%clk
+1:10:26]} 51. Ke4 {[%clk 0:35:49]} Bxe3 {[%clk 1:08:56]} 52. fxe3 {[%clk
+0:36:13]} Re6 {[%clk 1:09:22]} 53. Rb7 {[%clk 0:36:04]} Re8 {[%clk 1:09:25]} 54.
+Ra7 {[%clk 0:33:51]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.22"]
+[Round "5"]
+[White "Alekseenko, Kirill"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2698"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[WhiteEloChange "1"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+[BlackEloChange "-1"]
+
+1. e4 {[%clk 1:41:34]} c5 {[%clk 1:41:34]} 2. Nf3 {[%clk 1:41:49]} d6 {[%clk
+1:42:01]} 3. d4 {[%clk 1:41:47]} cxd4 {[%clk 1:41:52]} 4. Nxd4 {[%clk 1:42:13]}
+Nf6 {[%clk 1:42:24]} 5. Nc3 {[%clk 1:42:23]} a6 {[%clk 1:43:04]} 6. f3 {[%clk
+1:43:03]} e6 {[%clk 1:41:30]} 7. Be3 {[%clk 1:42:49]} b5 {[%clk 1:42:04]} 8. Qd2
+{[%clk 1:41:53]} Nbd7 {[%clk 1:41:27]} 9. a3 {[%clk 1:41:20]} h5 {[%clk 1:42:20]}
+10. O-O-O {[%clk 1:38:53]} Bb7 {[%clk 1:42:03]} 11. Kb1 {[%clk 1:35:38]} Be7
+{[%clk 1:41:28]} 12. Rg1 {[%clk 1:34:22]} Rc8 {[%clk 1:40:15]} 13. Be2 {[%clk
+1:34:21]} Nb6 {[%clk 1:39:34]} 14. Qe1 {[%clk 1:34:38]} Nfd7 {[%clk 1:38:56]} 15.
+g4 {[%clk 1:34:43]} hxg4 {[%clk 1:39:15]} 16. Rxg4 {[%clk 1:35:04]} g6 {[%clk
+1:39:36]} 17. Rxg6 {[%clk 1:23:13]} Rxc3 {[%clk 1:39:02]} 18. Nxe6 {[%clk
+0:35:27]} Qc8 {[%clk 1:38:45]} 19. Ng7+ {[%clk 0:30:25]} Kf8 {[%clk 1:38:10]} 20.
+Rh6 {[%clk 0:29:47]} Rxh6 {[%clk 1:36:04]} 21. Bxh6 {[%clk 0:29:34]} Rxc2 {[%clk
+1:35:29]} 22. Nf5+ {[%clk 0:20:49]} Ke8 {[%clk 1:35:29]} 23. Nxe7 {[%clk
+0:08:35]} Kxe7 {[%clk 1:30:21]} 24. Qh4+ {[%clk 0:08:42]} f6 {[%clk 1:17:05]} 25.
+Bf4 {[%clk 0:07:20]} Rxb2+ {[%clk 1:06:02]} 26. Kxb2 {[%clk 0:07:40]} Na4+ {[%clk
+1:06:28]} 27. Kb1 {[%clk 0:08:02]} Nc3+ {[%clk 1:06:55]} 28. Ka1 {[%clk 0:07:53]}
+Nxd1 {[%clk 1:06:50]} 29. Qh7+ {[%clk 0:06:50]} Kd8 {[%clk 1:03:34]} 30. Qg8+
+{[%clk 0:07:05]} Ke7 {[%clk 1:03:56]} 31. Qh7+ {[%clk 0:05:33]} Kd8 {[%clk
+1:04:08]} 32. Qg8+ {[%clk 0:04:51]} Ke7 {[%clk 1:04:31]} 33. Qh7+ {[%clk
+0:04:47]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.22"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2774"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[WhiteEloChange "5"]
+[BlackTitle "GM"]
+[BlackElo "2762"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+[BlackEloChange "-5"]
+
+1. e4 {[%clk 1:41:03]} e5 {[%clk 1:41:07]} 2. Nf3 {[%clk 1:41:27]} Nf6 {[%clk
+1:41:34]} 3. Nxe5 {[%clk 1:40:54]} d6 {[%clk 1:41:25]} 4. Nf3 {[%clk 1:41:22]}
+Nxe4 {[%clk 1:41:48]} 5. d4 {[%clk 1:41:48]} d5 {[%clk 1:42:12]} 6. Bd3 {[%clk
+1:42:07]} Bf5 {[%clk 1:42:37]} 7. O-O {[%clk 1:42:27]} Be7 {[%clk 1:43:05]} 8.
+Re1 {[%clk 1:42:41]} O-O {[%clk 1:43:24]} 9. Nbd2 {[%clk 1:43:38]} Nd6 {[%clk
+1:43:46]} 10. Nf1 {[%clk 1:43:29]} Bxd3 {[%clk 1:44:26]} 11. Qxd3 {[%clk
+1:43:56]} c6 {[%clk 1:44:40]} 12. Bf4 {[%clk 1:44:15]} Na6 {[%clk 1:44:58]} 13.
+h4 {[%clk 1:44:42]} Nc7 {[%clk 1:34:06]} 14. Ng5 {[%clk 1:44:44]} Bxg5 {[%clk
+1:34:36]} 15. Bxg5 {[%clk 1:44:19]} f6 {[%clk 1:34:45]} 16. Bf4 {[%clk 1:44:29]}
+Qd7 {[%clk 1:35:05]} 17. Ng3 {[%clk 1:44:40]} Rae8 {[%clk 1:25:58]} 18. Bxd6
+{[%clk 1:44:43]} Qxd6 {[%clk 1:26:20]} 19. Nf5 {[%clk 1:45:10]} Qd7 {[%clk
+1:26:44]} 20. Qh3 {[%clk 1:45:20]} Kh8 {[%clk 1:21:09]} 21. h5 {[%clk 1:44:05]}
+Rxe1+ {[%clk 1:12:52]} 22. Rxe1 {[%clk 1:41:16]} Re8 {[%clk 1:11:56]} 23. Rxe8+
+{[%clk 1:37:31]} Nxe8 {[%clk 1:11:35]} 24. g4 {[%clk 1:22:56]} a6 {[%clk
+1:09:48]} 25. b3 {[%clk 1:09:45]} Qe6 {[%clk 0:53:31]} 26. Ne3 {[%clk 0:42:09]}
+Nd6 {[%clk 0:27:57]} 27. h6 {[%clk 0:42:28]} g6 {[%clk 0:28:24]} 28. c4 {[%clk
+0:42:27]} dxc4 {[%clk 0:21:31]} 29. bxc4 {[%clk 0:43:06]} Kg8 {[%clk 0:21:53]}
+30. Qh2 {[%clk 0:39:42]} Kf7 {[%clk 0:10:36]} 31. c5 {[%clk 0:28:40]} Nb5 {[%clk
+0:09:58]} 32. Qb8 {[%clk 0:29:03]} Qd7 {[%clk 0:07:01]} 33. Qh8 {[%clk 0:23:28]}
+Ke6 {[%clk 0:07:10]} 34. f4 {[%clk 0:20:41]} Nxd4 {[%clk 0:07:35]} 35. Qg8+
+{[%clk 0:18:53]} Qf7 {[%clk 0:07:31]} 36. Qc8+ {[%clk 0:13:52]} Qd7 {[%clk
+0:07:55]} 37. Qg8+ {[%clk 0:12:37]} Qf7 {[%clk 0:08:22]} 38. Qd8 {[%clk 0:11:59]}
+Qd7 {[%clk 0:03:44]} 39. f5+ {[%clk 0:12:17]} gxf5 {[%clk 0:04:09]} 40. gxf5+
+{[%clk 0:12:44]} Nxf5 {[%clk 0:04:33]} 41. Qxd7+ {[%clk 0:10:54]} Kxd7 {[%clk
+0:05:00]} 42. Nxf5 {[%clk 0:11:15]} Ke6 {[%clk 0:05:30]} 43. Ne3 {[%clk 0:10:58]}
+1-0
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.23"]
+[Round "6"]
+[White "Grischuk, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2777"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[WhiteEloChange "1"]
+[BlackTitle "GM"]
+[BlackElo "2842"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+[BlackEloChange "-1"]
+
+1. e4 {[%clk 1:39:17]} e5 {[%clk 1:40:54]} 2. Nf3 {[%clk 1:39:41]} Nc6 {[%clk
+1:41:20]} 3. Bb5 {[%clk 1:39:53]} a6 {[%clk 1:41:42]} 4. Ba4 {[%clk 1:40:19]} Nf6
+{[%clk 1:42:08]} 5. O-O {[%clk 1:40:23]} b5 {[%clk 1:42:32]} 6. Bb3 {[%clk
+1:40:48]} Bc5 {[%clk 1:42:57]} 7. a4 {[%clk 1:40:11]} Rb8 {[%clk 1:43:03]} 8. c3
+{[%clk 1:39:56]} d6 {[%clk 1:43:26]} 9. d4 {[%clk 1:40:22]} Bb6 {[%clk 1:43:51]}
+10. a5 {[%clk 1:39:58]} Ba7 {[%clk 1:44:07]} 11. h3 {[%clk 1:39:07]} O-O {[%clk
+1:44:03]} 12. Be3 {[%clk 1:39:18]} Re8 {[%clk 1:44:10]} 13. Ng5 {[%clk 1:25:08]}
+Rf8 {[%clk 1:44:55]} 14. Nf3 {[%clk 1:26:02]} Re8 {[%clk 1:44:52]} 15. Re1 {[%clk
+0:59:17]} exd4 {[%clk 1:44:24]} 16. cxd4 {[%clk 0:56:04]} Nxe4 {[%clk 1:44:34]}
+17. d5 {[%clk 0:51:29]} Bxe3 {[%clk 1:44:54]} 18. Rxe3 {[%clk 0:51:56]} Na7
+{[%clk 1:45:06]} 19. Qd4 {[%clk 0:42:00]} Bf5 {[%clk 1:45:01]} 20. Nbd2 {[%clk
+0:29:32]} Nc5 {[%clk 1:45:04]} 21. Rxe8+ {[%clk 0:27:20]} Qxe8 {[%clk 1:45:29]}
+22. Re1 {[%clk 0:27:47]} Qf8 {[%clk 1:45:52]} 23. Bd1 {[%clk 0:16:15]} b4 {[%clk
+1:41:26]} 24. Be2 {[%clk 0:13:59]} Qd8 {[%clk 1:31:48]} 25. Bf1 {[%clk 0:08:56]}
+h6 {[%clk 1:23:51]} 26. Re3 {[%clk 0:09:19]} b3 {[%clk 1:21:32]} 27. Qf4 {[%clk
+0:04:11]} Bd7 {[%clk 1:08:31]} 28. Nd4 {[%clk 0:03:27]} Rb4 {[%clk 0:57:54]} 29.
+Rg3 {[%clk 0:03:32]} Qe7 {[%clk 0:56:20]} 30. Bc4 {[%clk 0:02:01]} Nb5 {[%clk
+0:41:21]} 31. N4xb3 {[%clk 0:02:24]} Nxb3 {[%clk 0:39:37]} 32. Rxb3 {[%clk
+0:02:25]} Qe1+ {[%clk 0:33:58]} 33. Kh2 {[%clk 0:02:48]} Rxb3 {[%clk 0:34:24]}
+34. Nxb3 {[%clk 0:02:48]} Qb4 {[%clk 0:34:07]} 35. Qe4 {[%clk 0:02:00]} c5 {[%clk
+0:32:24]} 36. Qd3 {[%clk 0:00:39]} g6 {[%clk 0:30:26]} 37. g4 {[%clk 0:00:48]}
+Kg7 {[%clk 0:28:14]} 38. Kg2 {[%clk 0:01:09]} Nc7 {[%clk 0:27:21]} 39. Qc3+
+{[%clk 0:01:38]} Qxc3 {[%clk 0:28:13]} 40. bxc3 {[%clk 0:01:35]} f5 {[%clk
+0:16:54]} 41. Nd2 {[%clk 0:40:03]} Kf6 {[%clk 0:39:27]} 42. Kg3 {[%clk 0:39:13]}
+Bb5 {[%clk 0:35:10]} 43. Bb3 {[%clk 0:14:32]} Be2 {[%clk 0:35:22]} 44. gxf5
+{[%clk 0:12:02]} gxf5 {[%clk 0:33:22]} 45. f4 {[%clk 0:10:21]} Nb5 {[%clk
+0:33:37]} 46. c4 {[%clk 0:10:24]} Nc3 {[%clk 0:33:55]} 47. Bc2 {[%clk 0:09:09]}
+Bd1 {[%clk 0:30:21]} 48. Bd3 {[%clk 0:08:39]} Na2 {[%clk 0:28:29]} 49. Kf2 {[%clk
+0:05:06]} Nb4 {[%clk 0:27:33]} 50. Ke3 {[%clk 0:05:24]} Bc2 {[%clk 0:24:17]} 51.
+Be2 {[%clk 0:05:18]} Na2 {[%clk 0:23:49]} 52. Nf1 {[%clk 0:04:39]} Nc1 {[%clk
+0:21:54]} 53. Kd2 {[%clk 0:04:58]} Nxe2 {[%clk 0:22:19]} 54. Kxe2 {[%clk
+0:05:26]} Ba4 {[%clk 0:22:44]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.23"]
+[Round "6"]
+[White "Alekseenko, Kirill"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2698"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[WhiteEloChange "-4"]
+[BlackTitle "GM"]
+[BlackElo "2763"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+[BlackEloChange "4"]
+
+1. e4 {[%clk 1:40:56]} e5 {[%clk 1:40:57]} 2. Nf3 {[%clk 1:41:07]} Nc6 {[%clk
+1:41:22]} 3. Bc4 {[%clk 1:41:08]} Bc5 {[%clk 1:41:43]} 4. O-O {[%clk 1:40:47]}
+Nf6 {[%clk 1:42:11]} 5. d3 {[%clk 1:41:06]} d6 {[%clk 1:42:18]} 6. c3 {[%clk
+1:40:29]} O-O {[%clk 1:42:37]} 7. Re1 {[%clk 1:38:47]} a5 {[%clk 1:42:17]} 8.
+Nbd2 {[%clk 1:38:21]} Be6 {[%clk 1:40:10]} 9. Bb5 {[%clk 1:38:09]} Ba7 {[%clk
+1:32:16]} 10. Nf1 {[%clk 1:35:08]} Ne7 {[%clk 1:32:28]} 11. Ng3 {[%clk 1:28:21]}
+c6 {[%clk 1:29:39]} 12. Ba4 {[%clk 1:28:45]} Ng6 {[%clk 1:28:24]} 13. h3 {[%clk
+1:26:49]} d5 {[%clk 1:28:51]} 14. exd5 {[%clk 1:22:54]} Nxd5 {[%clk 1:28:45]} 15.
+Bc2 {[%clk 1:19:37]} Qc7 {[%clk 1:28:45]} 16. d4 {[%clk 1:17:48]} exd4 {[%clk
+1:21:26]} 17. Nxd4 {[%clk 0:57:21]} Rae8 {[%clk 1:20:48]} 18. Bg5 {[%clk
+0:57:07]} Ndf4 {[%clk 0:52:48]} 19. Qd2 {[%clk 0:47:46]} Bd5 {[%clk 0:39:16]} 20.
+Rxe8 {[%clk 0:41:52]} Rxe8 {[%clk 0:32:15]} 21. Re1 {[%clk 0:40:14]} Re5 {[%clk
+0:32:40]} 22. Bxf4 {[%clk 0:40:02]} Rxe1+ {[%clk 0:31:18]} 23. Qxe1 {[%clk
+0:35:19]} Qxf4 {[%clk 0:26:17]} 24. Qe8+ {[%clk 0:35:42]} Nf8 {[%clk 0:26:45]}
+25. Bb3 {[%clk 0:20:35]} Bxd4 {[%clk 0:27:13]} 26. cxd4 {[%clk 0:21:02]} Bxb3
+{[%clk 0:22:05]} 27. axb3 {[%clk 0:21:15]} Qf6 {[%clk 0:17:25]} 28. Qe4 {[%clk
+0:21:41]} g6 {[%clk 0:15:47]} 29. Ne2 {[%clk 0:12:56]} Ne6 {[%clk 0:12:12]} 30.
+h4 {[%clk 0:09:52]} h5 {[%clk 0:12:12]} 31. g3 {[%clk 0:09:53]} Qd8 {[%clk
+0:12:19]} 32. Qe5 {[%clk 0:09:58]} Qb6 {[%clk 0:08:19]} 33. d5 {[%clk 0:08:48]}
+cxd5 {[%clk 0:07:21]} 34. Qxd5 {[%clk 0:08:40]} Kf8 {[%clk 0:07:18]} 35. Nc3
+{[%clk 0:08:39]} Qc7 {[%clk 0:06:37]} 36. Ne4 {[%clk 0:07:42]} Qc1+ {[%clk
+0:05:59]} 37. Kg2 {[%clk 0:05:28]} Qxb2 {[%clk 0:04:05]} 38. Qd7 {[%clk 0:05:47]}
+b6 {[%clk 0:04:09]} 39. Nd6 {[%clk 0:02:30]} Qf6 {[%clk 0:01:13]} 40. Qe8+ {[%clk
+0:01:26]} Kg7 {[%clk 0:01:36]} 41. Qd7 {[%clk 0:00:37]} Kg8 {[%clk 0:02:05]} 42.
+Qe8+ {[%clk 0:48:01]} Nf8 {[%clk 0:49:39]} 43. Qc6 {[%clk 0:21:45]} Qd8 {[%clk
+0:49:00]} 44. Nc4 {[%clk 0:21:30]} Ne6 {[%clk 0:23:40]} 45. Nxb6 {[%clk 0:16:29]}
+Nd4 {[%clk 0:22:24]} 46. Qc5 {[%clk 0:13:29]} Nxb3 {[%clk 0:22:44]} 47. Qb5
+{[%clk 0:11:41]} Nd2 {[%clk 0:22:50]} 48. Qxa5 {[%clk 0:12:04]} Qd3 {[%clk
+0:15:52]} 49. Qa1 {[%clk 0:08:55]} Qe4+ {[%clk 0:16:11]} 50. Kg1 {[%clk 0:07:52]}
+Nf3+ {[%clk 0:11:47]} 51. Kf1 {[%clk 0:07:08]} Nxh4 {[%clk 0:08:11]} 52. Qa8+
+{[%clk 0:07:35]} Qxa8 {[%clk 0:03:40]} 53. Nxa8 {[%clk 0:07:58]} Nf3 {[%clk
+0:04:08]} 54. Kg2 {[%clk 0:08:23]} Ne5 {[%clk 0:04:34]} 55. f4 {[%clk 0:07:38]}
+Ng4 {[%clk 0:04:55]} 56. Nb6 {[%clk 0:06:57]} Kf8 {[%clk 0:04:41]} 57. Nd5 {[%clk
+0:07:12]} Ke8 {[%clk 0:04:01]} 58. Nc3 {[%clk 0:06:40]} Ke7 {[%clk 0:04:28]} 59.
+Ne4 {[%clk 0:05:02]} Ne3+ {[%clk 0:04:45]} 60. Kf3 {[%clk 0:05:07]} Nc4 {[%clk
+0:01:40]} 61. Ng5 {[%clk 0:05:10]} Kf6 {[%clk 0:02:03]} 62. Ne4+ {[%clk 0:02:27]}
+Kf5 {[%clk 0:02:08]} 63. Nf2 {[%clk 0:12:23]} Nd2+ {[%clk 0:17:26]} 64. Ke3
+{[%clk 0:10:40]} Nf1+ {[%clk 0:14:08]} 65. Kf3 {[%clk 0:10:52]} Nh2+ {[%clk
+0:14:34]} 66. Kg2 {[%clk 0:11:17]} Ng4 {[%clk 0:10:01]} 67. Nh3 {[%clk 0:11:43]}
+f6 {[%clk 0:10:27]} 68. Kf3 {[%clk 0:12:05]} Ke6 {[%clk 0:08:22]} 69. Ke4 {[%clk
+0:11:31]} Kd6 {[%clk 0:08:04]} 70. Ng1 {[%clk 0:10:25]} Kc5 {[%clk 0:08:28]} 71.
+Kd3 {[%clk 0:09:25]} Nh6 {[%clk 0:08:03]} 72. Ke3 {[%clk 0:06:05]} Nf5+ {[%clk
+0:08:05]} 73. Kf3 {[%clk 0:04:38]} Kc4 {[%clk 0:05:21]} 74. Nh3 {[%clk 0:04:35]}
+Nd4+ {[%clk 0:04:04]} 75. Ke3 {[%clk 0:04:46]} Nf5+ {[%clk 0:03:05]} 76. Kf3
+{[%clk 0:04:58]} Kd4 {[%clk 0:02:45]} 77. Nf2 {[%clk 0:05:24]} Nd6 {[%clk
+0:03:07]} 78. Nh3 {[%clk 0:03:31]} Ne4 {[%clk 0:03:32]} 79. Ng1 {[%clk 0:02:45]}
+Kd3 {[%clk 0:03:40]} 80. Kg2 {[%clk 0:02:48]} Nd2 {[%clk 0:03:04]} 81. Kf2 {[%clk
+0:02:06]} Ke4 {[%clk 0:01:36]} 82. Ne2 {[%clk 0:01:59]} Nb1 {[%clk 0:01:03]} 83.
+Ng1 {[%clk 0:02:20]} h4 {[%clk 0:01:29]} 84. Nh3 {[%clk 0:02:23]} Kf5 {[%clk
+0:01:48]} 85. gxh4 {[%clk 0:02:17]} Kg4 {[%clk 0:00:42]} 86. f5 {[%clk 0:01:26]}
+gxf5 {[%clk 0:01:12]} 87. Ke3 {[%clk 0:01:02]} Nc3 {[%clk 0:01:22]} 88. Nf2+
+{[%clk 0:01:04]} Kg3 {[%clk 0:01:39]} 89. Nd3 {[%clk 0:01:10]} Nd5+ {[%clk
+0:01:37]} 90. Kd4 {[%clk 0:01:05]} Nf4 {[%clk 0:01:43]} 91. Nc5 {[%clk 0:01:05]}
+Kxh4 {[%clk 0:02:04]} 92. Ke3 {[%clk 0:00:57]} Kg3 {[%clk 0:02:24]} 93. Nb3
+{[%clk 0:00:46]} Ne6 {[%clk 0:02:50]} 94. Nd2 {[%clk 0:00:51]} f4+ {[%clk
+0:01:52]} 95. Ke2 {[%clk 0:00:45]} Ng5 {[%clk 0:02:15]} 96. Kf1 {[%clk 0:00:53]}
+f3 {[%clk 0:02:25]} 97. Kg1 {[%clk 0:00:36]} f2+ {[%clk 0:02:47]} 98. Kf1 {[%clk
+0:00:35]} f5 {[%clk 0:01:24]} 0-1
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.23"]
+[Round "6"]
+[White "Nepomniachtchi, Ian"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2774"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[WhiteEloChange "5"]
+[BlackTitle "GM"]
+[BlackElo "2805"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+[BlackEloChange "-5"]
+
+1. e4 {[%clk 1:41:00]} e5 {[%clk 1:40:56]} 2. Nf3 {[%clk 1:41:23]} Nc6 {[%clk
+1:41:24]} 3. Bb5 {[%clk 1:41:45]} a6 {[%clk 1:41:49]} 4. Ba4 {[%clk 1:42:10]} Nf6
+{[%clk 1:42:17]} 5. O-O {[%clk 1:42:29]} Be7 {[%clk 1:42:45]} 6. d3 {[%clk
+1:42:25]} b5 {[%clk 1:43:08]} 7. Bb3 {[%clk 1:42:51]} d6 {[%clk 1:43:25]} 8. a3
+{[%clk 1:43:05]} O-O {[%clk 1:43:25]} 9. Nc3 {[%clk 1:43:28]} Na5 {[%clk
+1:42:58]} 10. Ba2 {[%clk 1:42:44]} Be6 {[%clk 1:43:24]} 11. b4 {[%clk 1:42:58]}
+Bxa2 {[%clk 1:43:45]} 12. Rxa2 {[%clk 1:43:24]} Nc6 {[%clk 1:43:45]} 13. Bg5
+{[%clk 1:43:40]} Qd7 {[%clk 1:40:31]} 14. Bxf6 {[%clk 1:44:01]} Bxf6 {[%clk
+1:40:59]} 15. Nd5 {[%clk 1:44:24]} a5 {[%clk 1:40:47]} 16. Rb2 {[%clk 1:44:49]}
+axb4 {[%clk 1:28:45]} 17. axb4 {[%clk 1:44:54]} Bd8 {[%clk 1:27:16]} 18. c4
+{[%clk 1:45:09]} Nd4 {[%clk 1:26:46]} 19. Nxd4 {[%clk 1:45:24]} exd4 {[%clk
+1:27:17]} 20. Qc2 {[%clk 1:45:39]} Re8 {[%clk 1:16:49]} 21. g3 {[%clk 1:46:07]}
+bxc4 {[%clk 1:15:22]} 22. Qxc4 {[%clk 1:46:07]} c6 {[%clk 1:13:59]} 23. Nf4
+{[%clk 1:46:08]} Bg5 {[%clk 1:13:54]} 24. Ne2 {[%clk 1:44:59]} d5 {[%clk
+1:04:37]} 25. exd5 {[%clk 1:40:18]} cxd5 {[%clk 1:05:02]} 26. Qb3 {[%clk
+1:40:39]} h5 {[%clk 1:05:21]} 27. b5 {[%clk 1:35:03]} h4 {[%clk 1:03:38]} 28. b6
+{[%clk 1:34:49]} h3 {[%clk 1:04:01]} 29. Kh1 {[%clk 1:34:52]} Reb8 {[%clk
+1:04:20]} 30. Rfb1 {[%clk 1:35:19]} Bd8 {[%clk 0:56:33]} 31. Qb5 {[%clk 1:33:39]}
+Qg4 {[%clk 0:57:02]} 32. Qxd5 {[%clk 1:31:54]} Ra5 {[%clk 0:56:06]} 33. Qc6
+{[%clk 1:30:26]} Rc5 {[%clk 0:56:18]} 34. Qe8+ {[%clk 1:29:13]} Kh7 {[%clk
+0:40:37]} 35. Ng1 {[%clk 1:25:53]} Rxb6 {[%clk 0:39:02]} 36. Qxd8 {[%clk
+1:08:48]} Rxb2 {[%clk 0:35:30]} 37. Rxb2 {[%clk 0:49:14]} Rc1 {[%clk 0:35:56]}
+38. Qh4+ {[%clk 0:46:02]} Qxh4 {[%clk 0:36:25]} 39. gxh4 {[%clk 0:40:43]} Rd1
+{[%clk 0:23:10]} 40. f3 {[%clk 0:40:27]} 1-0
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.23"]
+[Round "6"]
+[White "Wang, Hao"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2762"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+
+1. d4 {[%clk 1:40:57]} Nf6 {[%clk 1:40:56]} 2. c4 {[%clk 1:41:21]} g6 {[%clk
+1:41:21]} 3. Nc3 {[%clk 1:41:46]} d5 {[%clk 1:41:49]} 4. cxd5 {[%clk 1:42:08]}
+Nxd5 {[%clk 1:42:15]} 5. e4 {[%clk 1:43:03]} Nxc3 {[%clk 1:42:40]} 6. bxc3 {[%clk
+1:42:57]} Bg7 {[%clk 1:43:07]} 7. Bc4 {[%clk 1:43:24]} c5 {[%clk 1:43:30]} 8. Ne2
+{[%clk 1:43:47]} O-O {[%clk 1:43:56]} 9. O-O {[%clk 1:44:09]} Nc6 {[%clk
+1:44:21]} 10. Be3 {[%clk 1:44:32]} b6 {[%clk 1:44:22]} 11. h4 {[%clk 1:44:46]} e6
+{[%clk 1:41:38]} 12. h5 {[%clk 1:45:40]} Qh4 {[%clk 1:42:02]} 13. hxg6 {[%clk
+1:45:33]} hxg6 {[%clk 1:42:28]} 14. f3 {[%clk 1:45:57]} Bb7 {[%clk 1:36:18]} 15.
+Qd2 {[%clk 1:46:16]} cxd4 {[%clk 1:36:41]} 16. cxd4 {[%clk 1:47:11]} Rfd8 {[%clk
+1:37:33]} 17. Rac1 {[%clk 1:46:40]} Qe7 {[%clk 1:34:07]} 18. Rfd1 {[%clk
+1:43:58]} Rac8 {[%clk 1:24:22]} 19. Bg5 {[%clk 1:42:05]} Bf6 {[%clk 1:24:06]} 20.
+Bxf6 {[%clk 1:42:26]} Qxf6 {[%clk 1:24:30]} 21. Qe3 {[%clk 1:42:52]} Kg7 {[%clk
+1:21:39]} 22. Kf2 {[%clk 1:43:13]} Rh8 {[%clk 1:08:09]} 23. Rh1 {[%clk 1:42:20]}
+Rxh1 {[%clk 0:56:55]} 24. Rxh1 {[%clk 1:37:55]} Rh8 {[%clk 0:57:23]} 25. Rxh8
+{[%clk 1:36:12]} Kxh8 {[%clk 0:57:24]} 26. Qc3 {[%clk 1:30:35]} Kg8 {[%clk
+0:50:34]} 27. d5 {[%clk 1:28:31]} Qxc3 {[%clk 0:51:01]} 28. Nxc3 {[%clk 1:24:13]}
+Na5 {[%clk 0:51:15]} 29. Bd3 {[%clk 1:14:55]} exd5 {[%clk 0:43:01]} 30. exd5
+{[%clk 1:05:01]} Kf8 {[%clk 0:35:42]} 31. Ke3 {[%clk 1:04:43]} Ke7 {[%clk
+0:33:39]} 32. Kd4 {[%clk 0:59:15]} Bc8 {[%clk 0:32:19]} 33. Nb5 {[%clk 0:59:10]}
+a6 {[%clk 0:32:44]} 34. Nc7 {[%clk 0:59:27]} Kd6 {[%clk 0:32:14]} 35. Nxa6 {[%clk
+0:59:05]} Nb7 {[%clk 0:31:43]} 36. g4 {[%clk 0:42:21]} g5 {[%clk 0:31:53]} 37.
+Nb4 {[%clk 0:42:45]} Bd7 {[%clk 0:32:20]} 38. Nc2 {[%clk 0:42:42]} Ke7 {[%clk
+0:32:18]} 39. Ne3 {[%clk 0:38:10]} Nd6 {[%clk 0:24:22]} 40. Nd1 {[%clk 0:33:16]}
+Ba4 {[%clk 0:18:29]} 41. Nf2 {[%clk 0:30:10]} f6 {[%clk 0:17:51]} 42. Be2 {[%clk
+0:30:27]} Be8 {[%clk 0:18:17]} 43. Nd1 {[%clk 0:28:19]} Ba4 {[%clk 0:14:10]} 44.
+Nb2 {[%clk 0:25:51]} Be8 {[%clk 0:11:32]} 45. Bd1 {[%clk 0:26:15]} Nb5+ {[%clk
+0:09:29]} 46. Kc4 {[%clk 0:24:53]} Nc7 {[%clk 0:08:34]} 47. Bb3 {[%clk 0:23:57]}
+Kd6 {[%clk 0:08:24]} 48. Kd4 {[%clk 0:24:23]} Nb5+ {[%clk 0:05:50]} 49. Kd3
+{[%clk 0:24:01]} Nc7 {[%clk 0:47:12]} 50. Nc4+ {[%clk 1:14:12]} Kc5 {[%clk
+0:46:39]} 51. Nd2 {[%clk 1:14:07]} Bb5+ {[%clk 0:46:59]} 52. Ke4 {[%clk 1:11:19]}
+Bd7 {[%clk 0:44:53]} 53. Nf1 {[%clk 1:11:22]} Nb5 {[%clk 0:45:07]} 54. Ng3 {[%clk
+1:09:08]} Nd6+ {[%clk 0:40:53]} 55. Ke3 {[%clk 1:09:31]} f5 {[%clk 0:41:19]} 56.
+gxf5 {[%clk 1:09:09]} Bxf5 {[%clk 0:33:29]} 57. Nxf5 {[%clk 1:07:47]} Nxf5+
+{[%clk 0:33:32]} 58. Ke4 {[%clk 1:07:14]} Nh4 {[%clk 0:26:27]} 59. Ba4 {[%clk
+1:07:35]} Kd6 {[%clk 0:26:54]} 60. Be8 {[%clk 1:06:28]} Ng2 {[%clk 0:27:09]} 61.
+Bf7 {[%clk 1:06:50]} Ne1 {[%clk 0:27:11]} 62. a4 {[%clk 1:03:10]} Nc2 {[%clk
+0:27:03]} 63. Be8 {[%clk 1:03:23]} Ne1 {[%clk 0:26:09]} 64. Bb5 {[%clk 1:01:53]}
+Ng2 {[%clk 0:25:43]} 65. Bc4 {[%clk 1:00:40]} Nh4 {[%clk 0:21:38]} 66. Bf1 {[%clk
+0:58:20]} Kc5 {[%clk 0:18:44]} 67. Bh3 {[%clk 0:58:15]} Kd6 {[%clk 0:18:43]} 68.
+Be6 {[%clk 0:56:31]} Ng6 {[%clk 0:18:54]} 69. Bf7 {[%clk 0:55:08]} Nh4 {[%clk
+0:16:58]} 70. Be8 {[%clk 0:52:33]} Ng2 {[%clk 0:17:22]} 71. Bb5 {[%clk 0:48:57]}
+Nh4 {[%clk 0:13:48]} 72. Bd3 {[%clk 0:49:21]} Kc5 {[%clk 0:09:11]} 73. Bf1 {[%clk
+0:49:26]} Kd6 {[%clk 0:09:29]} 74. Bh3 {[%clk 0:49:44]} Ng6 {[%clk 0:09:10]} 75.
+Be6 {[%clk 0:49:37]} Nh4 {[%clk 0:07:59]} 76. Bf7 {[%clk 0:47:44]} Ke7 {[%clk
+0:07:41]} 77. Bh5 {[%clk 0:46:17]} Kd6 {[%clk 0:06:24]} 78. Bg4 {[%clk 0:46:33]}
+Ng2 {[%clk 0:06:03]} 79. Kf5 {[%clk 0:46:45]} Kxd5 {[%clk 0:03:33]} 80. Kxg5
+{[%clk 0:46:07]} Ke5 {[%clk 0:03:54]} 81. Kg6 {[%clk 0:46:31]} Nf4+ {[%clk
+0:04:15]} 82. Kf7 {[%clk 0:46:09]} Nd3 {[%clk 0:04:37]} 83. Ke7 {[%clk 0:46:36]}
+1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.25"]
+[Round "7"]
+[White "Caruana, Fabiano"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2842"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[WhiteEloChange "-1"]
+[BlackTitle "GM"]
+[BlackElo "2762"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+[BlackEloChange "1"]
+
+1. e4 {[%clk 1:40:57]} e5 {[%clk 1:40:57]} 2. Nf3 {[%clk 1:41:22]} Nf6 {[%clk
+1:41:22]} 3. Nxe5 {[%clk 1:41:44]} d6 {[%clk 1:41:47]} 4. Nf3 {[%clk 1:42:08]}
+Nxe4 {[%clk 1:42:12]} 5. Nc3 {[%clk 1:42:33]} Nxc3 {[%clk 1:42:35]} 6. dxc3
+{[%clk 1:42:58]} Be7 {[%clk 1:43:29]} 7. Be3 {[%clk 1:43:22]} O-O {[%clk
+1:43:23]} 8. Qd2 {[%clk 1:43:49]} Nd7 {[%clk 1:43:41]} 9. O-O-O {[%clk 1:44:10]}
+Nf6 {[%clk 1:44:08]} 10. Bd3 {[%clk 1:44:19]} c5 {[%clk 1:44:14]} 11. Rhe1 {[%clk
+1:43:20]} Be6 {[%clk 1:44:14]} 12. Kb1 {[%clk 1:43:04]} Qa5 {[%clk 1:44:24]} 13.
+c4 {[%clk 1:43:22]} Qxd2 {[%clk 1:44:49]} 14. Nxd2 {[%clk 1:43:35]} Rad8 {[%clk
+1:43:58]} 15. f3 {[%clk 1:31:59]} b6 {[%clk 1:28:18]} 16. g4 {[%clk 1:05:09]} d5
+{[%clk 1:22:37]} 17. g5 {[%clk 0:55:04]} Nh5 {[%clk 1:21:45]} 18. cxd5 {[%clk
+0:55:19]} Bxd5 {[%clk 1:21:56]} 19. Ne4 {[%clk 0:54:21]} f5 {[%clk 0:49:29]} 20.
+gxf6 {[%clk 0:54:29]} Nxf6 {[%clk 0:49:48]} 21. Bg5 {[%clk 0:49:05]} Kf7 {[%clk
+0:47:28]} 22. Ng3 {[%clk 0:49:07]} c4 {[%clk 0:47:55]} 23. Bf1 {[%clk 0:39:42]}
+b5 {[%clk 0:38:22]} 24. a4 {[%clk 0:29:18]} a6 {[%clk 0:35:23]} 25. axb5 {[%clk
+0:29:39]} axb5 {[%clk 0:33:03]} 26. Nf5 {[%clk 0:29:25]} Bc5 {[%clk 0:32:57]} 27.
+Re5 {[%clk 0:29:23]} Bxf3 {[%clk 0:27:23]} 28. Rxd8 {[%clk 0:21:51]} Rxd8 {[%clk
+0:27:14]} 29. Rxc5 {[%clk 0:22:06]} Rd1+ {[%clk 0:28:08]} 30. Ka2 {[%clk
+0:22:16]} Rxf1 {[%clk 0:28:02]} 31. Rxb5 {[%clk 0:22:30]} c3 {[%clk 0:28:31]} 32.
+Bxf6 {[%clk 0:22:20]} Kxf6 {[%clk 0:17:32]} 33. Ne3 {[%clk 0:10:58]} Rf2 {[%clk
+0:11:28]} 34. Rf5+ {[%clk 0:06:20]} Ke6 {[%clk 0:11:49]} 35. Ka3 {[%clk 0:05:05]}
+cxb2 {[%clk 0:12:09]} 36. Kxb2 {[%clk 0:05:06]} h5 {[%clk 0:09:42]} 37. h4 {[%clk
+0:05:33]} Rxc2+ {[%clk 0:09:24]} 38. Kxc2 {[%clk 0:04:29]} Be4+ {[%clk 0:07:00]}
+39. Kd2 {[%clk 0:04:55]} Bxf5 {[%clk 0:07:26]} 40. Ke2 {[%clk 0:04:46]} Ke5
+{[%clk 0:07:49]} 41. Kf3 {[%clk 0:02:35]} Bd3 {[%clk 0:06:07]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.25"]
+[Round "7"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[WhiteEloChange "5"]
+[BlackTitle "GM"]
+[BlackElo "2774"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+[BlackEloChange "-5"]
+
+1. e4 {[%clk 1:40:57]} e6 {[%clk 1:40:54]} 2. d4 {[%clk 1:41:22]} d5 {[%clk
+1:41:20]} 3. Nc3 {[%clk 1:41:50]} Bb4 {[%clk 1:41:42]} 4. e5 {[%clk 1:42:15]} c5
+{[%clk 1:42:06]} 5. a3 {[%clk 1:43:13]} Bxc3+ {[%clk 1:42:29]} 6. bxc3 {[%clk
+1:43:36]} Ne7 {[%clk 1:43:20]} 7. h4 {[%clk 1:44:04]} Qc7 {[%clk 1:42:23]} 8. h5
+{[%clk 1:43:39]} h6 {[%clk 1:42:52]} 9. Rb1 {[%clk 1:41:21]} b6 {[%clk 1:42:45]}
+10. Qg4 {[%clk 1:40:52]} Rg8 {[%clk 1:43:07]} 11. Bb5+ {[%clk 1:41:19]} Kf8
+{[%clk 1:43:19]} 12. Bd3 {[%clk 1:40:53]} Ba6 {[%clk 1:38:55]} 13. dxc5 {[%clk
+1:40:17]} Bxd3 {[%clk 1:39:05]} 14. cxd3 {[%clk 1:40:42]} Nd7 {[%clk 1:39:15]}
+15. d4 {[%clk 1:41:00]} bxc5 {[%clk 1:39:03]} 16. Qd1 {[%clk 1:40:55]} Qa5 {[%clk
+1:26:21]} 17. Bd2 {[%clk 1:36:53]} Rb8 {[%clk 1:20:36]} 18. Ne2 {[%clk 1:21:08]}
+c4 {[%clk 0:49:52]} 19. O-O {[%clk 0:56:08]} Rb6 {[%clk 0:49:53]} 20. Qc2 {[%clk
+0:52:51]} Rh8 {[%clk 0:48:16]} 21. a4 {[%clk 0:51:55]} Ke8 {[%clk 0:46:11]} 22.
+Rb4 {[%clk 0:47:09]} Nc6 {[%clk 0:42:03]} 23. f4 {[%clk 0:45:49]} Ne7 {[%clk
+0:37:08]} 24. Rfb1 {[%clk 0:42:23]} f5 {[%clk 0:37:36]} 25. Rb5 {[%clk 0:38:23]}
+Qa6 {[%clk 0:36:51]} 26. Bc1 {[%clk 0:38:36]} Kf7 {[%clk 0:36:14]} 27. Ba3 {[%clk
+0:37:32]} Rhb8 {[%clk 0:27:47]} 28. Bxe7 {[%clk 0:37:51]} Kxe7 {[%clk 0:27:46]}
+29. g4 {[%clk 0:36:55]} Rxb5 {[%clk 0:27:36]} 30. axb5 {[%clk 0:36:33]} Rxb5
+{[%clk 0:26:58]} 31. gxf5 {[%clk 0:36:13]} Rxb1+ {[%clk 0:20:06]} 32. Qxb1 {[%clk
+0:36:06]} exf5 {[%clk 0:20:00]} 33. Ng3 {[%clk 0:35:53]} Qb6 {[%clk 0:18:18]} 34.
+Nxf5+ {[%clk 0:36:11]} Kf8 {[%clk 0:18:37]} 35. Qa1 {[%clk 0:32:37]} Qe6 {[%clk
+0:17:06]} 36. Ng3 {[%clk 0:27:58]} Qg4 {[%clk 0:17:59]} 37. Kg2 {[%clk 0:22:34]}
+Qxf4 {[%clk 0:16:48]} 38. Qxa7 {[%clk 0:18:18]} Ke7 {[%clk 0:12:36]} 39. Qa3+
+{[%clk 0:12:13]} Kd8 {[%clk 0:09:47]} 40. Qd6 {[%clk 0:12:09]} g5 {[%clk
+0:07:36]} 41. hxg6 {[%clk 0:12:16]} h5 {[%clk 0:07:55]} 42. g7 {[%clk 0:12:14]}
+1-0
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.25"]
+[Round "7"]
+[White "Ding, Liren"]
+[Black "Alekseenko, Kirill"]
+[Result "1/2-1/2"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2805"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[WhiteEloChange "-1"]
+[BlackTitle "GM"]
+[BlackElo "2698"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+[BlackEloChange "1"]
+
+1. d4 {[%clk 1:40:55]} Nf6 {[%clk 1:40:48]} 2. c4 {[%clk 1:41:20]} e6 {[%clk
+1:41:08]} 3. g3 {[%clk 1:41:38]} Bb4+ {[%clk 1:41:03]} 4. Bd2 {[%clk 1:42:10]}
+Be7 {[%clk 1:41:19]} 5. Bg2 {[%clk 1:42:37]} d5 {[%clk 1:41:27]} 6. Nf3 {[%clk
+1:43:05]} O-O {[%clk 1:41:43]} 7. O-O {[%clk 1:43:26]} Nbd7 {[%clk 1:42:06]} 8.
+Qc2 {[%clk 1:43:20]} c6 {[%clk 1:42:08]} 9. Bf4 {[%clk 1:43:47]} b6 {[%clk
+1:41:17]} 10. Rd1 {[%clk 1:44:10]} Ba6 {[%clk 1:40:45]} 11. Nbd2 {[%clk 1:44:34]}
+Rc8 {[%clk 1:32:02]} 12. Rac1 {[%clk 1:44:42]} Nh5 {[%clk 1:27:05]} 13. Be3
+{[%clk 1:45:01]} Nhf6 {[%clk 1:24:43]} 14. Bg5 {[%clk 1:45:13]} Bb7 {[%clk
+1:07:41]} 15. Ne5 {[%clk 1:37:20]} Nxe5 {[%clk 0:58:53]} 16. dxe5 {[%clk
+1:38:12]} Ng4 {[%clk 0:58:53]} 17. Bxe7 {[%clk 1:36:49]} Qxe7 {[%clk 0:59:21]}
+18. Nf3 {[%clk 1:36:55]} f6 {[%clk 0:57:25]} 19. exf6 {[%clk 1:28:39]} Nxf6
+{[%clk 0:52:59]} 20. Bh3 {[%clk 1:01:17]} Rce8 {[%clk 0:47:47]} 21. Qa4 {[%clk
+0:53:07]} c5 {[%clk 0:47:41]} 22. b4 {[%clk 0:42:33]} cxb4 {[%clk 0:37:38]} 23.
+Qxa7 {[%clk 0:41:58]} Ne4 {[%clk 0:23:11]} 24. Qxb6 {[%clk 0:41:36]} Nc3 {[%clk
+0:23:25]} 25. Re1 {[%clk 0:42:02]} dxc4 {[%clk 0:21:45]} 26. a3 {[%clk 0:42:25]}
+Bd5 {[%clk 0:07:15]} 27. Qxb4 {[%clk 0:38:28]} Qxb4 {[%clk 0:06:30]} 28. axb4
+{[%clk 0:38:58]} Nxe2+ {[%clk 0:05:57]} 29. Rxe2 {[%clk 0:39:24]} Rxf3 {[%clk
+0:06:21]} 30. Bg2 {[%clk 0:35:56]} Rff8 {[%clk 0:06:40]} 31. Rd2 {[%clk 0:33:29]}
+Rb8 {[%clk 0:05:57]} 32. Bxd5 {[%clk 0:33:51]} exd5 {[%clk 0:06:23]} 33. Rxd5
+{[%clk 0:34:17]} Rxb4 {[%clk 0:06:45]} 34. Rc2 {[%clk 0:29:48]} Rc8 {[%clk
+0:06:57]} 35. Kf1 {[%clk 0:29:59]} c3 {[%clk 0:06:48]} 36. Ke2 {[%clk 0:30:01]}
+Rb7 {[%clk 0:07:02]} 37. Rd3 {[%clk 0:28:45]} Rb2 {[%clk 0:05:18]} 38. Kd1 {[%clk
+0:29:06]} Rb1+ {[%clk 0:05:37]} 39. Ke2 {[%clk 0:29:18]} Rb2 {[%clk 0:06:01]} 40.
+Kd1 {[%clk 0:29:44]} Rb1+ {[%clk 0:06:57]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.25"]
+[Round "7"]
+[White "Giri, Anish"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2763"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackTitle "GM"]
+[BlackElo "2777"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+1. c4 {[%clk 1:40:57]} e5 {[%clk 1:38:38]} 2. g3 {[%clk 1:41:05]} c6 {[%clk
+1:38:09]} 3. Nf3 {[%clk 1:40:54]} e4 {[%clk 1:38:28]} 4. Nd4 {[%clk 1:41:17]} d5
+{[%clk 1:38:41]} 5. cxd5 {[%clk 1:41:08]} Qxd5 {[%clk 1:39:02]} 6. Nc2 {[%clk
+1:40:37]} Nf6 {[%clk 1:38:07]} 7. Nc3 {[%clk 1:40:16]} Qe5 {[%clk 1:38:00]} 8.
+Bg2 {[%clk 1:40:07]} Na6 {[%clk 1:36:50]} 9. O-O {[%clk 1:40:48]} Be7 {[%clk
+1:37:12]} 10. Ne3 {[%clk 1:41:06]} h5 {[%clk 1:08:42]} 11. d4 {[%clk 1:40:11]}
+exd3 {[%clk 1:04:41]} 12. exd3 {[%clk 1:40:29]} Qd4 {[%clk 0:58:49]} 13. Nc2
+{[%clk 1:36:45]} Qg4 {[%clk 0:55:40]} 14. Bf4 {[%clk 1:07:58]} Qxd1 {[%clk
+0:47:24]} 15. Raxd1 {[%clk 1:08:03]} Bg4 {[%clk 0:46:54]} 16. Rd2 {[%clk
+1:03:31]} O-O-O {[%clk 0:37:19]} 17. d4 {[%clk 0:59:43]} Nc7 {[%clk 0:25:14]} 18.
+Ne3 {[%clk 0:54:42]} Be6 {[%clk 0:16:42]} 19. d5 {[%clk 0:23:54]} Ncxd5 {[%clk
+0:15:34]} 20. Ncxd5 {[%clk 0:24:06]} Nxd5 {[%clk 0:15:59]} 21. Nxd5 {[%clk
+0:24:30]} Bxd5 {[%clk 0:16:23]} 22. Rxd5 {[%clk 0:24:46]} Rxd5 {[%clk 0:16:36]}
+23. Bxd5 {[%clk 0:25:14]} cxd5 {[%clk 0:16:59]} 24. Rc1+ {[%clk 0:26:12]} Kd7
+{[%clk 0:17:02]} 25. Rc7+ {[%clk 0:26:07]} Ke6 {[%clk 0:17:28]} 26. Rxb7 {[%clk
+0:26:36]} Rc8 {[%clk 0:17:44]} 27. Rxa7 {[%clk 0:24:46]} Rc2 {[%clk 0:17:27]} 28.
+Be3 {[%clk 0:21:44]} Bf6 {[%clk 0:13:24]} 29. Ra4 {[%clk 0:21:36]} Bxb2 {[%clk
+0:12:13]} 30. Kg2 {[%clk 0:21:53]} d4 {[%clk 0:11:05]} 31. Bxd4 {[%clk 0:22:18]}
+Bxd4 {[%clk 0:11:31]} 32. Rxd4 {[%clk 0:22:45]} Rxa2 {[%clk 0:11:58]} 33. Re4+
+{[%clk 0:23:14]} Kf6 {[%clk 0:12:21]} 34. Rf4+ {[%clk 0:23:43]} Ke6 {[%clk
+0:12:42]} 35. Re4+ {[%clk 0:24:12]} Kf6 {[%clk 0:13:07]} 36. Rf4+ {[%clk
+0:24:41]} Ke6 {[%clk 0:13:31]} 37. Re4+ {[%clk 0:25:11]} Kf6 {[%clk 0:13:58]} 38.
+Rf4+ {[%clk 0:25:37]} Ke6 {[%clk 0:14:21]} 39. h4 {[%clk 0:26:08]} g6 {[%clk
+0:14:46]} 40. Re4+ {[%clk 0:26:36]} Kf6 {[%clk 0:15:11]} 1/2-1/2
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.26"]
+[Round "8"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "*"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteElo "2842"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.26"]
+[Round "8"]
+[White "Wang, Hao"]
+[Black "Ding, Liren"]
+[Result "*"]
+[Board "2"]
+[WhiteElo "2762"]
+[WhiteTitle "GM"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[BlackElo "2805"]
+[BlackTitle "GM"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.26"]
+[Round "8"]
+[White "Nepomniachtchi, Ian"]
+[Black "Giri, Anish"]
+[Result "*"]
+[Board "3"]
+[WhiteElo "2774"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[BlackElo "2763"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.26"]
+[Round "8"]
+[White "Alekseenko, Kirill"]
+[Black "Grischuk, Alexander"]
+[Result "*"]
+[Board "4"]
+[WhiteElo "2698"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[BlackElo "2777"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.27"]
+[Round "9"]
+[White "Alekseenko, Kirill"]
+[Black "Caruana, Fabiano"]
+[Result "*"]
+[Board "1"]
+[WhiteElo "2698"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[BlackElo "2842"]
+[BlackTitle "GM"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.27"]
+[Round "9"]
+[White "Grischuk, Alexander"]
+[Black "Nepomniachtchi, Ian"]
+[Result "*"]
+[Board "2"]
+[WhiteElo "2777"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[BlackElo "2774"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.27"]
+[Round "9"]
+[White "Giri, Anish"]
+[Black "Wang, Hao"]
+[Result "*"]
+[Board "3"]
+[WhiteElo "2763"]
+[WhiteTitle "GM"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackElo "2762"]
+[BlackTitle "GM"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.27"]
+[Round "9"]
+[White "Ding, Liren"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "*"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2805"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.29"]
+[Round "10"]
+[White "Caruana, Fabiano"]
+[Black "Ding, Liren"]
+[Result "*"]
+[Board "1"]
+[WhiteElo "2842"]
+[WhiteTitle "GM"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[BlackElo "2805"]
+[BlackTitle "GM"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.29"]
+[Round "10"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "*"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[BlackTitle "GM"]
+[BlackElo "2763"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.29"]
+[Round "10"]
+[White "Wang, Hao"]
+[Black "Grischuk, Alexander"]
+[Result "*"]
+[Board "3"]
+[WhiteElo "2762"]
+[WhiteTitle "GM"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[BlackElo "2777"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.29"]
+[Round "10"]
+[White "Nepomniachtchi, Ian"]
+[Black "Alekseenko, Kirill"]
+[Result "*"]
+[Board "4"]
+[WhiteElo "2774"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[BlackElo "2698"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.30"]
+[Round "11"]
+[White "Nepomniachtchi, Ian"]
+[Black "Caruana, Fabiano"]
+[Result "*"]
+[Board "1"]
+[WhiteElo "2774"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[BlackElo "2842"]
+[BlackTitle "GM"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.30"]
+[Round "11"]
+[White "Alekseenko, Kirill"]
+[Black "Wang, Hao"]
+[Result "*"]
+[Board "2"]
+[WhiteElo "2698"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[BlackElo "2762"]
+[BlackTitle "GM"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.30"]
+[Round "11"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "*"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2777"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.30"]
+[Round "11"]
+[White "Giri, Anish"]
+[Black "Ding, Liren"]
+[Result "*"]
+[Board "4"]
+[WhiteElo "2763"]
+[WhiteTitle "GM"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackElo "2805"]
+[BlackTitle "GM"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.31"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Giri, Anish"]
+[Result "*"]
+[Board "1"]
+[WhiteElo "2842"]
+[WhiteTitle "GM"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[BlackElo "2763"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.31"]
+[Round "12"]
+[White "Ding, Liren"]
+[Black "Grischuk, Alexander"]
+[Result "*"]
+[Board "2"]
+[WhiteElo "2805"]
+[WhiteTitle "GM"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[BlackElo "2777"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.31"]
+[Round "12"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Alekseenko, Kirill"]
+[Result "*"]
+[Board "3"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[BlackTitle "GM"]
+[BlackElo "2698"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.03.31"]
+[Round "12"]
+[White "Wang, Hao"]
+[Black "Nepomniachtchi, Ian"]
+[Result "*"]
+[Board "4"]
+[WhiteElo "2762"]
+[WhiteTitle "GM"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[BlackElo "2774"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.02"]
+[Round "13"]
+[White "Wang, Hao"]
+[Black "Caruana, Fabiano"]
+[Result "*"]
+[Board "1"]
+[WhiteElo "2762"]
+[WhiteTitle "GM"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8602883"]
+[BlackElo "2842"]
+[BlackTitle "GM"]
+[BlackCountry "USA"]
+[BlackFideId "2020009"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.02"]
+[Round "13"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "*"]
+[Board "2"]
+[WhiteTitle "GM"]
+[WhiteElo "2774"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4168119"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[BlackCountry "FRA"]
+[BlackFideId "623539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.02"]
+[Round "13"]
+[White "Alekseenko, Kirill"]
+[Black "Ding, Liren"]
+[Result "*"]
+[Board "3"]
+[WhiteElo "2698"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4135539"]
+[BlackElo "2805"]
+[BlackTitle "GM"]
+[BlackCountry "CHN"]
+[BlackFideId "8603677"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.02"]
+[Round "13"]
+[White "Grischuk, Alexander"]
+[Black "Giri, Anish"]
+[Result "*"]
+[Board "4"]
+[WhiteElo "2777"]
+[WhiteTitle "GM"]
+[WhiteCountry "RUS"]
+[WhiteFideId "4126025"]
+[BlackElo "2763"]
+[BlackTitle "GM"]
+[BlackCountry "NED"]
+[BlackFideId "24116068"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.03"]
+[Round "14"]
+[White "Caruana, Fabiano"]
+[Black "Grischuk, Alexander"]
+[Result "*"]
+[Board "1"]
+[WhiteElo "2842"]
+[WhiteTitle "GM"]
+[WhiteCountry "USA"]
+[WhiteFideId "2020009"]
+[BlackElo "2777"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4126025"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.03"]
+[Round "14"]
+[White "Giri, Anish"]
+[Black "Alekseenko, Kirill"]
+[Result "*"]
+[Board "2"]
+[WhiteElo "2763"]
+[WhiteTitle "GM"]
+[WhiteCountry "NED"]
+[WhiteFideId "24116068"]
+[BlackElo "2698"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4135539"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.03"]
+[Round "14"]
+[White "Ding, Liren"]
+[Black "Nepomniachtchi, Ian"]
+[Result "*"]
+[Board "3"]
+[WhiteElo "2805"]
+[WhiteTitle "GM"]
+[WhiteCountry "CHN"]
+[WhiteFideId "8603677"]
+[BlackElo "2774"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+[BlackFideId "4168119"]
+
+*
+
+[Event "FIDE Candidates Tournament"]
+[Site "chess24.com"]
+[Date "2020.04.03"]
+[Round "14"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Wang, Hao"]
+[Result "*"]
+[Board "4"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[WhiteCountry "FRA"]
+[WhiteFideId "623539"]
+[BlackTitle "GM"]
+[BlackElo "2762"]
+[BlackCountry "CHN"]
+[BlackFideId "8602883"]
+
+*
+
+[Event "FIDE Online Olympiad Final 2020 "]
+[Site "chess.com"]
+[Date "2020.08.30"]
+[Round "1"]
+[White "Gujrati, Vidit"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteCountry "IND"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+
+d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Qd2 Qa5 9. Nf3 O-O 10. Rc1 Bg4 11. d5 b5 12. Bxc5 Rc8 13. Bb4 Qc7 14. Nd4 a5 15. Ba3 b4 
+16. Bb2 Qb6 17. Bb5 e5 18. dxe6 Bxe6 19. Nxe6 fxe6 20. c4 Bxb2 21. Qxb2 Nc6 22. Qf6 Nd4 23. Bd7 Rf8 24. Qe5 Rxf2 25. Kxf2 Rf8+ 26. Ke3 Nf5+ 27. Kd3 Qe3+ 28. Kc2 Nd4+
+29. Kb1 Qd3+ 30. Ka1 Rf2 31. Bxe6+ Kf8 32. Qd6+ Kg7 33. Qe7+ Kh8 34. Qd8+ Kg7 35. Qe7+ Kh8 36. Qd8+ Kg7 37. Qe7
+*
+
+[Event "FIDE Online Olympiad Final 2020 "]
+[Site "chess.com"]
+[Date "2020.08.30"]
+[Round "2"]
+[White "Anand, Vishwanathan"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[Board "1"]
+[WhiteTitle "GM"]
+[WhiteCountry "IND"]
+[BlackTitle "GM"]
+[BlackCountry "RUS"]
+
+e4 e5 2.nf3 nc6 3.bc4 bc5  4.0-0 nf6  5.d3 d6  6.c3 a6  7.a4 h6  8.Nbd2 0-0  9.h3 a5  10.Re1 be6  11.b3 Re8   12.Bb5 Bd7  13.Bb2 Ba7  14.Nf1 Nb6 15.Bxd7 Nbxd7 
+16.Ng3 d5  17.Qc2 c6  18.Rad1 qc7  19.Nf5 Rad8  20.b4 Nf8  21.Bc1 Ne6 22.g3 b5  23.Axb5 Cxb5  24.bxa5 dxe4  25.dxe4 rxd1  26.rxd1 bc5  27.be3 ra8  28. ra1 bxe3
+29.nxe3 rxa5  30.rxa5 qxa5  31.nd5 qa4  32.nxf6+ gxf6  33.Qd3 Ng5  34.Nxg5 hxg5  35.Kg2 Qb3  36.Qf3 kg7  37.h4 gxh4 38.gxh4 b4 39.cxb4 Qxb4 40.Qg4+Kh7 41.Qf5+Kg7 42.Qg4+Kh7 43.Qf5+Kg7
+44. Qg4+
+*
