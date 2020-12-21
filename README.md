@@ -17,6 +17,7 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 * [Notations](#notations)
 * [Pieces](#pieces)
 * [Chess boards](#chess-boards)
+* [Chess clocks](#chess-clocks)
 * [Move's validations](#moves-validations)
 * [Projects](#projects)
 * [Websites](#websites)
@@ -75,6 +76,11 @@ International:
 * [jchess](https://github.com/bmarini/jchess) - A jQuery-based JavaScript library for parsing and displaying chess games, repo on GitHub.
 * [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions, repo on GitHub.
 
+## Chess clocks
+* [Chess Clock](https://play.google.com/store/apps/details?id=com.chess.clock&hl=en&gl=US) - Chess clock by Chess.com on Google Play.
+* [Chess clock](https://www.online-stopwatch.com/chess-clock/) - Chess clock by Online Stopwatch.
+* [Chess timer](https://www.timeme.com/chess-timer.htm) - Chess timer by TimeMe.
+
 ## Move's validations
 
 * [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
@@ -86,6 +92,7 @@ Repos
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
 * [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
 * [FlutterChess](https://github.com/deven98/FlutterChess) - A concept chess app for Flutter.
+* [AndroidChessClock](https://github.com/johnwilde/AndroidChessClock) - Simple chess clock for Android.
 
 ## Websites
 Chess online for instance.
