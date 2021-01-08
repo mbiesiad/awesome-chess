@@ -93,6 +93,13 @@ Repos
 * [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
 * [FlutterChess](https://github.com/deven98/FlutterChess) - A concept chess app for Flutter.
 * [AndroidChessClock](https://github.com/johnwilde/AndroidChessClock) - Simple chess clock for Android.
+* [Lila](https://github.com/ornicar/lila) - A free online chess game server focused on realtime gameplay and ease of use.
+* [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
+* [python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
+* [Lichobile](https://github.com/veloce/lichobile) - Lichess.org mobile application.
+* [Game Server](https://github.com/jzyong/game-server) - Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools.
+* [Tensorflow_chessbot](https://github.com/Elucidation/tensorflow_chessbot) - Predict chessboard FEN layouts from images using TensorFlow.
+* [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) - A Python program to play chess against an AI in the terminal.
 
 ## Websites
 Chess online for instance.
