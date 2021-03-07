@@ -124,7 +124,7 @@ Chess online for instance.
 
 **Europe:**
 
-* [ECU](www.europechess.org) - European Chess Union.
+* [ECU](https://www.europechess.org) - European Chess Union.
 * [ECF](https://www.englishchess.org.uk/) - English Chess Federation.
 * [PZSzach](http://pzszach.pl/) - The Polish Chess Federation.
 * [DSB](https://www.schachbund.de/) - German Chess Federation.
