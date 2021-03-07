@@ -170,6 +170,7 @@ Chess online for instance.
 * [Chess prodigy](https://en.wikipedia.org/wiki/Chess_prodigy) - Site about Chess prodigy by Wikipedia.
 * [Chess titles](https://en.wikipedia.org/wiki/Chess_title) - Chess titles by Wikipedia.
 * [UCI Engines](http://www.sdchess.ru/Engines_UCI_top.htm) - List of the top UCI (Universal Chess Interface) Engines.
+* [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 
 ## Other types
 
