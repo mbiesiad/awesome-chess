@@ -195,6 +195,7 @@ Chess online for instance.
 * [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
 * [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
 * [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
+* [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
 
 ## Movies
 
