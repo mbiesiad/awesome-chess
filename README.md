@@ -119,6 +119,7 @@ Chess online for instance.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
 * [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
 * [Chess-Results](https://chess-results.com/) - The international chess tournaments results server.
+* [Chessdom](https://www.chessdom.com/) - The global chess news site.
 
 ## National chess federations
 
@@ -196,6 +197,7 @@ Chess online for instance.
 * [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
 * [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
+* [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
 
 ## Movies
 
