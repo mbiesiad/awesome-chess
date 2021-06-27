@@ -120,6 +120,7 @@ Chess online for instance.
 * [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
 * [Chess-Results](https://chess-results.com/) - The international chess tournaments results server.
 * [Chessdom](https://www.chessdom.com/) - The global chess news site.
+* [ChessManager](https://www.chessmanager.com/) - An online app created for arbiters and chess tournament organizers.
 
 ## National chess federations
 
