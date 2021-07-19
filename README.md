@@ -81,6 +81,7 @@ International:
 * [Chess Clock](https://play.google.com/store/apps/details?id=com.chess.clock&hl=en&gl=US) - Chess clock by Chess.com on Google Play.
 * [Chess clock](https://www.online-stopwatch.com/chess-clock/) - Chess clock by Online Stopwatch.
 * [Chess timer](https://www.timeme.com/chess-timer.htm) - Chess timer by TimeMe.
+* [Chess-Clock](https://github.com/Tuhaj/Chess-Clock) - Well-prepared chess timer by Tuhaj which helps during play of board games like chess or scrabble.
 
 ## Move's validations
 
