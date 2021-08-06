@@ -148,7 +148,7 @@ Chess online for instance.
 
 **North America:**
 
-* USCF - The United States Chess Federation.
+* [USCF](https://new.uschess.org/) - The United States Chess Federation.
 
 **Africa:**
 
