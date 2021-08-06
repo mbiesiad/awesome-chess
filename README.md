@@ -44,7 +44,7 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
 ## Chess computers
 
-* [Deep Blue](www.chessgames.com/perl/chessplayer?pid=29912) - Chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
+* [Deep Blue](https://www.chessgames.com/perl/chessplayer?pid=29912) - Chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
 * Belle - Chess computer developed by Joe Condon (hardware) and Ken Thompson (software) at Bell Labs. In 1983, it was the first machine to achieve master-level play, with a USCF rating of 2250.
 * [AlphaZero](https://www.chessprogramming.org/AlphaZero) - AlphaZero is a computer program developed by artificial intelligence research company DeepMind to master the games of chess, shogi and go. Chessprogramming wiki on AlphaZero.
 
