@@ -64,7 +64,7 @@ International:
 
 ## Notations
 
-* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation.
+* [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) - Portable Game Notation.
 * [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation.
 
 ## Pieces
