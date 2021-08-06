@@ -142,9 +142,9 @@ Chess online for instance.
 
 **Asia:**
 
-* [CCA](http://cca.imsa.cn/) - Chinese Chess Association.
+* CCA - Chinese Chess Association.
 * [JCA](http://www.jca-chess.com/) - The Japan Chess Association.
-* [AICF](http://www.aicf.in/) - The All India Chess Federation.
+* AICF - The All India Chess Federation.
 
 **North America:**
 
