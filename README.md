@@ -61,6 +61,7 @@ International:
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
 * [FIDE Handbook](https://www.fide.com/fide/handbook.html) - Handbook by FIDE.
+* [FIDE World Cup](https://worldcup.fide.com/) - Official site of the FIDE World Cup.
 
 ## Notations
 
