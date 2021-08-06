@@ -144,7 +144,7 @@ Chess online for instance.
 
 * CCA - Chinese Chess Association.
 * [JCA](http://www.jca-chess.com/) - The Japan Chess Association.
-* AICF - The All India Chess Federation.
+* [AICF](https://aicf.in/) - The All India Chess Federation.
 
 **North America:**
 
