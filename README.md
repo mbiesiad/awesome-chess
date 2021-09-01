@@ -201,6 +201,7 @@ Chess online for instance.
 * [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
 * [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
+* [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
 
 ## Movies
 
