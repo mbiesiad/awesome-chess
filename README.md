@@ -17,6 +17,7 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 * [Notations](#notations)
 * [Pieces](#pieces)
 * [Chess boards](#chess-boards)
+* [Chess clocks](#chess-clocks)
 * [Move's validations](#moves-validations)
 * [Projects](#projects)
 * [Websites](#websites)
@@ -43,8 +44,9 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
 ## Chess computers
 
-* [Deep Blue](www.chessgames.com/perl/chessplayer?pid=29912) - Chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
+* [Deep Blue](https://www.chessgames.com/perl/chessplayer?pid=29912) - Chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
 * Belle - Chess computer developed by Joe Condon (hardware) and Ken Thompson (software) at Bell Labs. In 1983, it was the first machine to achieve master-level play, with a USCF rating of 2250.
+* [AlphaZero](https://www.chessprogramming.org/AlphaZero) - AlphaZero is a computer program developed by artificial intelligence research company DeepMind to master the games of chess, shogi and go. Chessprogramming wiki on AlphaZero.
 
 ## Books
 
@@ -59,10 +61,11 @@ International:
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
 * [FIDE Handbook](https://www.fide.com/fide/handbook.html) - Handbook by FIDE.
+* [FIDE World Cup](https://worldcup.fide.com/) - Official site of the FIDE World Cup.
 
 ## Notations
 
-* [PGN](http://portablegamenotation.com/LittlePGN.html) - Portable Game Notation.
+* [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) - Portable Game Notation.
 * [AN](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) - Algebraic notation.
 
 ## Pieces
@@ -75,6 +78,12 @@ International:
 * [jchess](https://github.com/bmarini/jchess) - A jQuery-based JavaScript library for parsing and displaying chess games, repo on GitHub.
 * [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions, repo on GitHub.
 
+## Chess clocks
+* [Chess Clock](https://play.google.com/store/apps/details?id=com.chess.clock&hl=en&gl=US) - Chess clock by Chess.com on Google Play.
+* [Chess clock](https://www.online-stopwatch.com/chess-clock/) - Chess clock by Online Stopwatch.
+* [Chess timer](https://www.timeme.com/chess-timer.htm) - Chess timer by TimeMe.
+* [Chess-Clock](https://github.com/Tuhaj/Chess-Clock) - Well-prepared chess timer by Tuhaj which helps during play of board games like chess or scrabble.
+
 ## Move's validations
 
 * [chess.js](https://github.com/jhlywa/chess.js) - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
@@ -86,6 +95,14 @@ Repos
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) - Chessboard directive for AngularJS.
 * [PyChess](https://github.com/pychess/pychess) - A chess client for Linux/Windows.
 * [FlutterChess](https://github.com/deven98/FlutterChess) - A concept chess app for Flutter.
+* [AndroidChessClock](https://github.com/johnwilde/AndroidChessClock) - Simple chess clock for Android.
+* [Lila](https://github.com/ornicar/lila) - A free online chess game server focused on realtime gameplay and ease of use.
+* [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
+* [python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
+* [Lichobile](https://github.com/veloce/lichobile) - Lichess.org mobile application.
+* [Game Server](https://github.com/jzyong/game-server) - Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools.
+* [Tensorflow_chessbot](https://github.com/Elucidation/tensorflow_chessbot) - Predict chessboard FEN layouts from images using TensorFlow.
+* [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) - A Python program to play chess against an AI in the terminal.
 
 ## Websites
 Chess online for instance.
@@ -104,12 +121,14 @@ Chess online for instance.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
 * [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
 * [Chess-Results](https://chess-results.com/) - The international chess tournaments results server.
+* [Chessdom](https://www.chessdom.com/) - The global chess news site.
+* [ChessManager](https://www.chessmanager.com/) - An online app created for arbiters and chess tournament organizers.
 
 ## National chess federations
 
 **Europe:**
 
-* [ECU](www.europechess.org) - European Chess Union.
+* [ECU](https://www.europechess.org) - European Chess Union.
 * [ECF](https://www.englishchess.org.uk/) - English Chess Federation.
 * [PZSzach](http://pzszach.pl/) - The Polish Chess Federation.
 * [DSB](https://www.schachbund.de/) - German Chess Federation.
@@ -124,13 +143,13 @@ Chess online for instance.
 
 **Asia:**
 
-* [CCA](http://cca.imsa.cn/) - Chinese Chess Association.
+* CCA - Chinese Chess Association.
 * [JCA](http://www.jca-chess.com/) - The Japan Chess Association.
-* [AICF](http://www.aicf.in/) - The All India Chess Federation.
+* [AICF](https://aicf.in/) - The All India Chess Federation.
 
 **North America:**
 
-* [USCF](https://www.uschess.org/index.php) - The United States Chess Federation.
+* [USCF](https://new.uschess.org/) - The United States Chess Federation.
 
 **Africa:**
 
@@ -156,6 +175,8 @@ Chess online for instance.
 * [Chess prodigy](https://en.wikipedia.org/wiki/Chess_prodigy) - Site about Chess prodigy by Wikipedia.
 * [Chess titles](https://en.wikipedia.org/wiki/Chess_title) - Chess titles by Wikipedia.
 * [UCI Engines](http://www.sdchess.ru/Engines_UCI_top.htm) - List of the top UCI (Universal Chess Interface) Engines.
+* [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
+* [365Chess](https://www.365chess.com/) - The biggest online chess games database.
 
 ## Other types
 
@@ -178,6 +199,9 @@ Chess online for instance.
 * [Altibox Norway Chess](https://norwaychess.no/) - One of the world's strongest chess tournament.
 * [Global Chess Festival](http://www.globalchessfestival.com/) - A prestigious chess event.
 * [EOBCC](https://tornelo.com/chess/orgs/europechess/events/eobcc-2020-only-for-players-2300-fide-rating/lobby) - European Online Blitz Chess Championship.
+* [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
+* [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
+* [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
 
 ## Movies
 
