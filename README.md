@@ -123,6 +123,9 @@ Chess online for instance.
 * [Chess-Results](https://chess-results.com/) - The international chess tournaments results server.
 * [Chessdom](https://www.chessdom.com/) - The global chess news site.
 * [ChessManager](https://www.chessmanager.com/) - An online app created for arbiters and chess tournament organizers.
+* [Internet Chess Club](https://www.chessclub.com/) - ICC is a commercial Internet chess server devoted to the play and discussion of chess and chess variants.
+* [Playchess](http://playchess.com/) - A commercial Internet chess server managed by ChessBase devoted to the play and discussion of chess and chess variants.
+* [GameKnot](https://gameknot.com/) - A news, strategy, and community site for chess players, offering multiple forms of competition via chess tournaments, ladders and more.
 
 ## National chess federations
 
