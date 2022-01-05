@@ -27,6 +27,7 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 * [Conferences](#conferences)
 * [Tournaments](#tournaments)
 * [Movies](#movies)
+* [Articles](#articles)
 * [Code of Conduct](#code-of-conduct)
 
 ## Translations
@@ -212,6 +213,9 @@ Chess online for instance.
 * [Magnus](https://www.imdb.com/title/tt5471480/) - Movie about Magnus Carlsen, Norwegian chess prodigy.
 * [Bobby Fischer Against the World](https://www.imdb.com/title/tt1777551/) - A documentary feature film that explores the life of chess Grandmaster Bobby Fischer.
 * [The Queen's Gambit](https://www.imdb.com/title/tt10048342/) - An American drama television miniseries based on Walter Tevis's 1983 novel of the same name.
+
+## Articles
+
 
 ## Contributing
 
