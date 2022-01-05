@@ -216,6 +216,7 @@ Chess online for instance.
 
 ## Articles
 
+* [The World Chess Championship In 5 Charts](https://fivethirtyeight.com/features/the-world-chess-championship-in-5-charts/) - Article about the 2021 World Chess Championship on FiveThirtyEight.
 
 ## Contributing
 
