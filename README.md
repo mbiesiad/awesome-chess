@@ -2,7 +2,7 @@
 
 A curated list of assets available on the Internet related to the Western chess. "Gens una sumus"!
 
-![chess](https://github.com/mbiesiad/awesome-chess/blob/master/media/chess.png)
+![chess](/media/chess.png)
 
 _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
