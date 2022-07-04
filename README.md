@@ -181,6 +181,7 @@ Chess online for instance.
 * [UCI Engines](http://www.sdchess.ru/Engines_UCI_top.htm) - List of the top UCI (Universal Chess Interface) Engines.
 * [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
+* [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
 
 ## Other types
 
