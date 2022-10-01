@@ -222,6 +222,9 @@ Chess online for instance.
 
 ## APIs
 
+* [Lichess.org API reference](https://lichess.org/api) - Lichess.org API.
+* [Chess.com PubAPI](https://www.chess.com/news/view/published-data-api) - A read-only REST API that responds with JSON-LD data.
+
 ## Contributing
 
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
