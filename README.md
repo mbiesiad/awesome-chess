@@ -28,6 +28,7 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 * [Tournaments](#tournaments)
 * [Movies](#movies)
 * [Articles](#articles)
+* [APIs](#apis)
 * [Code of Conduct](#code-of-conduct)
 
 ## Translations
@@ -218,6 +219,8 @@ Chess online for instance.
 ## Articles
 
 * [The World Chess Championship In 5 Charts](https://fivethirtyeight.com/features/the-world-chess-championship-in-5-charts/) - Article about the 2021 World Chess Championship on FiveThirtyEight.
+
+## APIs
 
 ## Contributing
 
