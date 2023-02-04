@@ -185,6 +185,7 @@ Chess online for instance.
 * [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
 * [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
+* [Chess Pursuit](https://github.com/Saturnyn/ChessPursuit) - The project where idea was to turn the chess game upside down, making it an action game instead of a strategy game.
 
 ## Other types
 
