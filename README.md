@@ -142,7 +142,6 @@ Chess online for instance.
 * [GCF](http://www.gcf.org.ge/en) - Georgian Chess Federation.
 * [Chess.cZ](https://www.chess.cz/) - Chess Association of the Czech Republic.
 * [FEDA](https://feda.org/) - Spanish Chess Federation.
-* [Russian Chess Federation](http://www.ruchess.ru/en/) - Russian Chess Federation (English lang. site).
 * [MSSz](http://www.chess.hu/) - The Hungarian Chess Federation.
 * [NSF](http://www.sjakk.no/) - The Norwegian Chess Federation.
 * [FSI](http://www.federscacchi.it/) - The Italian Chess Federation.
@@ -157,6 +156,7 @@ Chess online for instance.
 **North America:**
 
 * [USCF](https://new.uschess.org/) - The United States Chess Federation.
+* [CFC](https://www.chess.ca/en/) - Chess Federation of Canada.
 
 **Africa:**
 
