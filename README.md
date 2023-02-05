@@ -142,7 +142,6 @@ Chess online for instance.
 * [GCF](http://www.gcf.org.ge/en) - Georgian Chess Federation.
 * [Chess.cZ](https://www.chess.cz/) - Chess Association of the Czech Republic.
 * [FEDA](https://feda.org/) - Spanish Chess Federation.
-* [Russian Chess Federation](http://www.ruchess.ru/en/) - Russian Chess Federation (English lang. site).
 * [MSSz](http://www.chess.hu/) - The Hungarian Chess Federation.
 * [NSF](http://www.sjakk.no/) - The Norwegian Chess Federation.
 * [FSI](http://www.federscacchi.it/) - The Italian Chess Federation.
@@ -157,6 +156,7 @@ Chess online for instance.
 **North America:**
 
 * [USCF](https://new.uschess.org/) - The United States Chess Federation.
+* [CFC](https://www.chess.ca/en/) - Chess Federation of Canada.
 
 **Africa:**
 
@@ -186,6 +186,7 @@ Chess online for instance.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
 * [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
 * [Chess Pursuit](https://github.com/Saturnyn/ChessPursuit) - The project where idea was to turn the chess game upside down, making it an action game instead of a strategy game.
+* [Online bots - lichess.org](https://lichess.org/player/bots) -  A human-like neural network chess engines and other.
 
 ## Other types
 
