@@ -130,6 +130,7 @@ Chess online for instance.
 * [GameKnot](https://gameknot.com/) - A news, strategy, and community site for chess players, offering multiple forms of competition via chess tournaments, ladders and more.
 * [The FIDE Online Arena](https://chessarena.com/) - The official International Chess Federation (FIDE) gaming platform.
 * [Chessable](https://www.chessable.com/) - Site which uses science-backed learning techniques to help boost player retention.
+* [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
 
 ## National chess federations
 
