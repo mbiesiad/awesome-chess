@@ -131,6 +131,8 @@ Chess online for instance.
 * [The FIDE Online Arena](https://chessarena.com/) - The official International Chess Federation (FIDE) gaming platform.
 * [Chessable](https://www.chessable.com/) - Site which uses science-backed learning techniques to help boost player retention.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
+* [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
+* [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
 
 ## National chess federations
 
