@@ -38,11 +38,12 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
 ## Chess engines
 
-* [Stochfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
-* [Stochfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub.
-* [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for Chessbase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
+* [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub.
+* [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for ChessBase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
 * [GNU Chess](http://www.gnu.org/software/chess/) - A free software chess engine which plays a full game of chess against a human being or other computer program. The goal of GNU Chess is to serve as a basis for research. It has been used in numerous research contexts.
 * [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - A free, open-source, and neural network-based chess engine and distributed computing project.
+* [Caissa](https://github.com/Witek902/Caissa) - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 
 ## Chess computers
 
@@ -215,6 +216,9 @@ Chess online for instance.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
 * [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
 * [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
+
+## Online Tournamets
+* [Titled Tuesday](https://www.chess.com/article/view/titled-tuesday-alle-informationen) - Chess.com's weekly 11-round Swiss tournament for titled players, occurring twice each Tuesday since February 1, 2022. Early Titled Tuesday: 8 a.m. PT/17:00 CET. Late Titled Tuesday: 2 p.m. PT/23:00 CET. 
 
 ## Movies
 
