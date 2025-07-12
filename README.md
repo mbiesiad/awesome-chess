@@ -63,7 +63,7 @@ International:
 ## FIDE
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
-* [FIDE Handbook](https://www.fide.com/fide/handbook.html) - Handbook by FIDE.
+* [FIDE Handbook](https://handbook.fide.com/) - Handbook by FIDE.
 * [FIDE World Cup](https://worldcup.fide.com/) - Official site of the FIDE World Cup.
 
 ## Notations
@@ -115,10 +115,8 @@ Chess online for instance.
 * [freechess.org](http://freechess.org/) - Free Internet Chess Server (FICS).
 * [kurnik.pl/szachy](https://www.kurnik.pl/szachy/) - Games online, chess section.
 * [ichess](https://www.ichess.net/) - Chess courses & videos.
-* [chesscorner](http://www.chesscorner.com/index.html) - Chess site created by a chess enthusiast for chess enthusiasts, especially those new to this fascinating game.
 * [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
 * [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
-* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
@@ -154,7 +152,6 @@ Chess online for instance.
 **Asia:**
 
 * CCA - Chinese Chess Association.
-* [JCA](http://www.jca-chess.com/) - The Japan Chess Association.
 * [AICF](https://aicf.in/) - The All India Chess Federation.
 
 **North America:**
@@ -177,15 +174,12 @@ Chess online for instance.
 * [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games.
 * [Robot Chess](https://devpost.com/software/robot-chess) - Leap Motion chess game.
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot) - Voice controlled chess robot.
-* [Apple Chess](https://opensource.apple.com/source/Chess/) - A 3D chess game for macOS, developed by Apple Inc.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
-* [Play Magnus](https://company.playmagnus.com/play-magnus) - App with GM Magnus Carlsen (App Store & Google Play).
 * [Judit Polgar](https://www.juditpolgar.com/) - GM Judit Polgar page.
 * [Hikaru Nakamura](https://hikarunakamura.com/) - GM Hikaru Nakamura page.
-* [Magnus Carlsen](https://www.magnuscarlsen.com/en/) - GM Magnus Carlsen page.
+* [Magnus Carlsen](https://www.magnuscarlsen.com/) - GM Magnus Carlsen page.
 * [Chess prodigy](https://en.wikipedia.org/wiki/Chess_prodigy) - Site about Chess prodigy by Wikipedia.
 * [Chess titles](https://en.wikipedia.org/wiki/Chess_title) - Chess titles by Wikipedia.
-* [UCI Engines](http://www.sdchess.ru/Engines_UCI_top.htm) - List of the top UCI (Universal Chess Interface) Engines.
 * [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
 * [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
