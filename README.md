@@ -38,11 +38,12 @@ _Source: https://unsplash.com/photos/7SjEuEF06Zw by: Hassan Pasha (free to use)_
 
 ## Chess engines
 
-* [Stochfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
-* [Stochfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub.
-* [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for Chessbase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
+* [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) - UCI chess engine. Repo on GitHub.
+* [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for ChessBase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
 * [GNU Chess](http://www.gnu.org/software/chess/) - A free software chess engine which plays a full game of chess against a human being or other computer program. The goal of GNU Chess is to serve as a basis for research. It has been used in numerous research contexts.
 * [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - A free, open-source, and neural network-based chess engine and distributed computing project.
+* [Caissa](https://github.com/Witek902/Caissa) - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 
 ## Chess computers
 
@@ -62,7 +63,7 @@ International:
 ## FIDE
 
 * [FIDE](https://www.fide.com/) - The Fédération Internationale des Échecs (translated as International Chess Federation or World Chess Federation).
-* [FIDE Handbook](https://www.fide.com/fide/handbook.html) - Handbook by FIDE.
+* [FIDE Handbook](https://handbook.fide.com/) - Handbook by FIDE.
 * [FIDE World Cup](https://worldcup.fide.com/) - Official site of the FIDE World Cup.
 
 ## Notations
@@ -114,10 +115,8 @@ Chess online for instance.
 * [freechess.org](http://freechess.org/) - Free Internet Chess Server (FICS).
 * [kurnik.pl/szachy](https://www.kurnik.pl/szachy/) - Games online, chess section.
 * [ichess](https://www.ichess.net/) - Chess courses & videos.
-* [chesscorner](http://www.chesscorner.com/index.html) - Chess site created by a chess enthusiast for chess enthusiasts, especially those new to this fascinating game.
 * [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
 * [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
-* [checkmatecoronavirus](https://checkmatecoronavirus.com/) - Chess tournaments online.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
@@ -131,6 +130,8 @@ Chess online for instance.
 * [The FIDE Online Arena](https://chessarena.com/) - The official International Chess Federation (FIDE) gaming platform.
 * [Chessable](https://www.chessable.com/) - Site which uses science-backed learning techniques to help boost player retention.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
+* [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
+* [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
 
 ## National chess federations
 
@@ -151,7 +152,6 @@ Chess online for instance.
 **Asia:**
 
 * CCA - Chinese Chess Association.
-* [JCA](http://www.jca-chess.com/) - The Japan Chess Association.
 * [AICF](https://aicf.in/) - The All India Chess Federation.
 
 **North America:**
@@ -174,15 +174,12 @@ Chess online for instance.
 * [Bitboard](https://en.wikipedia.org/wiki/Bitboard#Chess_bitboards) - A bitboard is a specialized bit array data structure commonly used in computer systems that play board games.
 * [Robot Chess](https://devpost.com/software/robot-chess) - Leap Motion chess game.
 * [CarlsenBot](https://hackaday.com/2013/05/09/voice-controlled-chess-robot) - Voice controlled chess robot.
-* [Apple Chess](https://opensource.apple.com/source/Chess/) - A 3D chess game for macOS, developed by Apple Inc.
 * [lichess in Crowdin](https://crowdin.com/project/lichess) - Lichess' translations in Crowdin.
-* [Play Magnus](https://company.playmagnus.com/play-magnus) - App with GM Magnus Carlsen (App Store & Google Play).
 * [Judit Polgar](https://www.juditpolgar.com/) - GM Judit Polgar page.
 * [Hikaru Nakamura](https://hikarunakamura.com/) - GM Hikaru Nakamura page.
-* [Magnus Carlsen](https://www.magnuscarlsen.com/en/) - GM Magnus Carlsen page.
+* [Magnus Carlsen](https://www.magnuscarlsen.com/) - GM Magnus Carlsen page.
 * [Chess prodigy](https://en.wikipedia.org/wiki/Chess_prodigy) - Site about Chess prodigy by Wikipedia.
 * [Chess titles](https://en.wikipedia.org/wiki/Chess_title) - Chess titles by Wikipedia.
-* [UCI Engines](http://www.sdchess.ru/Engines_UCI_top.htm) - List of the top UCI (Universal Chess Interface) Engines.
 * [Chess Programming Wiki](https://www.chessprogramming.org) - The Chess Programming Wiki is a repository of information about programming computers to play chess.
 * [365Chess](https://www.365chess.com/) - The biggest online chess games database.
 * [Chess Journal](https://www.chessjournal.com/) - A free resource for chess players to learn and master the game of chess.
@@ -213,6 +210,9 @@ Chess online for instance.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
 * [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
 * [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
+
+## Online Tournamets
+* [Titled Tuesday](https://www.chess.com/article/view/titled-tuesday-alle-informationen) - Chess.com's weekly 11-round Swiss tournament for titled players, occurring twice each Tuesday since February 1, 2022. Early Titled Tuesday: 8 a.m. PT/17:00 CET. Late Titled Tuesday: 2 p.m. PT/23:00 CET. 
 
 ## Movies
 
