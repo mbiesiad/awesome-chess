@@ -108,6 +108,8 @@ Repos
 * [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) - A Python program to play chess against an AI in the terminal.
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) - Project about encrypting files into large sets of Chess games stored in PGN format.
+* [macbase](https://github.com/joe-ging/macbase) - A free, native macOS chess analysis platform and database, powered by Stockfish and TWIC.
+
 * [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, UCI integration and more. Runs on UNIX-like platforms.
 
 ## Websites
