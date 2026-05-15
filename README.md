@@ -135,6 +135,7 @@ Chess online for instance.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
 * [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
 * [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
+* [TourneyRadar](https://tourneyradar.com) - Interactive world map of upcoming chess tournaments aggregated from 140+ national federations, with filters for country, time control, and FIDE rating status.
 
 ## National chess federations
 
@@ -213,6 +214,7 @@ Chess online for instance.
 * [Meltwater Champions Chess Tour](https://championschesstour.com/) - A series of 9 tournaments throughout 2021 with the top players of the world.
 * [TCEC](https://tcec-chess.com/) - Top Chess Engine Championship is a computer chess tournament organized and maintained by Chessdom in cooperation with Chessdom Arena.
 * [GCT](https://grandchesstour.org/) - The Grand Chess Tour is a circuit of chess tournaments.
+* [TourneyRadar](https://tourneyradar.com) - Interactive world map of upcoming chess tournaments aggregated from 140+ national federations, with filters for country, time control, and FIDE rating status.
 
 ## Online Tournamets
 * [Titled Tuesday](https://www.chess.com/article/view/titled-tuesday-alle-informationen) - Chess.com's weekly 11-round Swiss tournament for titled players, occurring twice each Tuesday since February 1, 2022. Early Titled Tuesday: 8 a.m. PT/17:00 CET. Late Titled Tuesday: 2 p.m. PT/23:00 CET. 
@@ -232,6 +234,8 @@ Chess online for instance.
 
 * [Lichess.org API reference](https://lichess.org/api) - Lichess.org API.
 * [Chess.com PubAPI](https://www.chess.com/news/view/published-data-api) - A read-only REST API that responds with JSON-LD data.
+* [TourneyRadar API](https://tourneyradar-api.vercel.app) - Free, no-auth REST API returning upcoming chess tournaments from 140+ national federations worldwide.
+
 
 ## Contributing
 
