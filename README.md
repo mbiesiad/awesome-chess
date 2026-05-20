@@ -109,6 +109,8 @@ Repos
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) - Project about encrypting files into large sets of Chess games stored in PGN format.
 * [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, UCI integration and more. Runs on UNIX-like platforms.
+* [nnue-pytorch](https://github.com/official-stockfish/nnue-pytorch) - The official PyTorch training pipeline for Stockfish's NNUE (Efficiently Updatable Neural Network) evaluation function.
+* [fishtest](https://github.com/glinscott/fishtest) - The distributed volunteer computing framework and worker queue used to validate and scale testing for Stockfish chess engine commits.
 
 ## Websites
 Chess online for instance.
