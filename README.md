@@ -135,6 +135,7 @@ Chess online for instance.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
 * [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
 * [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
+* [Royal Shuffle Chess960 dataset](https://ch960.com/nomenclature) - Free CC0 dataset (JSON/CSV) classifying all 960 Chess960 starting positions into six board-fact families, with a nomenclature glossary.
 
 ## National chess federations
 
