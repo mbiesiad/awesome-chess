@@ -121,6 +121,7 @@ Chess online for instance.
 * [chessgames](https://www.chessgames.com) - Online PGN chess game database and chess learning community.
 * [worldchess.com](http://worldchess.com/) - Official FIDE broadcasting platform.
 * [chessmatec.com](https://www.chessmatec.com/) - Chess for Kids, an all-in-one chess learning platform for kids (endorsed by the FIDE).
+* [ahamate.app](https://ahamate.app/) - AhaMate, a free one-move chess game for families on one phone: a child learns a fairy-piece secret (Amazon, Cannon, Grasshopper) and builds a trap for a grown-up; no account, no ads.
 * [chesslang](https://chesslang.com/) - A platform for chess academies.
 * [infoszach](https://infoszach.pl/) - Site with news about chess (Polish lang.).
 * [ChessBase](https://en.chessbase.com/) - Reports about chess - tournaments, championships, portraits, interviews, World Championships, product launches and more.
