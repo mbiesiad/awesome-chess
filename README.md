@@ -109,6 +109,7 @@ Repos
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) - Project about encrypting files into large sets of Chess games stored in PGN format.
 * [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, UCI integration and more. Runs on UNIX-like platforms.
+* [Stockfish Continue to Play](https://github.com/thousandflowers/stockfish-continue-to-play) - Browser extension to keep playing a finished Chess.com game against Stockfish, in-page.
 
 ## Websites
 Chess online for instance.
