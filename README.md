@@ -86,6 +86,7 @@ International:
 * [Chess clock](https://www.online-stopwatch.com/chess-clock/) - Chess clock by Online Stopwatch.
 * [Chess timer](https://www.timeme.com/chess-timer.htm) - Chess timer by TimeMe.
 * [Chess-Clock](https://github.com/Tuhaj/Chess-Clock) - Well-prepared chess timer by Tuhaj which helps during play of board games like chess or scrabble.
+* [Chess clock](https://www.chessigma.com/tools/chess-clock) - Free online chess clock by Chessigma with presets, custom time, increment and delay.
 
 ## Move's validations
 
