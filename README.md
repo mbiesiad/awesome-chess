@@ -109,6 +109,7 @@ Repos
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) - Project about encrypting files into large sets of Chess games stored in PGN format.
 * [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, UCI integration and more. Runs on UNIX-like platforms.
+* [Pragma Chess](https://github.com/francescobianco/pragma-chess) - An open-source chess database for studying, training and playing: PGN/lichess/chess.com import, UCI analysis with an "Explain" feature, training with a tutor, Polyglot books, lichess play. Windows, macOS, Linux.
 
 ## Websites
 Chess online for instance.
