@@ -100,6 +100,7 @@ Repos
 * [FlutterChess](https://github.com/deven98/FlutterChess) - A concept chess app for Flutter.
 * [AndroidChessClock](https://github.com/johnwilde/AndroidChessClock) - Simple chess clock for Android.
 * [Lila](https://github.com/ornicar/lila) - A free online chess game server focused on realtime gameplay and ease of use.
+* [Patzer](https://github.com/SikamikanikoBG/patzer) - Your private Chess.com. Self-hosted, AI-coached, family-friendly. Stockfish + your own LLM (Ollama or vLLM), in one Docker container.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
 * [python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Lichobile](https://github.com/veloce/lichobile) - Lichess.org mobile application.
