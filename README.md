@@ -86,6 +86,8 @@ International:
 * [Chess clock](https://www.online-stopwatch.com/chess-clock/) - Chess clock by Online Stopwatch.
 * [Chess timer](https://www.timeme.com/chess-timer.htm) - Chess timer by TimeMe.
 * [Chess-Clock](https://github.com/Tuhaj/Chess-Clock) - Well-prepared chess timer by Tuhaj which helps during play of board games like chess or scrabble.
+* [Chess Clock & Scorepad](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.chessclockscorepad) - Free Android chess clock with increment and delay that also records the game move by move and exports it as PGN.
+* [Online chess clock](https://illuminationdevelopment.com/tools/online-chess-clock) - Free browser chess clock for one phone or laptop, with increment, delay and Bronstein.
 
 ## Move's validations
 
