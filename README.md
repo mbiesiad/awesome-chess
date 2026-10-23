@@ -135,6 +135,7 @@ Chess online for instance.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
 * [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
 * [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
+- [Chess Next Move - Free Chess Move Calculator](https://chessnewmove.com/) - Free online tool that finds the best move in any chess position with instant engine analysis.
 
 ## National chess federations
 
