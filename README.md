@@ -109,6 +109,7 @@ Repos
 * [WintrChess](https://github.com/WintrCat/wintrchess) - A website that analyses Chess games with move classifications.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) - Project about encrypting files into large sets of Chess games stored in PGN format.
 * [ChessLab](https://tomscii.sig7.se/chesslab) - A desktop program for chess players and chess enthusiasts with 2D and 3D board views, PGN support, UCI integration and more. Runs on UNIX-like platforms.
+* [ChessCafe](https://getapps.cafe/app/chesscafe) - Free 3D chess for macOS and Windows where pieces animate every capture, with three engine strengths and hotseat play.
 
 ## Websites
 Chess online for instance.
