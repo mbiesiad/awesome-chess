@@ -192,6 +192,7 @@ Chess online for instance.
 ## Other types
 
 * [Xiangqi](https://www.xiangqi.com/) - Called Chinese chess.
+  * [ChineseChess](https://getapps.cafe/app/chinesechess) - Xiangqi game for macOS and Windows with a five-level engine and 3D or 2D boards.
 * [Shogi](https://en.wikipedia.org/wiki/Shogi) - Called Japanese chess.
 * [Janggi](https://en.wikipedia.org/wiki/Janggi) - Called Korean chess.
 * [Makruk](https://en.wikipedia.org/wiki/Makruk) - Called Thai chess.
