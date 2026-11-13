@@ -135,6 +135,7 @@ Chess online for instance.
 * [Noctie.ai](https://noctie.ai) – Practice chess against a humanlike chess bot and get feedback on your play.
 * [OpeningTrainer](https://openingtrainer.com) – Train openings by playing simulated games against the Lichess database.
 * [EndgameTrainer](https://endgametrainer.com) – 6000+ high-quality theoretical endgame positions.
+* [Paper Generals](https://papergenerals.com) - Free, no sign-up chess and xiangqi in the browser, with beginner lessons, daily puzzles and printables for kids (English and Chinese).
 
 ## National chess federations
 
